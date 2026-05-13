@@ -1,0 +1,23 @@
+{
+  "project_name": "CampusCare AI - Student Support Message Triage",
+  "task_type": "4-class text classification for educational support routing",
+  "important_note": "Educational prototype only. Not a clinical diagnostic or crisis-intervention tool.",
+  "labels": {
+    "normal": {
+      "meaning": "Positive/neutral student message or low support need",
+      "public_dataset_mapping": ["Normal"]
+    },
+    "academic_stress": {
+      "meaning": "Study pressure, deadlines, exam worry, burnout signals without urgent risk",
+      "public_dataset_mapping": ["Anxiety"]
+    },
+    "emotional_distress": {
+      "meaning": "Persistent sadness, hopelessness, isolation, emotional decline requiring counselor review",
+      "public_dataset_mapping": ["Depression"]
+    },
+    "urgent_human_review": {
+      "meaning": "Message suggests immediate safety concern and must be reviewed by a trained human immediately",
+      "public_dataset_mapping": ["Suicidal"]
+    }
+  }
+}

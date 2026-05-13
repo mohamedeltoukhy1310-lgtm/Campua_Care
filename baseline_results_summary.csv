@@ -1,0 +1,4 @@
+model,split,accuracy,macro_f1
+TFIDF_SGD_LogReg_baseline,val,1.0,1.0
+TFIDF_SGD_LogReg_baseline,test,1.0,1.0
+TFIDF_SGD_LogReg_baseline,challenge,0.865,0.8643315100704438

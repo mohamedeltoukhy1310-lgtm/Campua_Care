@@ -1,0 +1,163 @@
+row_id,message_id,text,label,source,is_synthetic,pred
+554,CHAL-ACA-0254,"I am not in danger, but the statistics lab report pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True,emotional_distress
+227,CHAL-NOR-0227,"Honestly, i am not requesting counseling; I only need technical help with opening the AI portal. Please keep my message private.",normal,custom_challenge_set,True,academic_stress
+211,CHAL-NOR-0211,I am not requesting counseling; I only need technical help with opening the AI portal.,normal,custom_challenge_set,True,academic_stress
+168,CHAL-NOR-0168,I am not requesting counseling; I only need technical help with opening the programming portal.,normal,custom_challenge_set,True,academic_stress
+679,CHAL-EMO-0079,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,urgent_human_review
+592,CHAL-ACA-0292,"I am not in danger, but the software engineering lab report pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True,emotional_distress
+311,CHAL-ACA-0011,"I am not in danger, but the software engineering presentation pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True,emotional_distress
+19,CHAL-NOR-0019,I am not requesting counseling; I only need technical help with opening the networks portal.,normal,custom_challenge_set,True,academic_stress
+14,CHAL-NOR-0014,I am not requesting counseling; I only need technical help with opening the databases portal. Please keep my message private.,normal,custom_challenge_set,True,academic_stress
+280,CHAL-NOR-0280,I am not requesting counseling; I only need technical help with opening the networks portal.,normal,custom_challenge_set,True,academic_stress
+513,CHAL-ACA-0213,"I am not in danger, but the programming exam pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True,emotional_distress
+151,CHAL-NOR-0151,I am not requesting counseling; I only need technical help with opening the programming portal.,normal,custom_challenge_set,True,academic_stress
+86,CHAL-NOR-0086,"Honestly, i am not requesting counseling; I only need technical help with opening the calculus portal. Please keep my message private.",normal,custom_challenge_set,True,academic_stress
+210,CHAL-NOR-0210,"Honestly, my friend said the statistics project caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True,academic_stress
+155,CHAL-NOR-0155,"Honestly, i am not requesting counseling; I only need technical help with opening the software engineering portal.",normal,custom_challenge_set,True,academic_stress
+104,CHAL-NOR-0104,"Honestly, i am not requesting counseling; I only need technical help with opening the statistics portal. Please keep my message private.",normal,custom_challenge_set,True,academic_stress
+179,CHAL-NOR-0179,"My friend said the networks deadline caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True,academic_stress
+189,CHAL-NOR-0189,I am not requesting counseling; I only need technical help with opening the networks portal.,normal,custom_challenge_set,True,academic_stress
+811,CHAL-EMO-0211,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,urgent_human_review
+241,CHAL-NOR-0241,"Honestly, i am not requesting counseling; I only need technical help with opening the networks portal.",normal,custom_challenge_set,True,academic_stress
+530,CHAL-ACA-0230,"I feel like I am failing everyone because of the exam; I need an academic plan, not crisis support. Please keep my message private.",academic_stress,custom_challenge_set,True,emotional_distress
+682,CHAL-EMO-0082,"Honestly, i do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,urgent_human_review
+267,CHAL-NOR-0267,I am not requesting counseling; I only need technical help with opening the AI portal. Please keep my message private.,normal,custom_challenge_set,True,academic_stress
+207,CHAL-NOR-0207,I am not requesting counseling; I only need technical help with opening the programming portal.,normal,custom_challenge_set,True,academic_stress
+715,CHAL-EMO-0115,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,urgent_human_review
+604,CHAL-EMO-0004,"I do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True,urgent_human_review
+185,CHAL-NOR-0185,"My friend said the networks deadline caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True,academic_stress
+537,CHAL-ACA-0237,"Honestly, i feel like I am failing everyone because of the exam; I need an academic plan, not crisis support. Please keep my message private.",academic_stress,custom_challenge_set,True,emotional_distress
+813,CHAL-EMO-0213,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,urgent_human_review
+675,CHAL-EMO-0075,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,urgent_human_review
+252,CHAL-NOR-0252,I am not requesting counseling; I only need technical help with opening the programming portal.,normal,custom_challenge_set,True,academic_stress
+307,CHAL-ACA-0007,"Honestly, i am not in danger, but the calculus project pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True,emotional_distress
+559,CHAL-ACA-0259,"I am not in danger, but the software engineering presentation pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True,emotional_distress
+644,CHAL-EMO-0044,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,urgent_human_review
+110,CHAL-NOR-0110,I am not requesting counseling; I only need technical help with opening the statistics portal.,normal,custom_challenge_set,True,academic_stress
+658,CHAL-EMO-0058,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,urgent_human_review
+244,CHAL-NOR-0244,"Honestly, my friend said the statistics deadline caused anxiety, but my message is just to ask about the rubric. Please keep my message private.",normal,custom_challenge_set,True,academic_stress
+290,CHAL-NOR-0290,I am not requesting counseling; I only need technical help with opening the programming portal. Please keep my message private.,normal,custom_challenge_set,True,academic_stress
+685,CHAL-EMO-0085,"Honestly, i do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,urgent_human_review
+453,CHAL-ACA-0153,"I feel like I am failing everyone because of the exam; I need an academic plan, not crisis support. Please keep my message private.",academic_stress,custom_challenge_set,True,emotional_distress
+125,CHAL-NOR-0125,I am not requesting counseling; I only need technical help with opening the software engineering portal.,normal,custom_challenge_set,True,academic_stress
+422,CHAL-ACA-0122,"I am not in danger, but the networks exam pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True,emotional_distress
+111,CHAL-NOR-0111,I am not requesting counseling; I only need technical help with opening the software engineering portal. Please keep my message private.,normal,custom_challenge_set,True,academic_stress
+34,CHAL-NOR-0034,I am not requesting counseling; I only need technical help with opening the AI portal.,normal,custom_challenge_set,True,academic_stress
+301,CHAL-ACA-0001,"Honestly, i am not in danger, but the software engineering quiz pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True,emotional_distress
+615,CHAL-EMO-0015,"I do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True,urgent_human_review
+728,CHAL-EMO-0128,"I do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True,urgent_human_review
+318,CHAL-ACA-0018,"I am not in danger, but the AI exam pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True,emotional_distress
+858,CHAL-EMO-0258,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,urgent_human_review
+49,CHAL-NOR-0049,"Honestly, i am not requesting counseling; I only need technical help with opening the software engineering portal. Please keep my message private.",normal,custom_challenge_set,True,academic_stress
+632,CHAL-EMO-0032,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,urgent_human_review
+302,CHAL-ACA-0002,"I am not in danger, but the statistics lab report pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True,emotional_distress
+67,CHAL-NOR-0067,I am not requesting counseling; I only need technical help with opening the statistics portal. Please keep my message private.,normal,custom_challenge_set,True,academic_stress
+29,CHAL-NOR-0029,I am not requesting counseling; I only need technical help with opening the calculus portal. Please keep my message private.,normal,custom_challenge_set,True,academic_stress
+742,CHAL-EMO-0142,"I do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True,urgent_human_review
+631,CHAL-EMO-0031,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,urgent_human_review
+163,CHAL-NOR-0163,I am not requesting counseling; I only need technical help with opening the calculus portal.,normal,custom_challenge_set,True,academic_stress
+271,CHAL-NOR-0271,"My friend said the networks deadline caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True,academic_stress
+518,CHAL-ACA-0218,"I am not in danger, but the software engineering presentation pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True,emotional_distress
+459,CHAL-ACA-0159,"I am not in danger, but the programming lab report pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True,emotional_distress
+479,CHAL-ACA-0179,"I am not in danger, but the calculus lab report pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True,emotional_distress
+427,CHAL-ACA-0127,"I feel like I am failing everyone because of the exam; I need an academic plan, not crisis support.",academic_stress,custom_challenge_set,True,emotional_distress
+171,CHAL-NOR-0171,I am not requesting counseling; I only need technical help with opening the networks portal.,normal,custom_challenge_set,True,academic_stress
+57,CHAL-NOR-0057,I am not requesting counseling; I only need technical help with opening the programming portal.,normal,custom_challenge_set,True,academic_stress
+243,CHAL-NOR-0243,I am not requesting counseling; I only need technical help with opening the software engineering portal. Please keep my message private.,normal,custom_challenge_set,True,academic_stress
+784,CHAL-EMO-0184,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,urgent_human_review
+586,CHAL-ACA-0286,"I am not in danger, but the networks presentation pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True,emotional_distress
+514,CHAL-ACA-0214,"I am not in danger, but the calculus presentation pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True,emotional_distress
+483,CHAL-ACA-0183,"I am not in danger, but the networks lab report pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True,emotional_distress
+680,CHAL-EMO-0080,"Honestly, i do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,urgent_human_review
+783,CHAL-EMO-0183,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,urgent_human_review
+336,CHAL-ACA-0036,"I feel like I am failing everyone because of the exam; I need an academic plan, not crisis support. Please keep my message private.",academic_stress,custom_challenge_set,True,emotional_distress
+203,CHAL-NOR-0203,I am not requesting counseling; I only need technical help with opening the software engineering portal.,normal,custom_challenge_set,True,academic_stress
+133,CHAL-NOR-0133,I am not requesting counseling; I only need technical help with opening the networks portal. Please keep my message private.,normal,custom_challenge_set,True,academic_stress
+255,CHAL-NOR-0255,I am not requesting counseling; I only need technical help with opening the programming portal. Please keep my message private.,normal,custom_challenge_set,True,academic_stress
+122,CHAL-NOR-0122,"My friend said the programming project caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True,academic_stress
+722,CHAL-EMO-0122,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,urgent_human_review
+375,CHAL-ACA-0075,"I am not in danger, but the databases project pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True,emotional_distress
+35,CHAL-NOR-0035,I am not requesting counseling; I only need technical help with opening the networks portal.,normal,custom_challenge_set,True,academic_stress
+161,CHAL-NOR-0161,"My friend said the networks deadline caused anxiety, but my message is just to ask about the rubric. Please keep my message private.",normal,custom_challenge_set,True,academic_stress
+182,CHAL-NOR-0182,I am not requesting counseling; I only need technical help with opening the databases portal.,normal,custom_challenge_set,True,academic_stress
+215,CHAL-NOR-0215,I am not requesting counseling; I only need technical help with opening the programming portal. Please keep my message private.,normal,custom_challenge_set,True,academic_stress
+649,CHAL-EMO-0049,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,urgent_human_review
+606,CHAL-EMO-0006,"I do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True,urgent_human_review
+332,CHAL-ACA-0032,"Honestly, i am not in danger, but the networks project pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True,emotional_distress
+143,CHAL-NOR-0143,I am not requesting counseling; I only need technical help with opening the statistics portal. Please keep my message private.,normal,custom_challenge_set,True,academic_stress
+786,CHAL-EMO-0186,"I do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True,urgent_human_review
+254,CHAL-NOR-0254,I am not requesting counseling; I only need technical help with opening the programming portal. Please keep my message private.,normal,custom_challenge_set,True,academic_stress
+539,CHAL-ACA-0239,"I am not in danger, but the programming exam pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True,emotional_distress
+269,CHAL-NOR-0269,"Honestly, my friend said the calculus project caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True,academic_stress
+785,CHAL-EMO-0185,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,urgent_human_review
+119,CHAL-NOR-0119,I am not requesting counseling; I only need technical help with opening the networks portal.,normal,custom_challenge_set,True,academic_stress
+154,CHAL-NOR-0154,"Honestly, i am not requesting counseling; I only need technical help with opening the statistics portal.",normal,custom_challenge_set,True,academic_stress
+117,CHAL-NOR-0117,"Honestly, my friend said the software engineering deadline caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True,academic_stress
+469,CHAL-ACA-0169,"I am not in danger, but the AI project pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True,emotional_distress
+444,CHAL-ACA-0144,"I am not in danger, but the programming lab report pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True,emotional_distress
+31,CHAL-NOR-0031,I am not requesting counseling; I only need technical help with opening the software engineering portal.,normal,custom_challenge_set,True,academic_stress
+206,CHAL-NOR-0206,I am not requesting counseling; I only need technical help with opening the AI portal.,normal,custom_challenge_set,True,academic_stress
+181,CHAL-NOR-0181,I am not requesting counseling; I only need technical help with opening the programming portal.,normal,custom_challenge_set,True,academic_stress
+259,CHAL-NOR-0259,I am not requesting counseling; I only need technical help with opening the networks portal.,normal,custom_challenge_set,True,academic_stress
+265,CHAL-NOR-0265,"My friend said the software engineering deadline caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True,academic_stress
+720,CHAL-EMO-0120,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,urgent_human_review
+296,CHAL-NOR-0296,"My friend said the programming deadline caused anxiety, but my message is just to ask about the rubric. Please keep my message private.",normal,custom_challenge_set,True,academic_stress
+235,CHAL-NOR-0235,"Honestly, my friend said the calculus deadline caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True,academic_stress
+403,CHAL-ACA-0103,"I am not in danger, but the databases exam pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True,emotional_distress
+180,CHAL-NOR-0180,"My friend said the calculus deadline caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True,academic_stress
+202,CHAL-NOR-0202,"My friend said the statistics project caused anxiety, but my message is just to ask about the rubric. Please keep my message private.",normal,custom_challenge_set,True,academic_stress
+541,CHAL-ACA-0241,"I am not in danger, but the calculus lab report pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True,emotional_distress
+224,CHAL-NOR-0224,I am not requesting counseling; I only need technical help with opening the calculus portal. Please keep my message private.,normal,custom_challenge_set,True,academic_stress
+217,CHAL-NOR-0217,"Honestly, i am not requesting counseling; I only need technical help with opening the databases portal.",normal,custom_challenge_set,True,academic_stress
+249,CHAL-NOR-0249,"Honestly, i am not requesting counseling; I only need technical help with opening the calculus portal.",normal,custom_challenge_set,True,academic_stress
+737,CHAL-EMO-0137,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,urgent_human_review
+534,CHAL-ACA-0234,"Honestly, i am not in danger, but the AI lab report pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True,emotional_distress
+220,CHAL-NOR-0220,I am not requesting counseling; I only need technical help with opening the databases portal.,normal,custom_challenge_set,True,academic_stress
+889,CHAL-EMO-0289,"I do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True,urgent_human_review
+105,CHAL-NOR-0105,I am not requesting counseling; I only need technical help with opening the AI portal.,normal,custom_challenge_set,True,academic_stress
+564,CHAL-ACA-0264,"I am not in danger, but the statistics lab report pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True,emotional_distress
+846,CHAL-EMO-0246,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,urgent_human_review
+527,CHAL-ACA-0227,"Honestly, i am not in danger, but the software engineering project pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True,emotional_distress
+401,CHAL-ACA-0101,"I am not in danger, but the software engineering project pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True,emotional_distress
+13,CHAL-NOR-0013,I am not requesting counseling; I only need technical help with opening the calculus portal.,normal,custom_challenge_set,True,academic_stress
+440,CHAL-ACA-0140,"I am not in danger, but the software engineering exam pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True,emotional_distress
+594,CHAL-ACA-0294,"I am not in danger, but the calculus presentation pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True,emotional_distress
+414,CHAL-ACA-0114,"I am not in danger, but the calculus presentation pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True,emotional_distress
+134,CHAL-NOR-0134,"Honestly, i am not requesting counseling; I only need technical help with opening the databases portal.",normal,custom_challenge_set,True,academic_stress
+20,CHAL-NOR-0020,"My friend said the statistics deadline caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True,academic_stress
+437,CHAL-ACA-0137,"Honestly, i am not in danger, but the databases lab report pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True,emotional_distress
+770,CHAL-EMO-0170,"I do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True,urgent_human_review
+386,CHAL-ACA-0086,"Honestly, i am not in danger, but the statistics quiz pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True,emotional_distress
+424,CHAL-ACA-0124,"I am not in danger, but the programming presentation pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True,emotional_distress
+495,CHAL-ACA-0195,"I am not in danger, but the statistics presentation pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True,emotional_distress
+465,CHAL-ACA-0165,"I am not in danger, but the software engineering exam pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True,emotional_distress
+753,CHAL-EMO-0153,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,urgent_human_review
+593,CHAL-ACA-0293,"I am not in danger, but the software engineering presentation pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True,emotional_distress
+831,CHAL-EMO-0231,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,urgent_human_review
+248,CHAL-NOR-0248,"Honestly, i am not requesting counseling; I only need technical help with opening the software engineering portal. Please keep my message private.",normal,custom_challenge_set,True,academic_stress
+384,CHAL-ACA-0084,"I feel like I am failing everyone because of the exam; I need an academic plan, not crisis support.",academic_stress,custom_challenge_set,True,emotional_distress
+819,CHAL-EMO-0219,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,urgent_human_review
+602,CHAL-EMO-0002,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,urgent_human_review
+221,CHAL-NOR-0221,I am not requesting counseling; I only need technical help with opening the statistics portal.,normal,custom_challenge_set,True,academic_stress
+666,CHAL-EMO-0066,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,urgent_human_review
+732,CHAL-EMO-0132,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,urgent_human_review
+792,CHAL-EMO-0192,"Honestly, i do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,urgent_human_review
+637,CHAL-EMO-0037,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,urgent_human_review
+613,CHAL-EMO-0013,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,urgent_human_review
+260,CHAL-NOR-0260,"My friend said the networks project caused anxiety, but my message is just to ask about the rubric. Please keep my message private.",normal,custom_challenge_set,True,academic_stress
+282,CHAL-NOR-0282,"Honestly, my friend said the statistics deadline caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True,academic_stress
+900,CHAL-EMO-0300,"I do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True,urgent_human_review
+576,CHAL-ACA-0276,"I am not in danger, but the AI project pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True,emotional_distress
+89,CHAL-NOR-0089,"Honestly, my friend said the networks deadline caused anxiety, but my message is just to ask about the rubric. Please keep my message private.",normal,custom_challenge_set,True,academic_stress
+767,CHAL-EMO-0167,"I do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True,urgent_human_review
+272,CHAL-NOR-0272,"Honestly, i am not requesting counseling; I only need technical help with opening the statistics portal. Please keep my message private.",normal,custom_challenge_set,True,academic_stress
+361,CHAL-ACA-0061,"I am not in danger, but the statistics lab report pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True,emotional_distress
+540,CHAL-ACA-0240,"I am not in danger, but the programming exam pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True,emotional_distress
+439,CHAL-ACA-0139,"I am not in danger, but the statistics quiz pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True,emotional_distress
+468,CHAL-ACA-0168,"I am not in danger, but the calculus quiz pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True,emotional_distress
+266,CHAL-NOR-0266,I am not requesting counseling; I only need technical help with opening the AI portal.,normal,custom_challenge_set,True,academic_stress
+263,CHAL-NOR-0263,I am not requesting counseling; I only need technical help with opening the calculus portal.,normal,custom_challenge_set,True,academic_stress
+256,CHAL-NOR-0256,"My friend said the networks project caused anxiety, but my message is just to ask about the rubric. Please keep my message private.",normal,custom_challenge_set,True,academic_stress
+589,CHAL-ACA-0289,"Honestly, i feel like I am failing everyone because of the exam; I need an academic plan, not crisis support.",academic_stress,custom_challenge_set,True,emotional_distress
+452,CHAL-ACA-0152,"Honestly, i am not in danger, but the networks presentation pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True,emotional_distress
+48,CHAL-NOR-0048,I am not requesting counseling; I only need technical help with opening the AI portal.,normal,custom_challenge_set,True,academic_stress

@@ -1,0 +1,7 @@
+metric,value
+rows,60000.0
+labels,4.0
+avg_words,20.32
+median_words,20.0
+min_words,8.0
+max_words,41.0

@@ -1,0 +1,201 @@
+row_id,message_id,text,label,source,is_synthetic,label_id,pred
+157,CHAL-NOR-0157,"I felt nervous last week, but today I just want to thank the advisor for helping me organize programming. Please keep my message private.",normal,custom_challenge_set,True,0,academic_stress
+525,CHAL-ACA-0225,I am scared of academic probation and I need tutoring for databases as soon as possible. Please keep my message private.,academic_stress,custom_challenge_set,True,1,emotional_distress
+139,CHAL-NOR-0139,"I felt nervous last week, but today I just want to thank the advisor for helping me organize databases.",normal,custom_challenge_set,True,0,academic_stress
+173,CHAL-NOR-0173,This is not urgent and I am safe; please confirm whether the statistics recording will be uploaded.,normal,custom_challenge_set,True,0,academic_stress
+187,CHAL-NOR-0187,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True,0,academic_stress
+135,CHAL-NOR-0135,"Honestly, i saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True,0,academic_stress
+246,CHAL-NOR-0246,"Honestly, i saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True,0,academic_stress
+227,CHAL-NOR-0227,"Honestly, i am not requesting counseling; I only need technical help with opening the AI portal. Please keep my message private.",normal,custom_challenge_set,True,0,academic_stress
+204,CHAL-NOR-0204,"Honestly, i saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule. Please keep my message private.",normal,custom_challenge_set,True,0,academic_stress
+211,CHAL-NOR-0211,I am not requesting counseling; I only need technical help with opening the AI portal.,normal,custom_challenge_set,True,0,academic_stress
+168,CHAL-NOR-0168,I am not requesting counseling; I only need technical help with opening the programming portal.,normal,custom_challenge_set,True,0,academic_stress
+679,CHAL-EMO-0079,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,2,urgent_human_review
+1196,CHAL-URG-0296,"I am writing about the statistics exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True,3,academic_stress
+43,CHAL-NOR-0043,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True,0,academic_stress
+694,CHAL-EMO-0094,"I keep attending statistics, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True,2,academic_stress
+98,CHAL-NOR-0098,"I felt nervous last week, but today I just want to thank the advisor for helping me organize AI. Please keep my message private.",normal,custom_challenge_set,True,0,academic_stress
+300,CHAL-NOR-0300,"I felt nervous last week, but today I just want to thank the advisor for helping me organize calculus.",normal,custom_challenge_set,True,0,academic_stress
+6,CHAL-NOR-0006,"Honestly, i was stressed before the exam, but I am okay now; I only need the room number for AI.",normal,custom_challenge_set,True,0,academic_stress
+311,CHAL-ACA-0011,"I am not in danger, but the software engineering presentation pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True,1,emotional_distress
+19,CHAL-NOR-0019,I am not requesting counseling; I only need technical help with opening the networks portal.,normal,custom_challenge_set,True,0,academic_stress
+280,CHAL-NOR-0280,I am not requesting counseling; I only need technical help with opening the networks portal.,normal,custom_challenge_set,True,0,academic_stress
+665,CHAL-EMO-0065,"I keep attending statistics, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True,2,academic_stress
+68,CHAL-NOR-0068,"Honestly, i felt nervous last week, but today I just want to thank the advisor for helping me organize calculus.",normal,custom_challenge_set,True,0,academic_stress
+151,CHAL-NOR-0151,I am not requesting counseling; I only need technical help with opening the programming portal.,normal,custom_challenge_set,True,0,academic_stress
+70,CHAL-NOR-0070,"I was stressed before the deadline, but I am okay now; I only need the room number for networks.",normal,custom_challenge_set,True,0,academic_stress
+197,CHAL-NOR-0197,"I felt nervous last week, but today I just want to thank the advisor for helping me organize calculus.",normal,custom_challenge_set,True,0,academic_stress
+363,CHAL-ACA-0063,"Honestly, i feel like I am failing everyone because of the quiz; I need an academic plan, not crisis support. Please keep my message private.",academic_stress,custom_challenge_set,True,1,emotional_distress
+86,CHAL-NOR-0086,"Honestly, i am not requesting counseling; I only need technical help with opening the calculus portal. Please keep my message private.",normal,custom_challenge_set,True,0,academic_stress
+279,CHAL-NOR-0279,"Honestly, i was stressed before the presentation, but I am okay now; I only need the room number for networks.",normal,custom_challenge_set,True,0,academic_stress
+210,CHAL-NOR-0210,"Honestly, my friend said the statistics project caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True,0,academic_stress
+155,CHAL-NOR-0155,"Honestly, i am not requesting counseling; I only need technical help with opening the software engineering portal.",normal,custom_challenge_set,True,0,academic_stress
+99,CHAL-NOR-0099,"Honestly, i was stressed before the quiz, but I am okay now; I only need the room number for software engineering.",normal,custom_challenge_set,True,0,academic_stress
+87,CHAL-NOR-0087,"I felt nervous last week, but today I just want to thank the advisor for helping me organize calculus. Please keep my message private.",normal,custom_challenge_set,True,0,academic_stress
+305,CHAL-ACA-0005,"I feel like I am failing everyone because of the presentation; I need an academic plan, not crisis support. Please keep my message private.",academic_stress,custom_challenge_set,True,1,emotional_distress
+104,CHAL-NOR-0104,"Honestly, i am not requesting counseling; I only need technical help with opening the statistics portal. Please keep my message private.",normal,custom_challenge_set,True,0,academic_stress
+320,CHAL-ACA-0020,"I feel like I am failing everyone because of the deadline; I need an academic plan, not crisis support. Please keep my message private.",academic_stress,custom_challenge_set,True,1,emotional_distress
+295,CHAL-NOR-0295,"I felt nervous last week, but today I just want to thank the advisor for helping me organize databases. Please keep my message private.",normal,custom_challenge_set,True,0,academic_stress
+189,CHAL-NOR-0189,I am not requesting counseling; I only need technical help with opening the networks portal.,normal,custom_challenge_set,True,0,academic_stress
+230,CHAL-NOR-0230,"I felt nervous last week, but today I just want to thank the advisor for helping me organize statistics. Please keep my message private.",normal,custom_challenge_set,True,0,academic_stress
+69,CHAL-NOR-0069,"Honestly, i saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule. Please keep my message private.",normal,custom_challenge_set,True,0,academic_stress
+178,CHAL-NOR-0178,"Honestly, i was stressed before the deadline, but I am okay now; I only need the room number for statistics.",normal,custom_challenge_set,True,0,academic_stress
+811,CHAL-EMO-0211,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,2,urgent_human_review
+142,CHAL-NOR-0142,This is not urgent and I am safe; please confirm whether the software engineering recording will be uploaded.,normal,custom_challenge_set,True,0,academic_stress
+241,CHAL-NOR-0241,"Honestly, i am not requesting counseling; I only need technical help with opening the networks portal.",normal,custom_challenge_set,True,0,academic_stress
+253,CHAL-NOR-0253,"Honestly, i felt nervous last week, but today I just want to thank the advisor for helping me organize programming. Please keep my message private.",normal,custom_challenge_set,True,0,academic_stress
+96,CHAL-NOR-0096,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True,0,academic_stress
+530,CHAL-ACA-0230,"I feel like I am failing everyone because of the exam; I need an academic plan, not crisis support. Please keep my message private.",academic_stress,custom_challenge_set,True,1,emotional_distress
+162,CHAL-NOR-0162,"I felt nervous last week, but today I just want to thank the advisor for helping me organize programming.",normal,custom_challenge_set,True,0,academic_stress
+682,CHAL-EMO-0082,"Honestly, i do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,2,urgent_human_review
+207,CHAL-NOR-0207,I am not requesting counseling; I only need technical help with opening the programming portal.,normal,custom_challenge_set,True,0,academic_stress
+222,CHAL-NOR-0222,"I felt nervous last week, but today I just want to thank the advisor for helping me organize calculus.",normal,custom_challenge_set,True,0,academic_stress
+581,CHAL-ACA-0281,I am scared of academic probation and I need tutoring for databases as soon as possible. Please keep my message private.,academic_stress,custom_challenge_set,True,1,emotional_distress
+410,CHAL-ACA-0110,"I feel like I am failing everyone because of the lab report; I need an academic plan, not crisis support. Please keep my message private.",academic_stress,custom_challenge_set,True,1,emotional_distress
+183,CHAL-NOR-0183,"I was stressed before the lab report, but I am okay now; I only need the room number for software engineering.",normal,custom_challenge_set,True,0,academic_stress
+308,CHAL-ACA-0008,I am scared of academic probation and I need tutoring for databases as soon as possible. Please keep my message private.,academic_stress,custom_challenge_set,True,1,emotional_distress
+715,CHAL-EMO-0115,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,2,urgent_human_review
+604,CHAL-EMO-0004,"I do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True,2,urgent_human_review
+537,CHAL-ACA-0237,"Honestly, i feel like I am failing everyone because of the exam; I need an academic plan, not crisis support. Please keep my message private.",academic_stress,custom_challenge_set,True,1,emotional_distress
+120,CHAL-NOR-0120,This is not urgent and I am safe; please confirm whether the statistics recording will be uploaded.,normal,custom_challenge_set,True,0,academic_stress
+261,CHAL-NOR-0261,This is not urgent and I am safe; please confirm whether the databases recording will be uploaded.,normal,custom_challenge_set,True,0,academic_stress
+146,CHAL-NOR-0146,"I felt nervous last week, but today I just want to thank the advisor for helping me organize databases.",normal,custom_challenge_set,True,0,academic_stress
+813,CHAL-EMO-0213,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,2,urgent_human_review
+675,CHAL-EMO-0075,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,2,urgent_human_review
+251,CHAL-NOR-0251,"I felt nervous last week, but today I just want to thank the advisor for helping me organize statistics.",normal,custom_challenge_set,True,0,academic_stress
+283,CHAL-NOR-0283,"I was stressed before the exam, but I am okay now; I only need the room number for software engineering. Please keep my message private.",normal,custom_challenge_set,True,0,academic_stress
+44,CHAL-NOR-0044,"I was stressed before the presentation, but I am okay now; I only need the room number for databases.",normal,custom_challenge_set,True,0,academic_stress
+172,CHAL-NOR-0172,"Honestly, i felt nervous last week, but today I just want to thank the advisor for helping me organize networks.",normal,custom_challenge_set,True,0,academic_stress
+130,CHAL-NOR-0130,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True,0,academic_stress
+201,CHAL-NOR-0201,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True,0,academic_stress
+264,CHAL-NOR-0264,This is not urgent and I am safe; please confirm whether the statistics recording will be uploaded.,normal,custom_challenge_set,True,0,academic_stress
+51,CHAL-NOR-0051,"I was stressed before the deadline, but I am okay now; I only need the room number for software engineering.",normal,custom_challenge_set,True,0,academic_stress
+252,CHAL-NOR-0252,I am not requesting counseling; I only need technical help with opening the programming portal.,normal,custom_challenge_set,True,0,academic_stress
+559,CHAL-ACA-0259,"I am not in danger, but the software engineering presentation pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True,1,emotional_distress
+644,CHAL-EMO-0044,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,2,urgent_human_review
+110,CHAL-NOR-0110,I am not requesting counseling; I only need technical help with opening the statistics portal.,normal,custom_challenge_set,True,0,academic_stress
+658,CHAL-EMO-0058,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,2,urgent_human_review
+10,CHAL-NOR-0010,This is not urgent and I am safe; please confirm whether the AI recording will be uploaded.,normal,custom_challenge_set,True,0,academic_stress
+158,CHAL-NOR-0158,This is not urgent and I am safe; please confirm whether the databases recording will be uploaded.,normal,custom_challenge_set,True,0,academic_stress
+148,CHAL-NOR-0148,"I felt nervous last week, but today I just want to thank the advisor for helping me organize calculus. Please keep my message private.",normal,custom_challenge_set,True,0,academic_stress
+191,CHAL-NOR-0191,"I felt nervous last week, but today I just want to thank the advisor for helping me organize calculus.",normal,custom_challenge_set,True,0,academic_stress
+8,CHAL-NOR-0008,"I was stressed before the quiz, but I am okay now; I only need the room number for software engineering. Please keep my message private.",normal,custom_challenge_set,True,0,academic_stress
+113,CHAL-NOR-0113,"I felt nervous last week, but today I just want to thank the advisor for helping me organize software engineering.",normal,custom_challenge_set,True,0,academic_stress
+165,CHAL-NOR-0165,"Honestly, i was stressed before the project, but I am okay now; I only need the room number for statistics.",normal,custom_challenge_set,True,0,academic_stress
+236,CHAL-NOR-0236,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True,0,academic_stress
+685,CHAL-EMO-0085,"Honestly, i do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,2,urgent_human_review
+453,CHAL-ACA-0153,"I feel like I am failing everyone because of the exam; I need an academic plan, not crisis support. Please keep my message private.",academic_stress,custom_challenge_set,True,1,emotional_distress
+125,CHAL-NOR-0125,I am not requesting counseling; I only need technical help with opening the software engineering portal.,normal,custom_challenge_set,True,0,academic_stress
+177,CHAL-NOR-0177,This is not urgent and I am safe; please confirm whether the statistics recording will be uploaded.,normal,custom_challenge_set,True,0,academic_stress
+91,CHAL-NOR-0091,"Honestly, i felt nervous last week, but today I just want to thank the advisor for helping me organize software engineering.",normal,custom_challenge_set,True,0,academic_stress
+58,CHAL-NOR-0058,This is not urgent and I am safe; please confirm whether the AI recording will be uploaded. Please keep my message private.,normal,custom_challenge_set,True,0,academic_stress
+41,CHAL-NOR-0041,"Honestly, i was stressed before the quiz, but I am okay now; I only need the room number for calculus.",normal,custom_challenge_set,True,0,academic_stress
+293,CHAL-NOR-0293,"I felt nervous last week, but today I just want to thank the advisor for helping me organize networks.",normal,custom_challenge_set,True,0,academic_stress
+268,CHAL-NOR-0268,"I was stressed before the quiz, but I am okay now; I only need the room number for calculus.",normal,custom_challenge_set,True,0,academic_stress
+131,CHAL-NOR-0131,"Honestly, i felt nervous last week, but today I just want to thank the advisor for helping me organize programming.",normal,custom_challenge_set,True,0,academic_stress
+34,CHAL-NOR-0034,I am not requesting counseling; I only need technical help with opening the AI portal.,normal,custom_challenge_set,True,0,academic_stress
+115,CHAL-NOR-0115,"Honestly, i was stressed before the project, but I am okay now; I only need the room number for programming. Please keep my message private.",normal,custom_challenge_set,True,0,academic_stress
+213,CHAL-NOR-0213,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True,0,academic_stress
+53,CHAL-NOR-0053,This is not urgent and I am safe; please confirm whether the AI recording will be uploaded.,normal,custom_challenge_set,True,0,academic_stress
+42,CHAL-NOR-0042,"Honestly, this is not urgent and I am safe; please confirm whether the AI recording will be uploaded.",normal,custom_challenge_set,True,0,academic_stress
+301,CHAL-ACA-0001,"Honestly, i am not in danger, but the software engineering quiz pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True,1,emotional_distress
+615,CHAL-EMO-0015,"I do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True,2,urgent_human_review
+262,CHAL-NOR-0262,"I was stressed before the quiz, but I am okay now; I only need the room number for statistics.",normal,custom_challenge_set,True,0,academic_stress
+728,CHAL-EMO-0128,"I do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True,2,urgent_human_review
+275,CHAL-NOR-0275,"Honestly, i saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule. Please keep my message private.",normal,custom_challenge_set,True,0,academic_stress
+318,CHAL-ACA-0018,"I am not in danger, but the AI exam pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True,1,emotional_distress
+858,CHAL-EMO-0258,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,2,urgent_human_review
+292,CHAL-NOR-0292,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True,0,academic_stress
+49,CHAL-NOR-0049,"Honestly, i am not requesting counseling; I only need technical help with opening the software engineering portal. Please keep my message private.",normal,custom_challenge_set,True,0,academic_stress
+632,CHAL-EMO-0032,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,2,urgent_human_review
+274,CHAL-NOR-0274,"Honestly, i was stressed before the deadline, but I am okay now; I only need the room number for calculus.",normal,custom_challenge_set,True,0,academic_stress
+557,CHAL-ACA-0257,I am scared of academic probation and I need tutoring for databases as soon as possible. Please keep my message private.,academic_stress,custom_challenge_set,True,1,emotional_distress
+67,CHAL-NOR-0067,I am not requesting counseling; I only need technical help with opening the statistics portal. Please keep my message private.,normal,custom_challenge_set,True,0,academic_stress
+56,CHAL-NOR-0056,This is not urgent and I am safe; please confirm whether the software engineering recording will be uploaded.,normal,custom_challenge_set,True,0,academic_stress
+742,CHAL-EMO-0142,"I do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True,2,urgent_human_review
+276,CHAL-NOR-0276,"Honestly, this is not urgent and I am safe; please confirm whether the software engineering recording will be uploaded. Please keep my message private.",normal,custom_challenge_set,True,0,academic_stress
+631,CHAL-EMO-0031,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,2,urgent_human_review
+55,CHAL-NOR-0055,"I felt nervous last week, but today I just want to thank the advisor for helping me organize statistics. Please keep my message private.",normal,custom_challenge_set,True,0,academic_stress
+118,CHAL-NOR-0118,"I was stressed before the lab report, but I am okay now; I only need the room number for AI.",normal,custom_challenge_set,True,0,academic_stress
+22,CHAL-NOR-0022,This is not urgent and I am safe; please confirm whether the networks recording will be uploaded.,normal,custom_challenge_set,True,0,academic_stress
+124,CHAL-NOR-0124,"I was stressed before the lab report, but I am okay now; I only need the room number for programming.",normal,custom_challenge_set,True,0,academic_stress
+258,CHAL-NOR-0258,"Honestly, i felt nervous last week, but today I just want to thank the advisor for helping me organize programming. Please keep my message private.",normal,custom_challenge_set,True,0,academic_stress
+11,CHAL-NOR-0011,"I felt nervous last week, but today I just want to thank the advisor for helping me organize networks.",normal,custom_challenge_set,True,0,academic_stress
+620,CHAL-EMO-0020,"I keep attending networks, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True,2,academic_stress
+37,CHAL-NOR-0037,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True,0,academic_stress
+163,CHAL-NOR-0163,I am not requesting counseling; I only need technical help with opening the calculus portal.,normal,custom_challenge_set,True,0,academic_stress
+101,CHAL-NOR-0101,"I felt nervous last week, but today I just want to thank the advisor for helping me organize software engineering.",normal,custom_challenge_set,True,0,academic_stress
+479,CHAL-ACA-0179,"I am not in danger, but the calculus lab report pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True,1,emotional_distress
+543,CHAL-ACA-0243,I am scared of academic probation and I need tutoring for programming as soon as possible. Please keep my message private.,academic_stress,custom_challenge_set,True,1,emotional_distress
+79,CHAL-NOR-0079,"I felt nervous last week, but today I just want to thank the advisor for helping me organize calculus.",normal,custom_challenge_set,True,0,academic_stress
+196,CHAL-NOR-0196,"I was stressed before the project, but I am okay now; I only need the room number for databases. Please keep my message private.",normal,custom_challenge_set,True,0,academic_stress
+839,CHAL-EMO-0239,"I keep attending statistics, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True,2,academic_stress
+92,CHAL-NOR-0092,"I felt nervous last week, but today I just want to thank the advisor for helping me organize databases. Please keep my message private.",normal,custom_challenge_set,True,0,academic_stress
+171,CHAL-NOR-0171,I am not requesting counseling; I only need technical help with opening the networks portal.,normal,custom_challenge_set,True,0,academic_stress
+273,CHAL-NOR-0273,"I was stressed before the presentation, but I am okay now; I only need the room number for networks.",normal,custom_challenge_set,True,0,academic_stress
+76,CHAL-NOR-0076,"I felt nervous last week, but today I just want to thank the advisor for helping me organize networks.",normal,custom_challenge_set,True,0,academic_stress
+170,CHAL-NOR-0170,"Honestly, this is not urgent and I am safe; please confirm whether the calculus recording will be uploaded. Please keep my message private.",normal,custom_challenge_set,True,0,academic_stress
+57,CHAL-NOR-0057,I am not requesting counseling; I only need technical help with opening the programming portal.,normal,custom_challenge_set,True,0,academic_stress
+88,CHAL-NOR-0088,This is not urgent and I am safe; please confirm whether the AI recording will be uploaded. Please keep my message private.,normal,custom_challenge_set,True,0,academic_stress
+156,CHAL-NOR-0156,"I felt nervous last week, but today I just want to thank the advisor for helping me organize software engineering.",normal,custom_challenge_set,True,0,academic_stress
+108,CHAL-NOR-0108,"I was stressed before the quiz, but I am okay now; I only need the room number for databases. Please keep my message private.",normal,custom_challenge_set,True,0,academic_stress
+237,CHAL-NOR-0237,"Honestly, i saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True,0,academic_stress
+270,CHAL-NOR-0270,"Honestly, i saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule. Please keep my message private.",normal,custom_challenge_set,True,0,academic_stress
+75,CHAL-NOR-0075,"I was stressed before the project, but I am okay now; I only need the room number for AI.",normal,custom_challenge_set,True,0,academic_stress
+60,CHAL-NOR-0060,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True,0,academic_stress
+12,CHAL-NOR-0012,"I felt nervous last week, but today I just want to thank the advisor for helping me organize statistics.",normal,custom_challenge_set,True,0,academic_stress
+228,CHAL-NOR-0228,This is not urgent and I am safe; please confirm whether the calculus recording will be uploaded. Please keep my message private.,normal,custom_challenge_set,True,0,academic_stress
+27,CHAL-NOR-0027,"I felt nervous last week, but today I just want to thank the advisor for helping me organize databases.",normal,custom_challenge_set,True,0,academic_stress
+784,CHAL-EMO-0184,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,2,urgent_human_review
+828,CHAL-EMO-0228,"Honestly, i keep attending networks, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True,2,academic_stress
+817,CHAL-EMO-0217,"Honestly, i do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True,2,urgent_human_review
+149,CHAL-NOR-0149,"Honestly, i was stressed before the lab report, but I am okay now; I only need the room number for networks.",normal,custom_challenge_set,True,0,academic_stress
+872,CHAL-EMO-0272,"Honestly, i do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True,2,urgent_human_review
+680,CHAL-EMO-0080,"Honestly, i do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,2,urgent_human_review
+783,CHAL-EMO-0183,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,2,urgent_human_review
+336,CHAL-ACA-0036,"I feel like I am failing everyone because of the exam; I need an academic plan, not crisis support. Please keep my message private.",academic_stress,custom_challenge_set,True,1,emotional_distress
+203,CHAL-NOR-0203,I am not requesting counseling; I only need technical help with opening the software engineering portal.,normal,custom_challenge_set,True,0,academic_stress
+231,CHAL-NOR-0231,This is not urgent and I am safe; please confirm whether the software engineering recording will be uploaded.,normal,custom_challenge_set,True,0,academic_stress
+891,CHAL-EMO-0291,"I keep attending networks, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True,2,academic_stress
+233,CHAL-NOR-0233,This is not urgent and I am safe; please confirm whether the AI recording will be uploaded. Please keep my message private.,normal,custom_challenge_set,True,0,academic_stress
+83,CHAL-NOR-0083,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True,0,academic_stress
+65,CHAL-NOR-0065,This is not urgent and I am safe; please confirm whether the programming recording will be uploaded.,normal,custom_challenge_set,True,0,academic_stress
+722,CHAL-EMO-0122,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,2,urgent_human_review
+35,CHAL-NOR-0035,I am not requesting counseling; I only need technical help with opening the networks portal.,normal,custom_challenge_set,True,0,academic_stress
+277,CHAL-NOR-0277,"I was stressed before the quiz, but I am okay now; I only need the room number for networks.",normal,custom_challenge_set,True,0,academic_stress
+160,CHAL-NOR-0160,"Honestly, i saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True,0,academic_stress
+288,CHAL-NOR-0288,"Honestly, this is not urgent and I am safe; please confirm whether the AI recording will be uploaded. Please keep my message private.",normal,custom_challenge_set,True,0,academic_stress
+1167,CHAL-URG-0267,"I am writing about the statistics exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True,3,academic_stress
+81,CHAL-NOR-0081,"I was stressed before the project, but I am okay now; I only need the room number for databases.",normal,custom_challenge_set,True,0,academic_stress
+188,CHAL-NOR-0188,"I was stressed before the deadline, but I am okay now; I only need the room number for statistics.",normal,custom_challenge_set,True,0,academic_stress
+193,CHAL-NOR-0193,"I was stressed before the quiz, but I am okay now; I only need the room number for software engineering.",normal,custom_challenge_set,True,0,academic_stress
+182,CHAL-NOR-0182,I am not requesting counseling; I only need technical help with opening the databases portal.,normal,custom_challenge_set,True,0,academic_stress
+649,CHAL-EMO-0049,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,2,urgent_human_review
+606,CHAL-EMO-0006,"I do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True,2,urgent_human_review
+102,CHAL-NOR-0102,"Honestly, i saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True,0,academic_stress
+208,CHAL-NOR-0208,"Honestly, i saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True,0,academic_stress
+95,CHAL-NOR-0095,"Honestly, this is not urgent and I am safe; please confirm whether the calculus recording will be uploaded.",normal,custom_challenge_set,True,0,academic_stress
+143,CHAL-NOR-0143,I am not requesting counseling; I only need technical help with opening the statistics portal. Please keep my message private.,normal,custom_challenge_set,True,0,academic_stress
+786,CHAL-EMO-0186,"I do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True,2,urgent_human_review
+64,CHAL-NOR-0064,"I was stressed before the quiz, but I am okay now; I only need the room number for software engineering. Please keep my message private.",normal,custom_challenge_set,True,0,academic_stress
+785,CHAL-EMO-0185,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,2,urgent_human_review
+119,CHAL-NOR-0119,I am not requesting counseling; I only need technical help with opening the networks portal.,normal,custom_challenge_set,True,0,academic_stress
+175,CHAL-NOR-0175,"I was stressed before the deadline, but I am okay now; I only need the room number for AI.",normal,custom_challenge_set,True,0,academic_stress
+154,CHAL-NOR-0154,"Honestly, i am not requesting counseling; I only need technical help with opening the statistics portal.",normal,custom_challenge_set,True,0,academic_stress
+444,CHAL-ACA-0144,"I am not in danger, but the programming lab report pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True,1,emotional_distress
+24,CHAL-NOR-0024,"I was stressed before the deadline, but I am okay now; I only need the room number for AI.",normal,custom_challenge_set,True,0,academic_stress
+31,CHAL-NOR-0031,I am not requesting counseling; I only need technical help with opening the software engineering portal.,normal,custom_challenge_set,True,0,academic_stress
+226,CHAL-NOR-0226,This is not urgent and I am safe; please confirm whether the networks recording will be uploaded.,normal,custom_challenge_set,True,0,academic_stress
+1,CHAL-NOR-0001,"I was stressed before the exam, but I am okay now; I only need the room number for databases.",normal,custom_challenge_set,True,0,academic_stress
+436,CHAL-ACA-0136,I am scared of academic probation and I need tutoring for databases as soon as possible. Please keep my message private.,academic_stress,custom_challenge_set,True,1,emotional_distress
+116,CHAL-NOR-0116,"I felt nervous last week, but today I just want to thank the advisor for helping me organize calculus. Please keep my message private.",normal,custom_challenge_set,True,0,academic_stress
+33,CHAL-NOR-0033,"Honestly, i saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule. Please keep my message private.",normal,custom_challenge_set,True,0,academic_stress
+39,CHAL-NOR-0039,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True,0,academic_stress
+25,CHAL-NOR-0025,"I felt nervous last week, but today I just want to thank the advisor for helping me organize AI.",normal,custom_challenge_set,True,0,academic_stress
+206,CHAL-NOR-0206,I am not requesting counseling; I only need technical help with opening the AI portal.,normal,custom_challenge_set,True,0,academic_stress
+181,CHAL-NOR-0181,I am not requesting counseling; I only need technical help with opening the programming portal.,normal,custom_challenge_set,True,0,academic_stress
+259,CHAL-NOR-0259,I am not requesting counseling; I only need technical help with opening the networks portal.,normal,custom_challenge_set,True,0,academic_stress
+720,CHAL-EMO-0120,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True,2,urgent_human_review
+106,CHAL-NOR-0106,This is not urgent and I am safe; please confirm whether the calculus recording will be uploaded. Please keep my message private.,normal,custom_challenge_set,True,0,academic_stress
+72,CHAL-NOR-0072,"Honestly, i saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True,0,academic_stress
+403,CHAL-ACA-0103,"I am not in danger, but the databases exam pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True,1,emotional_distress

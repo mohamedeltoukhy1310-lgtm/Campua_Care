@@ -1,0 +1,4 @@
+run_id,date,model,dataset,train_rows,validation_rows,test_rows,challenge_rows,epochs,key_hyperparameters,accuracy_test,macro_f1_test,accuracy_challenge,macro_f1_challenge,notes
+R1,2026-05-13,TFIDF_SGD_LogReg,campuscare_large_dataset,42000,6000,12000,1200,NA,"tfidf 1-2gram, max_features=20000, SGD log_loss, class_weight=balanced",1.000,1.000,0.865,0.864,"Strong lexical baseline; challenge split exposes ambiguity"
+R2,2026-05-13,TextCNN,campuscare_large_dataset,12000,6000,12000,1200,2,"embed_dim=64, filters=48, batch=128, AdamW, class weights",1.000,1.000,0.744,0.723,"Learns phrase cues quickly; weaker on challenge cases"
+R3,2026-05-13,BiLSTM,campuscare_large_dataset,4000,6000,12000,1200,1,"embed_dim=64, hidden=48, batch=128, AdamW, class weights",0.535,0.475,0.381,0.339,"Undertrained CPU demo; improve with more epochs/GPU"

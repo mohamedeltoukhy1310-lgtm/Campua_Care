@@ -1,0 +1,1201 @@
+row_id,message_id,text,label,source,is_synthetic
+157,CHAL-NOR-0157,"I felt nervous last week, but today I just want to thank the advisor for helping me organize programming. Please keep my message private.",normal,custom_challenge_set,True
+921,CHAL-URG-0021,I have thoughts of suicide and need a trained person to contact me now.,urgent_human_review,custom_challenge_set,True
+972,CHAL-URG-0072,I am alone after class and I cannot promise I will stay safe tonight.,urgent_human_review,custom_challenge_set,True
+898,CHAL-EMO-0298,This is not about one quiz; I have felt sad and isolated for weeks and need counseling. Please keep my message private.,emotional_distress,custom_challenge_set,True
+36,CHAL-NOR-0036,"I was stressed before the lab report, but I am okay now; I only need the room number for calculus. Please keep my message private.",normal,custom_challenge_set,True
+600,CHAL-ACA-0300,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade.",academic_stress,custom_challenge_set,True
+568,CHAL-ACA-0268,"Honestly, i feel like I am failing everyone because of the lab report; I need an academic plan, not crisis support.",academic_stress,custom_challenge_set,True
+554,CHAL-ACA-0254,"I am not in danger, but the statistics lab report pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True
+892,CHAL-EMO-0292,I feel numb and alone in the dorm; please connect me with someone safe to talk to.,emotional_distress,custom_challenge_set,True
+1011,CHAL-URG-0111,I am alone after class and I cannot promise I will stay safe tonight. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+525,CHAL-ACA-0225,I am scared of academic probation and I need tutoring for databases as soon as possible. Please keep my message private.,academic_stress,custom_challenge_set,True
+441,CHAL-ACA-0141,I am scared of academic probation and I need tutoring for AI as soon as possible.,academic_stress,custom_challenge_set,True
+1142,CHAL-URG-0242,I have thoughts of suicide and need a trained person to contact me now. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+580,CHAL-ACA-0280,"Honestly, the group project makes me feel trapped and overwhelmed, but my concern is the final grade.",academic_stress,custom_challenge_set,True
+139,CHAL-NOR-0139,"I felt nervous last week, but today I just want to thank the advisor for helping me organize databases.",normal,custom_challenge_set,True
+567,CHAL-ACA-0267,"Honestly, i panic whenever I open the grade portal for statistics, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+1187,CHAL-URG-0287,"I am writing about the databases exam, but more importantly I do not feel safe with myself tonight. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+173,CHAL-NOR-0173,This is not urgent and I am safe; please confirm whether the statistics recording will be uploaded.,normal,custom_challenge_set,True
+962,CHAL-URG-0062,Do not wait until tomorrow; I am in crisis and need urgent help now.,urgent_human_review,custom_challenge_set,True
+611,CHAL-EMO-0011,"Honestly, i am crying often after class and avoiding friends, even when my grades are okay.",emotional_distress,custom_challenge_set,True
+663,CHAL-EMO-0063,"Honestly, i am crying often after class and avoiding friends, even when my grades are okay. Please keep my message private.",emotional_distress,custom_challenge_set,True
+187,CHAL-NOR-0187,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True
+135,CHAL-NOR-0135,"Honestly, i saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True
+419,CHAL-ACA-0119,"I am not in danger, but the AI deadline pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True
+428,CHAL-ACA-0128,"I feel like I am failing everyone because of the deadline; I need an academic plan, not crisis support.",academic_stress,custom_challenge_set,True
+246,CHAL-NOR-0246,"Honestly, i saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True
+572,CHAL-ACA-0272,"I panic whenever I open the grade portal for calculus, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+227,CHAL-NOR-0227,"Honestly, i am not requesting counseling; I only need technical help with opening the AI portal. Please keep my message private.",normal,custom_challenge_set,True
+349,CHAL-ACA-0049,"Honestly, the workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+1072,CHAL-URG-0172,I am alone after class and I cannot promise I will stay safe tonight.,urgent_human_review,custom_challenge_set,True
+638,CHAL-EMO-0038,"I am safe tonight, but I feel empty and disconnected from everyone on campus. Please keep my message private.",emotional_distress,custom_challenge_set,True
+204,CHAL-NOR-0204,"Honestly, i saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule. Please keep my message private.",normal,custom_challenge_set,True
+1137,CHAL-URG-0237,Please escalate this now; I might hurt myself after the lab report result.,urgent_human_review,custom_challenge_set,True
+211,CHAL-NOR-0211,I am not requesting counseling; I only need technical help with opening the AI portal.,normal,custom_challenge_set,True
+702,CHAL-EMO-0102,"Honestly, this is not about one quiz; I have felt sad and isolated for weeks and need counseling.",emotional_distress,custom_challenge_set,True
+880,CHAL-EMO-0280,"Honestly, i feel numb and alone in the dorm; please connect me with someone safe to talk to.",emotional_distress,custom_challenge_set,True
+315,CHAL-ACA-0015,I am scared of academic probation and I need tutoring for networks as soon as possible. Please keep my message private.,academic_stress,custom_challenge_set,True
+449,CHAL-ACA-0149,"I panic whenever I open the grade portal for statistics, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+1089,CHAL-URG-0189,"I am writing about the software engineering exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+407,CHAL-ACA-0107,"I panic whenever I open the grade portal for AI, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+376,CHAL-ACA-0076,"Honestly, i feel like I am failing everyone because of the lab report; I need an academic plan, not crisis support.",academic_stress,custom_challenge_set,True
+1012,CHAL-URG-0112,"Honestly, this is not a normal study-stress message; I need immediate human help because I feel at risk.",urgent_human_review,custom_challenge_set,True
+973,CHAL-URG-0073,"I am writing about the calculus exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+695,CHAL-EMO-0095,"Honestly, i feel numb and alone in the dorm; please connect me with someone safe to talk to. Please keep my message private.",emotional_distress,custom_challenge_set,True
+168,CHAL-NOR-0168,I am not requesting counseling; I only need technical help with opening the programming portal.,normal,custom_challenge_set,True
+655,CHAL-EMO-0055,"I am safe tonight, but I feel empty and disconnected from everyone on campus. Please keep my message private.",emotional_distress,custom_challenge_set,True
+1070,CHAL-URG-0170,This is not a normal study-stress message; I need immediate human help because I feel at risk. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+679,CHAL-EMO-0079,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True
+983,CHAL-URG-0083,"Honestly, i am alone after class and I cannot promise I will stay safe tonight. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+1027,CHAL-URG-0127,This is not a normal study-stress message; I need immediate human help because I feel at risk.,urgent_human_review,custom_challenge_set,True
+592,CHAL-ACA-0292,"I am not in danger, but the software engineering lab report pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True
+1196,CHAL-URG-0296,"I am writing about the statistics exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+1106,CHAL-URG-0206,I am alone after class and I cannot promise I will stay safe tonight.,urgent_human_review,custom_challenge_set,True
+691,CHAL-EMO-0091,"I am safe tonight, but I feel empty and disconnected from everyone on campus. Please keep my message private.",emotional_distress,custom_challenge_set,True
+529,CHAL-ACA-0229,"I am not in danger, but the AI deadline pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True
+801,CHAL-EMO-0201,"I keep attending statistics, but inside I feel hopeless and exhausted most days. Please keep my message private.",emotional_distress,custom_challenge_set,True
+988,CHAL-URG-0088,Please escalate this now; I might hurt myself after the project result. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+569,CHAL-ACA-0269,"I panic whenever I open the grade portal for programming, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+936,CHAL-URG-0036,Please escalate this now; I might hurt myself after the deadline result.,urgent_human_review,custom_challenge_set,True
+43,CHAL-NOR-0043,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True
+477,CHAL-ACA-0177,"I panic whenever I open the grade portal for networks, but I do not need emergency help. Please keep my message private.",academic_stress,custom_challenge_set,True
+694,CHAL-EMO-0094,"I keep attending statistics, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+759,CHAL-EMO-0159,"I am safe tonight, but I feel empty and disconnected from everyone on campus.",emotional_distress,custom_challenge_set,True
+487,CHAL-ACA-0187,I am scared of academic probation and I need tutoring for networks as soon as possible.,academic_stress,custom_challenge_set,True
+98,CHAL-NOR-0098,"I felt nervous last week, but today I just want to thank the advisor for helping me organize AI. Please keep my message private.",normal,custom_challenge_set,True
+300,CHAL-NOR-0300,"I felt nervous last week, but today I just want to thank the advisor for helping me organize calculus.",normal,custom_challenge_set,True
+747,CHAL-EMO-0147,"Honestly, i keep attending calculus, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+306,CHAL-ACA-0006,"Honestly, the workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+6,CHAL-NOR-0006,"Honestly, i was stressed before the exam, but I am okay now; I only need the room number for AI.",normal,custom_challenge_set,True
+491,CHAL-ACA-0191,"Honestly, the group project makes me feel trapped and overwhelmed, but my concern is the final grade. Please keep my message private.",academic_stress,custom_challenge_set,True
+337,CHAL-ACA-0037,"I feel like I am failing everyone because of the presentation; I need an academic plan, not crisis support.",academic_stress,custom_challenge_set,True
+311,CHAL-ACA-0011,"I am not in danger, but the software engineering presentation pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True
+601,CHAL-EMO-0001,I feel numb and alone in the dorm; please connect me with someone safe to talk to. Please keep my message private.,emotional_distress,custom_challenge_set,True
+969,CHAL-URG-0069,"I am writing about the statistics exam, but more importantly I do not feel safe with myself tonight. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+512,CHAL-ACA-0212,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade.",academic_stress,custom_challenge_set,True
+566,CHAL-ACA-0266,I am scared of academic probation and I need tutoring for programming as soon as possible.,academic_stress,custom_challenge_set,True
+73,CHAL-NOR-0073,"Honestly, my friend said the calculus exam caused anxiety, but my message is just to ask about the rubric. Please keep my message private.",normal,custom_challenge_set,True
+588,CHAL-ACA-0288,"Honestly, the workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically. Please keep my message private.",academic_stress,custom_challenge_set,True
+703,CHAL-EMO-0103,I feel numb and alone in the dorm; please connect me with someone safe to talk to. Please keep my message private.,emotional_distress,custom_challenge_set,True
+657,CHAL-EMO-0057,I feel numb and alone in the dorm; please connect me with someone safe to talk to. Please keep my message private.,emotional_distress,custom_challenge_set,True
+19,CHAL-NOR-0019,I am not requesting counseling; I only need technical help with opening the networks portal.,normal,custom_challenge_set,True
+14,CHAL-NOR-0014,I am not requesting counseling; I only need technical help with opening the databases portal. Please keep my message private.,normal,custom_challenge_set,True
+775,CHAL-EMO-0175,"I am safe tonight, but I feel empty and disconnected from everyone on campus. Please keep my message private.",emotional_distress,custom_challenge_set,True
+808,CHAL-EMO-0208,"Honestly, i feel numb and alone in the dorm; please connect me with someone safe to talk to. Please keep my message private.",emotional_distress,custom_challenge_set,True
+961,CHAL-URG-0061,I have thoughts of suicide and need a trained person to contact me now.,urgent_human_review,custom_challenge_set,True
+896,CHAL-EMO-0296,"Honestly, i feel numb and alone in the dorm; please connect me with someone safe to talk to.",emotional_distress,custom_challenge_set,True
+803,CHAL-EMO-0203,I feel numb and alone in the dorm; please connect me with someone safe to talk to.,emotional_distress,custom_challenge_set,True
+1118,CHAL-URG-0218,Please escalate this now; I might hurt myself after the presentation result.,urgent_human_review,custom_challenge_set,True
+1045,CHAL-URG-0145,Please escalate this now; I might hurt myself after the project result. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+280,CHAL-NOR-0280,I am not requesting counseling; I only need technical help with opening the networks portal.,normal,custom_challenge_set,True
+665,CHAL-EMO-0065,"I keep attending statistics, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+68,CHAL-NOR-0068,"Honestly, i felt nervous last week, but today I just want to thank the advisor for helping me organize calculus.",normal,custom_challenge_set,True
+513,CHAL-ACA-0213,"I am not in danger, but the programming exam pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True
+922,CHAL-URG-0022,I am alone after class and I cannot promise I will stay safe tonight. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+137,CHAL-NOR-0137,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule. Please keep my message private.",normal,custom_challenge_set,True
+1158,CHAL-URG-0258,"Honestly, i am writing about the databases exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+151,CHAL-NOR-0151,I am not requesting counseling; I only need technical help with opening the programming portal.,normal,custom_challenge_set,True
+1086,CHAL-URG-0186,Please escalate this now; I might hurt myself after the quiz result.,urgent_human_review,custom_challenge_set,True
+70,CHAL-NOR-0070,"I was stressed before the deadline, but I am okay now; I only need the room number for networks.",normal,custom_challenge_set,True
+924,CHAL-URG-0024,"Honestly, i am alone after class and I cannot promise I will stay safe tonight. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+385,CHAL-ACA-0085,"I panic whenever I open the grade portal for databases, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+1107,CHAL-URG-0207,I am alone after class and I cannot promise I will stay safe tonight.,urgent_human_review,custom_challenge_set,True
+965,CHAL-URG-0065,I am alone after class and I cannot promise I will stay safe tonight. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+457,CHAL-ACA-0157,"Honestly, i am scared of academic probation and I need tutoring for programming as soon as possible. Please keep my message private.",academic_stress,custom_challenge_set,True
+826,CHAL-EMO-0226,"Honestly, i keep attending AI, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+205,CHAL-NOR-0205,"I felt nervous last week, but today I just want to thank the advisor for helping me organize networks. Please keep my message private.",normal,custom_challenge_set,True
+319,CHAL-ACA-0019,"Honestly, i am scared of academic probation and I need tutoring for software engineering as soon as possible.",academic_stress,custom_challenge_set,True
+197,CHAL-NOR-0197,"I felt nervous last week, but today I just want to thank the advisor for helping me organize calculus.",normal,custom_challenge_set,True
+363,CHAL-ACA-0063,"Honestly, i feel like I am failing everyone because of the quiz; I need an academic plan, not crisis support. Please keep my message private.",academic_stress,custom_challenge_set,True
+888,CHAL-EMO-0288,"I keep attending programming, but inside I feel hopeless and exhausted most days. Please keep my message private.",emotional_distress,custom_challenge_set,True
+418,CHAL-ACA-0118,I am scared of academic probation and I need tutoring for statistics as soon as possible.,academic_stress,custom_challenge_set,True
+86,CHAL-NOR-0086,"Honestly, i am not requesting counseling; I only need technical help with opening the calculus portal. Please keep my message private.",normal,custom_challenge_set,True
+1052,CHAL-URG-0152,Do not wait until tomorrow; I am in crisis and need urgent help now.,urgent_human_review,custom_challenge_set,True
+279,CHAL-NOR-0279,"Honestly, i was stressed before the presentation, but I am okay now; I only need the room number for networks.",normal,custom_challenge_set,True
+210,CHAL-NOR-0210,"Honestly, my friend said the statistics project caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True
+500,CHAL-ACA-0200,"Honestly, i am scared of academic probation and I need tutoring for software engineering as soon as possible.",academic_stress,custom_challenge_set,True
+1020,CHAL-URG-0120,Do not wait until tomorrow; I am in crisis and need urgent help now. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+155,CHAL-NOR-0155,"Honestly, i am not requesting counseling; I only need technical help with opening the software engineering portal.",normal,custom_challenge_set,True
+780,CHAL-EMO-0180,This is not about one exam; I have felt sad and isolated for weeks and need counseling. Please keep my message private.,emotional_distress,custom_challenge_set,True
+845,CHAL-EMO-0245,This is not about one lab report; I have felt sad and isolated for weeks and need counseling.,emotional_distress,custom_challenge_set,True
+352,CHAL-ACA-0052,"I panic whenever I open the grade portal for statistics, but I do not need emergency help. Please keep my message private.",academic_stress,custom_challenge_set,True
+740,CHAL-EMO-0140,I feel numb and alone in the dorm; please connect me with someone safe to talk to.,emotional_distress,custom_challenge_set,True
+99,CHAL-NOR-0099,"Honestly, i was stressed before the quiz, but I am okay now; I only need the room number for software engineering.",normal,custom_challenge_set,True
+561,CHAL-ACA-0261,"I panic whenever I open the grade portal for databases, but I do not need emergency help. Please keep my message private.",academic_stress,custom_challenge_set,True
+463,CHAL-ACA-0163,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade.",academic_stress,custom_challenge_set,True
+87,CHAL-NOR-0087,"I felt nervous last week, but today I just want to thank the advisor for helping me organize calculus. Please keep my message private.",normal,custom_challenge_set,True
+46,CHAL-NOR-0046,"My friend said the statistics presentation caused anxiety, but my message is just to ask about the rubric. Please keep my message private.",normal,custom_challenge_set,True
+591,CHAL-ACA-0291,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade.",academic_stress,custom_challenge_set,True
+305,CHAL-ACA-0005,"I feel like I am failing everyone because of the presentation; I need an academic plan, not crisis support. Please keep my message private.",academic_stress,custom_challenge_set,True
+229,CHAL-NOR-0229,"My friend said the calculus lab report caused anxiety, but my message is just to ask about the rubric. Please keep my message private.",normal,custom_challenge_set,True
+899,CHAL-EMO-0299,I feel numb and alone in the dorm; please connect me with someone safe to talk to. Please keep my message private.,emotional_distress,custom_challenge_set,True
+333,CHAL-ACA-0033,"Honestly, i am scared of academic probation and I need tutoring for software engineering as soon as possible.",academic_stress,custom_challenge_set,True
+104,CHAL-NOR-0104,"Honestly, i am not requesting counseling; I only need technical help with opening the statistics portal. Please keep my message private.",normal,custom_challenge_set,True
+883,CHAL-EMO-0283,"Honestly, this is not about one deadline; I have felt sad and isolated for weeks and need counseling.",emotional_distress,custom_challenge_set,True
+689,CHAL-EMO-0089,"Honestly, i am safe tonight, but I feel empty and disconnected from everyone on campus.",emotional_distress,custom_challenge_set,True
+430,CHAL-ACA-0130,I am scared of academic probation and I need tutoring for databases as soon as possible.,academic_stress,custom_challenge_set,True
+179,CHAL-NOR-0179,"My friend said the networks deadline caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True
+320,CHAL-ACA-0020,"I feel like I am failing everyone because of the deadline; I need an academic plan, not crisis support. Please keep my message private.",academic_stress,custom_challenge_set,True
+1044,CHAL-URG-0144,I am alone after class and I cannot promise I will stay safe tonight.,urgent_human_review,custom_challenge_set,True
+823,CHAL-EMO-0223,"I am crying often after class and avoiding friends, even when my grades are okay. Please keep my message private.",emotional_distress,custom_challenge_set,True
+1183,CHAL-URG-0283,I am alone after class and I cannot promise I will stay safe tonight. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+295,CHAL-NOR-0295,"I felt nervous last week, but today I just want to thank the advisor for helping me organize databases. Please keep my message private.",normal,custom_challenge_set,True
+189,CHAL-NOR-0189,I am not requesting counseling; I only need technical help with opening the networks portal.,normal,custom_challenge_set,True
+944,CHAL-URG-0044,This is not a normal study-stress message; I need immediate human help because I feel at risk.,urgent_human_review,custom_challenge_set,True
+230,CHAL-NOR-0230,"I felt nervous last week, but today I just want to thank the advisor for helping me organize statistics. Please keep my message private.",normal,custom_challenge_set,True
+1115,CHAL-URG-0215,This is not a normal study-stress message; I need immediate human help because I feel at risk. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+69,CHAL-NOR-0069,"Honestly, i saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule. Please keep my message private.",normal,custom_challenge_set,True
+178,CHAL-NOR-0178,"Honestly, i was stressed before the deadline, but I am okay now; I only need the room number for statistics.",normal,custom_challenge_set,True
+622,CHAL-EMO-0022,"Honestly, i feel numb and alone in the dorm; please connect me with someone safe to talk to. Please keep my message private.",emotional_distress,custom_challenge_set,True
+678,CHAL-EMO-0078,I feel numb and alone in the dorm; please connect me with someone safe to talk to.,emotional_distress,custom_challenge_set,True
+1124,CHAL-URG-0224,"Honestly, i am writing about the software engineering exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+508,CHAL-ACA-0208,"I feel like I am failing everyone because of the project; I need an academic plan, not crisis support.",academic_stress,custom_challenge_set,True
+377,CHAL-ACA-0077,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically. Please keep my message private.",academic_stress,custom_challenge_set,True
+1008,CHAL-URG-0108,This is not a normal study-stress message; I need immediate human help because I feel at risk.,urgent_human_review,custom_challenge_set,True
+788,CHAL-EMO-0188,This is not about one project; I have felt sad and isolated for weeks and need counseling.,emotional_distress,custom_challenge_set,True
+811,CHAL-EMO-0211,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True
+142,CHAL-NOR-0142,This is not urgent and I am safe; please confirm whether the software engineering recording will be uploaded.,normal,custom_challenge_set,True
+757,CHAL-EMO-0157,"I am safe tonight, but I feel empty and disconnected from everyone on campus.",emotional_distress,custom_challenge_set,True
+1034,CHAL-URG-0134,I have thoughts of suicide and need a trained person to contact me now.,urgent_human_review,custom_challenge_set,True
+164,CHAL-NOR-0164,This is not urgent and I am safe; please confirm whether the networks recording will be uploaded. Please keep my message private.,normal,custom_challenge_set,True
+121,CHAL-NOR-0121,"I was stressed before the project, but I am okay now; I only need the room number for networks. Please keep my message private.",normal,custom_challenge_set,True
+241,CHAL-NOR-0241,"Honestly, i am not requesting counseling; I only need technical help with opening the networks portal.",normal,custom_challenge_set,True
+977,CHAL-URG-0077,"Honestly, please escalate this now; I might hurt myself after the lab report result. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+253,CHAL-NOR-0253,"Honestly, i felt nervous last week, but today I just want to thank the advisor for helping me organize programming. Please keep my message private.",normal,custom_challenge_set,True
+96,CHAL-NOR-0096,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True
+530,CHAL-ACA-0230,"I feel like I am failing everyone because of the exam; I need an academic plan, not crisis support. Please keep my message private.",academic_stress,custom_challenge_set,True
+353,CHAL-ACA-0053,I am scared of academic probation and I need tutoring for databases as soon as possible.,academic_stress,custom_challenge_set,True
+432,CHAL-ACA-0132,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade. Please keep my message private.",academic_stress,custom_challenge_set,True
+618,CHAL-EMO-0018,"I am crying often after class and avoiding friends, even when my grades are okay. Please keep my message private.",emotional_distress,custom_challenge_set,True
+310,CHAL-ACA-0010,"I feel like I am failing everyone because of the project; I need an academic plan, not crisis support. Please keep my message private.",academic_stress,custom_challenge_set,True
+438,CHAL-ACA-0138,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade. Please keep my message private.",academic_stress,custom_challenge_set,True
+871,CHAL-EMO-0271,"I am crying often after class and avoiding friends, even when my grades are okay. Please keep my message private.",emotional_distress,custom_challenge_set,True
+162,CHAL-NOR-0162,"I felt nervous last week, but today I just want to thank the advisor for helping me organize programming.",normal,custom_challenge_set,True
+903,CHAL-URG-0003,This is not a normal study-stress message; I need immediate human help because I feel at risk.,urgent_human_review,custom_challenge_set,True
+773,CHAL-EMO-0173,"I keep attending software engineering, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+628,CHAL-EMO-0028,"I am crying often after class and avoiding friends, even when my grades are okay.",emotional_distress,custom_challenge_set,True
+682,CHAL-EMO-0082,"Honestly, i do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True
+267,CHAL-NOR-0267,I am not requesting counseling; I only need technical help with opening the AI portal. Please keep my message private.,normal,custom_challenge_set,True
+862,CHAL-EMO-0262,"Honestly, i am safe tonight, but I feel empty and disconnected from everyone on campus. Please keep my message private.",emotional_distress,custom_challenge_set,True
+207,CHAL-NOR-0207,I am not requesting counseling; I only need technical help with opening the programming portal.,normal,custom_challenge_set,True
+910,CHAL-URG-0010,"Honestly, i am alone after class and I cannot promise I will stay safe tonight.",urgent_human_review,custom_challenge_set,True
+726,CHAL-EMO-0126,"Honestly, i feel numb and alone in the dorm; please connect me with someone safe to talk to.",emotional_distress,custom_challenge_set,True
+222,CHAL-NOR-0222,"I felt nervous last week, but today I just want to thank the advisor for helping me organize calculus.",normal,custom_challenge_set,True
+1131,CHAL-URG-0231,Do not wait until tomorrow; I am in crisis and need urgent help now.,urgent_human_review,custom_challenge_set,True
+1117,CHAL-URG-0217,Please escalate this now; I might hurt myself after the exam result.,urgent_human_review,custom_challenge_set,True
+1149,CHAL-URG-0249,"I am writing about the AI exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+802,CHAL-EMO-0202,"I keep attending software engineering, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+769,CHAL-EMO-0169,"I am safe tonight, but I feel empty and disconnected from everyone on campus.",emotional_distress,custom_challenge_set,True
+949,CHAL-URG-0049,Do not wait until tomorrow; I am in crisis and need urgent help now.,urgent_human_review,custom_challenge_set,True
+581,CHAL-ACA-0281,I am scared of academic probation and I need tutoring for databases as soon as possible. Please keep my message private.,academic_stress,custom_challenge_set,True
+755,CHAL-EMO-0155,I feel numb and alone in the dorm; please connect me with someone safe to talk to.,emotional_distress,custom_challenge_set,True
+806,CHAL-EMO-0206,"I keep attending programming, but inside I feel hopeless and exhausted most days. Please keep my message private.",emotional_distress,custom_challenge_set,True
+1120,CHAL-URG-0220,Do not wait until tomorrow; I am in crisis and need urgent help now.,urgent_human_review,custom_challenge_set,True
+374,CHAL-ACA-0074,I am scared of academic probation and I need tutoring for statistics as soon as possible. Please keep my message private.,academic_stress,custom_challenge_set,True
+974,CHAL-URG-0074,I have thoughts of suicide and need a trained person to contact me now.,urgent_human_review,custom_challenge_set,True
+595,CHAL-ACA-0295,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+840,CHAL-EMO-0240,"Honestly, i keep attending databases, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+85,CHAL-NOR-0085,"Honestly, i was stressed before the presentation, but I am okay now; I only need the room number for statistics. Please keep my message private.",normal,custom_challenge_set,True
+1056,CHAL-URG-0156,"Honestly, i am writing about the software engineering exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+410,CHAL-ACA-0110,"I feel like I am failing everyone because of the lab report; I need an academic plan, not crisis support. Please keep my message private.",academic_stress,custom_challenge_set,True
+1136,CHAL-URG-0236,I have thoughts of suicide and need a trained person to contact me now.,urgent_human_review,custom_challenge_set,True
+1046,CHAL-URG-0146,Please escalate this now; I might hurt myself after the exam result.,urgent_human_review,custom_challenge_set,True
+183,CHAL-NOR-0183,"I was stressed before the lab report, but I am okay now; I only need the room number for software engineering.",normal,custom_challenge_set,True
+625,CHAL-EMO-0025,"Honestly, this is not about one project; I have felt sad and isolated for weeks and need counseling. Please keep my message private.",emotional_distress,custom_challenge_set,True
+711,CHAL-EMO-0111,"Honestly, i am safe tonight, but I feel empty and disconnected from everyone on campus.",emotional_distress,custom_challenge_set,True
+308,CHAL-ACA-0008,I am scared of academic probation and I need tutoring for databases as soon as possible. Please keep my message private.,academic_stress,custom_challenge_set,True
+250,CHAL-NOR-0250,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule. Please keep my message private.",normal,custom_challenge_set,True
+715,CHAL-EMO-0115,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True
+604,CHAL-EMO-0004,"I do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True
+587,CHAL-ACA-0287,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically. Please keep my message private.",academic_stress,custom_challenge_set,True
+185,CHAL-NOR-0185,"My friend said the networks deadline caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True
+537,CHAL-ACA-0237,"Honestly, i feel like I am failing everyone because of the exam; I need an academic plan, not crisis support. Please keep my message private.",academic_stress,custom_challenge_set,True
+120,CHAL-NOR-0120,This is not urgent and I am safe; please confirm whether the statistics recording will be uploaded.,normal,custom_challenge_set,True
+445,CHAL-ACA-0145,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade. Please keep my message private.",academic_stress,custom_challenge_set,True
+281,CHAL-NOR-0281,"My friend said the databases quiz caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True
+1155,CHAL-URG-0255,I am alone after class and I cannot promise I will stay safe tonight. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+1152,CHAL-URG-0252,Do not wait until tomorrow; I am in crisis and need urgent help now.,urgent_human_review,custom_challenge_set,True
+327,CHAL-ACA-0027,"I feel like I am failing everyone because of the quiz; I need an academic plan, not crisis support.",academic_stress,custom_challenge_set,True
+261,CHAL-NOR-0261,This is not urgent and I am safe; please confirm whether the databases recording will be uploaded.,normal,custom_challenge_set,True
+990,CHAL-URG-0090,"Honestly, i have thoughts of suicide and need a trained person to contact me now.",urgent_human_review,custom_challenge_set,True
+317,CHAL-ACA-0017,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade.",academic_stress,custom_challenge_set,True
+857,CHAL-EMO-0257,"I am crying often after class and avoiding friends, even when my grades are okay. Please keep my message private.",emotional_distress,custom_challenge_set,True
+1101,CHAL-URG-0201,I have thoughts of suicide and need a trained person to contact me now.,urgent_human_review,custom_challenge_set,True
+734,CHAL-EMO-0134,"I am crying often after class and avoiding friends, even when my grades are okay.",emotional_distress,custom_challenge_set,True
+1179,CHAL-URG-0279,"I am writing about the databases exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+503,CHAL-ACA-0203,"Honestly, i am scared of academic probation and I need tutoring for AI as soon as possible. Please keep my message private.",academic_stress,custom_challenge_set,True
+1199,CHAL-URG-0299,"Honestly, do not wait until tomorrow; I am in crisis and need urgent help now. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+199,CHAL-NOR-0199,"My friend said the calculus presentation caused anxiety, but my message is just to ask about the rubric. Please keep my message private.",normal,custom_challenge_set,True
+146,CHAL-NOR-0146,"I felt nervous last week, but today I just want to thank the advisor for helping me organize databases.",normal,custom_challenge_set,True
+686,CHAL-EMO-0086,"I keep attending software engineering, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+813,CHAL-EMO-0213,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True
+675,CHAL-EMO-0075,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True
+454,CHAL-ACA-0154,"Honestly, i panic whenever I open the grade portal for databases, but I do not need emergency help. Please keep my message private.",academic_stress,custom_challenge_set,True
+32,CHAL-NOR-0032,"My friend said the statistics quiz caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True
+812,CHAL-EMO-0212,"I am crying often after class and avoiding friends, even when my grades are okay.",emotional_distress,custom_challenge_set,True
+1016,CHAL-URG-0116,"Honestly, i have thoughts of suicide and need a trained person to contact me now. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+251,CHAL-NOR-0251,"I felt nervous last week, but today I just want to thank the advisor for helping me organize statistics.",normal,custom_challenge_set,True
+283,CHAL-NOR-0283,"I was stressed before the exam, but I am okay now; I only need the room number for software engineering. Please keep my message private.",normal,custom_challenge_set,True
+652,CHAL-EMO-0052,I feel numb and alone in the dorm; please connect me with someone safe to talk to. Please keep my message private.,emotional_distress,custom_challenge_set,True
+44,CHAL-NOR-0044,"I was stressed before the presentation, but I am okay now; I only need the room number for databases.",normal,custom_challenge_set,True
+1049,CHAL-URG-0149,I am alone after class and I cannot promise I will stay safe tonight.,urgent_human_review,custom_challenge_set,True
+739,CHAL-EMO-0139,"I am crying often after class and avoiding friends, even when my grades are okay.",emotional_distress,custom_challenge_set,True
+16,CHAL-NOR-0016,"I was stressed before the lab report, but I am okay now; I only need the room number for calculus. Please keep my message private.",normal,custom_challenge_set,True
+778,CHAL-EMO-0178,I feel numb and alone in the dorm; please connect me with someone safe to talk to.,emotional_distress,custom_challenge_set,True
+172,CHAL-NOR-0172,"Honestly, i felt nervous last week, but today I just want to thank the advisor for helping me organize networks.",normal,custom_challenge_set,True
+934,CHAL-URG-0034,Do not wait until tomorrow; I am in crisis and need urgent help now. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+544,CHAL-ACA-0244,I am scared of academic probation and I need tutoring for calculus as soon as possible.,academic_stress,custom_challenge_set,True
+1067,CHAL-URG-0167,I have thoughts of suicide and need a trained person to contact me now.,urgent_human_review,custom_challenge_set,True
+130,CHAL-NOR-0130,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True
+201,CHAL-NOR-0201,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True
+368,CHAL-ACA-0068,"Honestly, the workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically. Please keep my message private.",academic_stress,custom_challenge_set,True
+1014,CHAL-URG-0114,"I am writing about the calculus exam, but more importantly I do not feel safe with myself tonight. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+1076,CHAL-URG-0176,Do not wait until tomorrow; I am in crisis and need urgent help now.,urgent_human_review,custom_challenge_set,True
+876,CHAL-EMO-0276,"I am safe tonight, but I feel empty and disconnected from everyone on campus.",emotional_distress,custom_challenge_set,True
+264,CHAL-NOR-0264,This is not urgent and I am safe; please confirm whether the statistics recording will be uploaded.,normal,custom_challenge_set,True
+1073,CHAL-URG-0173,"Honestly, this is not a normal study-stress message; I need immediate human help because I feel at risk.",urgent_human_review,custom_challenge_set,True
+51,CHAL-NOR-0051,"I was stressed before the deadline, but I am okay now; I only need the room number for software engineering.",normal,custom_challenge_set,True
+724,CHAL-EMO-0124,"I am crying often after class and avoiding friends, even when my grades are okay.",emotional_distress,custom_challenge_set,True
+987,CHAL-URG-0087,Do not wait until tomorrow; I am in crisis and need urgent help now. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+1074,CHAL-URG-0174,Please escalate this now; I might hurt myself after the deadline result. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+252,CHAL-NOR-0252,I am not requesting counseling; I only need technical help with opening the programming portal.,normal,custom_challenge_set,True
+307,CHAL-ACA-0007,"Honestly, i am not in danger, but the calculus project pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True
+395,CHAL-ACA-0095,"Honestly, i panic whenever I open the grade portal for networks, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+832,CHAL-EMO-0232,I feel numb and alone in the dorm; please connect me with someone safe to talk to.,emotional_distress,custom_challenge_set,True
+612,CHAL-EMO-0012,"I am safe tonight, but I feel empty and disconnected from everyone on campus.",emotional_distress,custom_challenge_set,True
+884,CHAL-EMO-0284,I feel numb and alone in the dorm; please connect me with someone safe to talk to.,emotional_distress,custom_challenge_set,True
+397,CHAL-ACA-0097,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade.",academic_stress,custom_challenge_set,True
+559,CHAL-ACA-0259,"I am not in danger, but the software engineering presentation pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True
+644,CHAL-EMO-0044,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True
+777,CHAL-EMO-0177,"I am crying often after class and avoiding friends, even when my grades are okay.",emotional_distress,custom_challenge_set,True
+542,CHAL-ACA-0242,I am scared of academic probation and I need tutoring for programming as soon as possible.,academic_stress,custom_challenge_set,True
+1172,CHAL-URG-0272,I am alone after class and I cannot promise I will stay safe tonight.,urgent_human_review,custom_challenge_set,True
+245,CHAL-NOR-0245,"I was stressed before the presentation, but I am okay now; I only need the room number for databases. Please keep my message private.",normal,custom_challenge_set,True
+373,CHAL-ACA-0073,"Honestly, the group project makes me feel trapped and overwhelmed, but my concern is the final grade.",academic_stress,custom_challenge_set,True
+110,CHAL-NOR-0110,I am not requesting counseling; I only need technical help with opening the statistics portal.,normal,custom_challenge_set,True
+1174,CHAL-URG-0274,Please escalate this now; I might hurt myself after the project result.,urgent_human_review,custom_challenge_set,True
+304,CHAL-ACA-0004,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade.",academic_stress,custom_challenge_set,True
+658,CHAL-EMO-0058,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True
+10,CHAL-NOR-0010,This is not urgent and I am safe; please confirm whether the AI recording will be uploaded.,normal,custom_challenge_set,True
+843,CHAL-EMO-0243,I feel numb and alone in the dorm; please connect me with someone safe to talk to.,emotional_distress,custom_challenge_set,True
+684,CHAL-EMO-0084,I feel numb and alone in the dorm; please connect me with someone safe to talk to.,emotional_distress,custom_challenge_set,True
+158,CHAL-NOR-0158,This is not urgent and I am safe; please confirm whether the databases recording will be uploaded.,normal,custom_challenge_set,True
+148,CHAL-NOR-0148,"I felt nervous last week, but today I just want to thank the advisor for helping me organize calculus. Please keep my message private.",normal,custom_challenge_set,True
+66,CHAL-NOR-0066,"Honestly, my friend said the calculus exam caused anxiety, but my message is just to ask about the rubric. Please keep my message private.",normal,custom_challenge_set,True
+191,CHAL-NOR-0191,"I felt nervous last week, but today I just want to thank the advisor for helping me organize calculus.",normal,custom_challenge_set,True
+244,CHAL-NOR-0244,"Honestly, my friend said the statistics deadline caused anxiety, but my message is just to ask about the rubric. Please keep my message private.",normal,custom_challenge_set,True
+290,CHAL-NOR-0290,I am not requesting counseling; I only need technical help with opening the programming portal. Please keep my message private.,normal,custom_challenge_set,True
+821,CHAL-EMO-0221,"Honestly, this is not about one presentation; I have felt sad and isolated for weeks and need counseling. Please keep my message private.",emotional_distress,custom_challenge_set,True
+8,CHAL-NOR-0008,"I was stressed before the quiz, but I am okay now; I only need the room number for software engineering. Please keep my message private.",normal,custom_challenge_set,True
+113,CHAL-NOR-0113,"I felt nervous last week, but today I just want to thank the advisor for helping me organize software engineering.",normal,custom_challenge_set,True
+790,CHAL-EMO-0190,I feel numb and alone in the dorm; please connect me with someone safe to talk to. Please keep my message private.,emotional_distress,custom_challenge_set,True
+132,CHAL-NOR-0132,"Honestly, my friend said the calculus presentation caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True
+1128,CHAL-URG-0228,Do not wait until tomorrow; I am in crisis and need urgent help now.,urgent_human_review,custom_challenge_set,True
+165,CHAL-NOR-0165,"Honestly, i was stressed before the project, but I am okay now; I only need the room number for statistics.",normal,custom_challenge_set,True
+1075,CHAL-URG-0175,"Honestly, i am writing about the software engineering exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+795,CHAL-EMO-0195,"Honestly, this is not about one exam; I have felt sad and isolated for weeks and need counseling. Please keep my message private.",emotional_distress,custom_challenge_set,True
+614,CHAL-EMO-0014,"Honestly, i am safe tonight, but I feel empty and disconnected from everyone on campus. Please keep my message private.",emotional_distress,custom_challenge_set,True
+236,CHAL-NOR-0236,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True
+685,CHAL-EMO-0085,"Honestly, i do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True
+453,CHAL-ACA-0153,"I feel like I am failing everyone because of the exam; I need an academic plan, not crisis support. Please keep my message private.",academic_stress,custom_challenge_set,True
+683,CHAL-EMO-0083,I feel numb and alone in the dorm; please connect me with someone safe to talk to. Please keep my message private.,emotional_distress,custom_challenge_set,True
+907,CHAL-URG-0007,This is not a normal study-stress message; I need immediate human help because I feel at risk.,urgent_human_review,custom_challenge_set,True
+125,CHAL-NOR-0125,I am not requesting counseling; I only need technical help with opening the software engineering portal.,normal,custom_challenge_set,True
+648,CHAL-EMO-0048,"Honestly, i am crying often after class and avoiding friends, even when my grades are okay. Please keep my message private.",emotional_distress,custom_challenge_set,True
+877,CHAL-EMO-0277,I feel numb and alone in the dorm; please connect me with someone safe to talk to.,emotional_distress,custom_challenge_set,True
+918,CHAL-URG-0018,This is not a normal study-stress message; I need immediate human help because I feel at risk.,urgent_human_review,custom_challenge_set,True
+177,CHAL-NOR-0177,This is not urgent and I am safe; please confirm whether the statistics recording will be uploaded.,normal,custom_challenge_set,True
+917,CHAL-URG-0017,Please escalate this now; I might hurt myself after the quiz result.,urgent_human_review,custom_challenge_set,True
+1051,CHAL-URG-0151,"Honestly, please escalate this now; I might hurt myself after the lab report result.",urgent_human_review,custom_challenge_set,True
+91,CHAL-NOR-0091,"Honestly, i felt nervous last week, but today I just want to thank the advisor for helping me organize software engineering.",normal,custom_challenge_set,True
+906,CHAL-URG-0006,I am alone after class and I cannot promise I will stay safe tonight.,urgent_human_review,custom_challenge_set,True
+58,CHAL-NOR-0058,This is not urgent and I am safe; please confirm whether the AI recording will be uploaded. Please keep my message private.,normal,custom_challenge_set,True
+41,CHAL-NOR-0041,"Honestly, i was stressed before the quiz, but I am okay now; I only need the room number for calculus.",normal,custom_challenge_set,True
+1102,CHAL-URG-0202,"Honestly, i am alone after class and I cannot promise I will stay safe tonight.",urgent_human_review,custom_challenge_set,True
+293,CHAL-NOR-0293,"I felt nervous last week, but today I just want to thank the advisor for helping me organize networks.",normal,custom_challenge_set,True
+268,CHAL-NOR-0268,"I was stressed before the quiz, but I am okay now; I only need the room number for calculus.",normal,custom_challenge_set,True
+966,CHAL-URG-0066,Do not wait until tomorrow; I am in crisis and need urgent help now. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+647,CHAL-EMO-0047,"I keep attending databases, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+1126,CHAL-URG-0226,Please escalate this now; I might hurt myself after the project result.,urgent_human_review,custom_challenge_set,True
+422,CHAL-ACA-0122,"I am not in danger, but the networks exam pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True
+1057,CHAL-URG-0157,Do not wait until tomorrow; I am in crisis and need urgent help now.,urgent_human_review,custom_challenge_set,True
+131,CHAL-NOR-0131,"Honestly, i felt nervous last week, but today I just want to thank the advisor for helping me organize programming.",normal,custom_challenge_set,True
+111,CHAL-NOR-0111,I am not requesting counseling; I only need technical help with opening the software engineering portal. Please keep my message private.,normal,custom_challenge_set,True
+671,CHAL-EMO-0071,"I am safe tonight, but I feel empty and disconnected from everyone on campus. Please keep my message private.",emotional_distress,custom_challenge_set,True
+34,CHAL-NOR-0034,I am not requesting counseling; I only need technical help with opening the AI portal.,normal,custom_challenge_set,True
+1125,CHAL-URG-0225,I am alone after class and I cannot promise I will stay safe tonight.,urgent_human_review,custom_challenge_set,True
+967,CHAL-URG-0067,"Honestly, i am writing about the AI exam, but more importantly I do not feel safe with myself tonight. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+669,CHAL-EMO-0069,"I am safe tonight, but I feel empty and disconnected from everyone on campus.",emotional_distress,custom_challenge_set,True
+209,CHAL-NOR-0209,"Honestly, this is not urgent and I am safe; please confirm whether the databases recording will be uploaded. Please keep my message private.",normal,custom_challenge_set,True
+115,CHAL-NOR-0115,"Honestly, i was stressed before the project, but I am okay now; I only need the room number for programming. Please keep my message private.",normal,custom_challenge_set,True
+1078,CHAL-URG-0178,I am alone after class and I cannot promise I will stay safe tonight.,urgent_human_review,custom_challenge_set,True
+1144,CHAL-URG-0244,Do not wait until tomorrow; I am in crisis and need urgent help now.,urgent_human_review,custom_challenge_set,True
+707,CHAL-EMO-0107,"Honestly, this is not about one quiz; I have felt sad and isolated for weeks and need counseling.",emotional_distress,custom_challenge_set,True
+400,CHAL-ACA-0100,I am scared of academic probation and I need tutoring for AI as soon as possible. Please keep my message private.,academic_stress,custom_challenge_set,True
+213,CHAL-NOR-0213,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True
+53,CHAL-NOR-0053,This is not urgent and I am safe; please confirm whether the AI recording will be uploaded.,normal,custom_challenge_set,True
+1116,CHAL-URG-0216,I have thoughts of suicide and need a trained person to contact me now.,urgent_human_review,custom_challenge_set,True
+905,CHAL-URG-0005,I am alone after class and I cannot promise I will stay safe tonight.,urgent_human_review,custom_challenge_set,True
+1050,CHAL-URG-0150,This is not a normal study-stress message; I need immediate human help because I feel at risk. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+42,CHAL-NOR-0042,"Honestly, this is not urgent and I am safe; please confirm whether the AI recording will be uploaded.",normal,custom_challenge_set,True
+301,CHAL-ACA-0001,"Honestly, i am not in danger, but the software engineering quiz pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True
+908,CHAL-URG-0008,Please escalate this now; I might hurt myself after the quiz result.,urgent_human_review,custom_challenge_set,True
+615,CHAL-EMO-0015,"I do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True
+765,CHAL-EMO-0165,"Honestly, i am safe tonight, but I feel empty and disconnected from everyone on campus. Please keep my message private.",emotional_distress,custom_challenge_set,True
+706,CHAL-EMO-0106,"I keep attending databases, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+855,CHAL-EMO-0255,This is not about one project; I have felt sad and isolated for weeks and need counseling.,emotional_distress,custom_challenge_set,True
+262,CHAL-NOR-0262,"I was stressed before the quiz, but I am okay now; I only need the room number for statistics.",normal,custom_challenge_set,True
+599,CHAL-ACA-0299,"I panic whenever I open the grade portal for networks, but I do not need emergency help. Please keep my message private.",academic_stress,custom_challenge_set,True
+617,CHAL-EMO-0017,I feel numb and alone in the dorm; please connect me with someone safe to talk to.,emotional_distress,custom_challenge_set,True
+664,CHAL-EMO-0064,"Honestly, i am crying often after class and avoiding friends, even when my grades are okay. Please keep my message private.",emotional_distress,custom_challenge_set,True
+492,CHAL-ACA-0192,"I feel like I am failing everyone because of the presentation; I need an academic plan, not crisis support.",academic_stress,custom_challenge_set,True
+389,CHAL-ACA-0089,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically. Please keep my message private.",academic_stress,custom_challenge_set,True
+733,CHAL-EMO-0133,"I am safe tonight, but I feel empty and disconnected from everyone on campus. Please keep my message private.",emotional_distress,custom_challenge_set,True
+728,CHAL-EMO-0128,"I do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True
+275,CHAL-NOR-0275,"Honestly, i saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule. Please keep my message private.",normal,custom_challenge_set,True
+357,CHAL-ACA-0057,I am scared of academic probation and I need tutoring for networks as soon as possible. Please keep my message private.,academic_stress,custom_challenge_set,True
+870,CHAL-EMO-0270,This is not about one exam; I have felt sad and isolated for weeks and need counseling. Please keep my message private.,emotional_distress,custom_challenge_set,True
+318,CHAL-ACA-0018,"I am not in danger, but the AI exam pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True
+1146,CHAL-URG-0246,Please escalate this now; I might hurt myself after the quiz result. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+498,CHAL-ACA-0198,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+598,CHAL-ACA-0298,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade.",academic_stress,custom_challenge_set,True
+858,CHAL-EMO-0258,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True
+292,CHAL-NOR-0292,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True
+458,CHAL-ACA-0158,"I feel like I am failing everyone because of the lab report; I need an academic plan, not crisis support.",academic_stress,custom_challenge_set,True
+1079,CHAL-URG-0179,Do not wait until tomorrow; I am in crisis and need urgent help now.,urgent_human_review,custom_challenge_set,True
+709,CHAL-EMO-0109,"Honestly, i am crying often after class and avoiding friends, even when my grades are okay.",emotional_distress,custom_challenge_set,True
+49,CHAL-NOR-0049,"Honestly, i am not requesting counseling; I only need technical help with opening the software engineering portal. Please keep my message private.",normal,custom_challenge_set,True
+1098,CHAL-URG-0198,Please escalate this now; I might hurt myself after the quiz result. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+382,CHAL-ACA-0082,"I panic whenever I open the grade portal for statistics, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+995,CHAL-URG-0095,"Honestly, i have thoughts of suicide and need a trained person to contact me now. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+909,CHAL-URG-0009,Please escalate this now; I might hurt myself after the lab report result.,urgent_human_review,custom_challenge_set,True
+981,CHAL-URG-0081,"Honestly, this is not a normal study-stress message; I need immediate human help because I feel at risk. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+346,CHAL-ACA-0046,"I panic whenever I open the grade portal for AI, but I do not need emergency help. Please keep my message private.",academic_stress,custom_challenge_set,True
+632,CHAL-EMO-0032,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True
+1163,CHAL-URG-0263,"Honestly, i am alone after class and I cannot promise I will stay safe tonight.",urgent_human_review,custom_challenge_set,True
+1095,CHAL-URG-0195,Please escalate this now; I might hurt myself after the project result.,urgent_human_review,custom_challenge_set,True
+247,CHAL-NOR-0247,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule. Please keep my message private.",normal,custom_challenge_set,True
+723,CHAL-EMO-0123,"I am safe tonight, but I feel empty and disconnected from everyone on campus. Please keep my message private.",emotional_distress,custom_challenge_set,True
+393,CHAL-ACA-0093,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically. Please keep my message private.",academic_stress,custom_challenge_set,True
+103,CHAL-NOR-0103,"My friend said the networks quiz caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True
+309,CHAL-ACA-0009,"I feel like I am failing everyone because of the project; I need an academic plan, not crisis support.",academic_stress,custom_challenge_set,True
+388,CHAL-ACA-0088,"I panic whenever I open the grade portal for databases, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+5,CHAL-NOR-0005,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule. Please keep my message private.",normal,custom_challenge_set,True
+950,CHAL-URG-0050,I have thoughts of suicide and need a trained person to contact me now.,urgent_human_review,custom_challenge_set,True
+302,CHAL-ACA-0002,"I am not in danger, but the statistics lab report pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True
+710,CHAL-EMO-0110,"Honestly, this is not about one quiz; I have felt sad and isolated for weeks and need counseling.",emotional_distress,custom_challenge_set,True
+1005,CHAL-URG-0105,Do not wait until tomorrow; I am in crisis and need urgent help now.,urgent_human_review,custom_challenge_set,True
+299,CHAL-NOR-0299,"I was stressed before the presentation, but I am okay now; I only need the room number for programming. Please keep my message private.",normal,custom_challenge_set,True
+851,CHAL-EMO-0251,This is not about one project; I have felt sad and isolated for weeks and need counseling.,emotional_distress,custom_challenge_set,True
+274,CHAL-NOR-0274,"Honestly, i was stressed before the deadline, but I am okay now; I only need the room number for calculus.",normal,custom_challenge_set,True
+1153,CHAL-URG-0253,I have thoughts of suicide and need a trained person to contact me now.,urgent_human_review,custom_challenge_set,True
+316,CHAL-ACA-0016,"Honestly, the workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically. Please keep my message private.",academic_stress,custom_challenge_set,True
+524,CHAL-ACA-0224,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade.",academic_stress,custom_challenge_set,True
+1048,CHAL-URG-0148,"I am writing about the databases exam, but more importantly I do not feel safe with myself tonight. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+1007,CHAL-URG-0107,Do not wait until tomorrow; I am in crisis and need urgent help now.,urgent_human_review,custom_challenge_set,True
+328,CHAL-ACA-0028,"I panic whenever I open the grade portal for networks, but I do not need emergency help. Please keep my message private.",academic_stress,custom_challenge_set,True
+841,CHAL-EMO-0241,This is not about one quiz; I have felt sad and isolated for weeks and need counseling. Please keep my message private.,emotional_distress,custom_challenge_set,True
+557,CHAL-ACA-0257,I am scared of academic probation and I need tutoring for databases as soon as possible. Please keep my message private.,academic_stress,custom_challenge_set,True
+429,CHAL-ACA-0129,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade.",academic_stress,custom_challenge_set,True
+881,CHAL-EMO-0281,"I am safe tonight, but I feel empty and disconnected from everyone on campus.",emotional_distress,custom_challenge_set,True
+314,CHAL-ACA-0014,"I panic whenever I open the grade portal for databases, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+1068,CHAL-URG-0168,I have thoughts of suicide and need a trained person to contact me now.,urgent_human_review,custom_challenge_set,True
+67,CHAL-NOR-0067,I am not requesting counseling; I only need technical help with opening the statistics portal. Please keep my message private.,normal,custom_challenge_set,True
+176,CHAL-NOR-0176,"My friend said the software engineering quiz caused anxiety, but my message is just to ask about the rubric. Please keep my message private.",normal,custom_challenge_set,True
+1161,CHAL-URG-0261,This is not a normal study-stress message; I need immediate human help because I feel at risk.,urgent_human_review,custom_challenge_set,True
+56,CHAL-NOR-0056,This is not urgent and I am safe; please confirm whether the software engineering recording will be uploaded.,normal,custom_challenge_set,True
+570,CHAL-ACA-0270,"I panic whenever I open the grade portal for software engineering, but I do not need emergency help. Please keep my message private.",academic_stress,custom_challenge_set,True
+29,CHAL-NOR-0029,I am not requesting counseling; I only need technical help with opening the calculus portal. Please keep my message private.,normal,custom_challenge_set,True
+698,CHAL-EMO-0098,"I am safe tonight, but I feel empty and disconnected from everyone on campus. Please keep my message private.",emotional_distress,custom_challenge_set,True
+167,CHAL-NOR-0167,"My friend said the calculus quiz caused anxiety, but my message is just to ask about the rubric. Please keep my message private.",normal,custom_challenge_set,True
+742,CHAL-EMO-0142,"I do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True
+794,CHAL-EMO-0194,"I keep attending databases, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+276,CHAL-NOR-0276,"Honestly, this is not urgent and I am safe; please confirm whether the software engineering recording will be uploaded. Please keep my message private.",normal,custom_challenge_set,True
+964,CHAL-URG-0064,"Honestly, this is not a normal study-stress message; I need immediate human help because I feel at risk.",urgent_human_review,custom_challenge_set,True
+631,CHAL-EMO-0031,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True
+345,CHAL-ACA-0045,I am scared of academic probation and I need tutoring for AI as soon as possible. Please keep my message private.,academic_stress,custom_challenge_set,True
+690,CHAL-EMO-0090,This is not about one exam; I have felt sad and isolated for weeks and need counseling.,emotional_distress,custom_challenge_set,True
+286,CHAL-NOR-0286,"My friend said the calculus presentation caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True
+55,CHAL-NOR-0055,"I felt nervous last week, but today I just want to thank the advisor for helping me organize statistics. Please keep my message private.",normal,custom_challenge_set,True
+118,CHAL-NOR-0118,"I was stressed before the lab report, but I am okay now; I only need the room number for AI.",normal,custom_challenge_set,True
+329,CHAL-ACA-0029,I am scared of academic probation and I need tutoring for programming as soon as possible.,academic_stress,custom_challenge_set,True
+22,CHAL-NOR-0022,This is not urgent and I am safe; please confirm whether the networks recording will be uploaded.,normal,custom_challenge_set,True
+963,CHAL-URG-0063,I am alone after class and I cannot promise I will stay safe tonight. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+124,CHAL-NOR-0124,"I was stressed before the lab report, but I am okay now; I only need the room number for programming.",normal,custom_challenge_set,True
+1015,CHAL-URG-0115,Please escalate this now; I might hurt myself after the lab report result. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+258,CHAL-NOR-0258,"Honestly, i felt nervous last week, but today I just want to thank the advisor for helping me organize programming. Please keep my message private.",normal,custom_challenge_set,True
+1065,CHAL-URG-0165,I am alone after class and I cannot promise I will stay safe tonight. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+11,CHAL-NOR-0011,"I felt nervous last week, but today I just want to thank the advisor for helping me organize networks.",normal,custom_challenge_set,True
+620,CHAL-EMO-0020,"I keep attending networks, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+547,CHAL-ACA-0247,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+240,CHAL-NOR-0240,This is not urgent and I am safe; please confirm whether the networks recording will be uploaded. Please keep my message private.,normal,custom_challenge_set,True
+37,CHAL-NOR-0037,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True
+163,CHAL-NOR-0163,I am not requesting counseling; I only need technical help with opening the calculus portal.,normal,custom_challenge_set,True
+396,CHAL-ACA-0096,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+369,CHAL-ACA-0069,"Honestly, the workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+321,CHAL-ACA-0021,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade.",academic_stress,custom_challenge_set,True
+271,CHAL-NOR-0271,"My friend said the networks deadline caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True
+953,CHAL-URG-0053,This is not a normal study-stress message; I need immediate human help because I feel at risk. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+727,CHAL-EMO-0127,"I keep attending databases, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+1176,CHAL-URG-0276,Please escalate this now; I might hurt myself after the deadline result.,urgent_human_review,custom_challenge_set,True
+805,CHAL-EMO-0205,I feel numb and alone in the dorm; please connect me with someone safe to talk to.,emotional_distress,custom_challenge_set,True
+642,CHAL-EMO-0042,"I keep attending calculus, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+518,CHAL-ACA-0218,"I am not in danger, but the software engineering presentation pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True
+101,CHAL-NOR-0101,"I felt nervous last week, but today I just want to thank the advisor for helping me organize software engineering.",normal,custom_challenge_set,True
+459,CHAL-ACA-0159,"I am not in danger, but the programming lab report pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True
+450,CHAL-ACA-0150,"Honestly, i panic whenever I open the grade portal for AI, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+186,CHAL-NOR-0186,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule. Please keep my message private.",normal,custom_challenge_set,True
+479,CHAL-ACA-0179,"I am not in danger, but the calculus lab report pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True
+543,CHAL-ACA-0243,I am scared of academic probation and I need tutoring for programming as soon as possible. Please keep my message private.,academic_stress,custom_challenge_set,True
+152,CHAL-NOR-0152,"My friend said the statistics presentation caused anxiety, but my message is just to ask about the rubric. Please keep my message private.",normal,custom_challenge_set,True
+991,CHAL-URG-0091,Please escalate this now; I might hurt myself after the presentation result.,urgent_human_review,custom_challenge_set,True
+692,CHAL-EMO-0092,"I am safe tonight, but I feel empty and disconnected from everyone on campus. Please keep my message private.",emotional_distress,custom_challenge_set,True
+824,CHAL-EMO-0224,This is not about one deadline; I have felt sad and isolated for weeks and need counseling. Please keep my message private.,emotional_distress,custom_challenge_set,True
+954,CHAL-URG-0054,"Honestly, this is not a normal study-stress message; I need immediate human help because I feel at risk.",urgent_human_review,custom_challenge_set,True
+339,CHAL-ACA-0039,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+370,CHAL-ACA-0070,"Honestly, the group project makes me feel trapped and overwhelmed, but my concern is the final grade. Please keep my message private.",academic_stress,custom_challenge_set,True
+1099,CHAL-URG-0199,"Honestly, i am alone after class and I cannot promise I will stay safe tonight. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+1166,CHAL-URG-0266,"I am writing about the programming exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+1060,CHAL-URG-0160,Please escalate this now; I might hurt myself after the exam result.,urgent_human_review,custom_challenge_set,True
+427,CHAL-ACA-0127,"I feel like I am failing everyone because of the exam; I need an academic plan, not crisis support.",academic_stress,custom_challenge_set,True
+1114,CHAL-URG-0214,Please escalate this now; I might hurt myself after the presentation result.,urgent_human_review,custom_challenge_set,True
+645,CHAL-EMO-0045,"Honestly, i am safe tonight, but I feel empty and disconnected from everyone on campus.",emotional_distress,custom_challenge_set,True
+79,CHAL-NOR-0079,"I felt nervous last week, but today I just want to thank the advisor for helping me organize calculus.",normal,custom_challenge_set,True
+735,CHAL-EMO-0135,"Honestly, i am crying often after class and avoiding friends, even when my grades are okay.",emotional_distress,custom_challenge_set,True
+713,CHAL-EMO-0113,"Honestly, this is not about one deadline; I have felt sad and isolated for weeks and need counseling.",emotional_distress,custom_challenge_set,True
+1047,CHAL-URG-0147,"I am writing about the networks exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+409,CHAL-ACA-0109,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically. Please keep my message private.",academic_stress,custom_challenge_set,True
+196,CHAL-NOR-0196,"I was stressed before the project, but I am okay now; I only need the room number for databases. Please keep my message private.",normal,custom_challenge_set,True
+80,CHAL-NOR-0080,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule. Please keep my message private.",normal,custom_challenge_set,True
+434,CHAL-ACA-0134,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade.",academic_stress,custom_challenge_set,True
+470,CHAL-ACA-0170,I am scared of academic probation and I need tutoring for programming as soon as possible.,academic_stress,custom_challenge_set,True
+798,CHAL-EMO-0198,"I am safe tonight, but I feel empty and disconnected from everyone on campus.",emotional_distress,custom_challenge_set,True
+677,CHAL-EMO-0077,"I keep attending programming, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+672,CHAL-EMO-0072,I feel numb and alone in the dorm; please connect me with someone safe to talk to.,emotional_distress,custom_challenge_set,True
+839,CHAL-EMO-0239,"I keep attending statistics, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+1138,CHAL-URG-0238,"Honestly, i have thoughts of suicide and need a trained person to contact me now.",urgent_human_review,custom_challenge_set,True
+1121,CHAL-URG-0221,I am alone after class and I cannot promise I will stay safe tonight.,urgent_human_review,custom_challenge_set,True
+394,CHAL-ACA-0094,"I panic whenever I open the grade portal for AI, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+708,CHAL-EMO-0108,"Honestly, i am safe tonight, but I feel empty and disconnected from everyone on campus. Please keep my message private.",emotional_distress,custom_challenge_set,True
+1109,CHAL-URG-0209,Please escalate this now; I might hurt myself after the project result. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+1156,CHAL-URG-0256,This is not a normal study-stress message; I need immediate human help because I feel at risk. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+92,CHAL-NOR-0092,"I felt nervous last week, but today I just want to thank the advisor for helping me organize databases. Please keep my message private.",normal,custom_challenge_set,True
+171,CHAL-NOR-0171,I am not requesting counseling; I only need technical help with opening the networks portal.,normal,custom_challenge_set,True
+273,CHAL-NOR-0273,"I was stressed before the presentation, but I am okay now; I only need the room number for networks.",normal,custom_challenge_set,True
+347,CHAL-ACA-0047,"Honestly, the group project makes me feel trapped and overwhelmed, but my concern is the final grade.",academic_stress,custom_challenge_set,True
+76,CHAL-NOR-0076,"I felt nervous last week, but today I just want to thank the advisor for helping me organize networks.",normal,custom_challenge_set,True
+596,CHAL-ACA-0296,"I panic whenever I open the grade portal for AI, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+1022,CHAL-URG-0122,This is not a normal study-stress message; I need immediate human help because I feel at risk.,urgent_human_review,custom_challenge_set,True
+779,CHAL-EMO-0179,I feel numb and alone in the dorm; please connect me with someone safe to talk to. Please keep my message private.,emotional_distress,custom_challenge_set,True
+1143,CHAL-URG-0243,"I am writing about the networks exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+1043,CHAL-URG-0143,I am alone after class and I cannot promise I will stay safe tonight. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+170,CHAL-NOR-0170,"Honestly, this is not urgent and I am safe; please confirm whether the calculus recording will be uploaded. Please keep my message private.",normal,custom_challenge_set,True
+548,CHAL-ACA-0248,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+57,CHAL-NOR-0057,I am not requesting counseling; I only need technical help with opening the programming portal.,normal,custom_challenge_set,True
+549,CHAL-ACA-0249,I am scared of academic probation and I need tutoring for AI as soon as possible. Please keep my message private.,academic_stress,custom_challenge_set,True
+88,CHAL-NOR-0088,This is not urgent and I am safe; please confirm whether the AI recording will be uploaded. Please keep my message private.,normal,custom_challenge_set,True
+156,CHAL-NOR-0156,"I felt nervous last week, but today I just want to thank the advisor for helping me organize software engineering.",normal,custom_challenge_set,True
+108,CHAL-NOR-0108,"I was stressed before the quiz, but I am okay now; I only need the room number for databases. Please keep my message private.",normal,custom_challenge_set,True
+651,CHAL-EMO-0051,"I am crying often after class and avoiding friends, even when my grades are okay. Please keep my message private.",emotional_distress,custom_challenge_set,True
+1085,CHAL-URG-0185,"Honestly, do not wait until tomorrow; I am in crisis and need urgent help now. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+750,CHAL-EMO-0150,"Honestly, this is not about one deadline; I have felt sad and isolated for weeks and need counseling.",emotional_distress,custom_challenge_set,True
+237,CHAL-NOR-0237,"Honestly, i saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True
+562,CHAL-ACA-0262,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+499,CHAL-ACA-0199,"I panic whenever I open the grade portal for programming, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+915,CHAL-URG-0015,"I am writing about the statistics exam, but more importantly I do not feel safe with myself tonight. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+744,CHAL-EMO-0144,"I keep attending software engineering, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+1010,CHAL-URG-0110,I have thoughts of suicide and need a trained person to contact me now.,urgent_human_review,custom_challenge_set,True
+358,CHAL-ACA-0058,"Honestly, the group project makes me feel trapped and overwhelmed, but my concern is the final grade.",academic_stress,custom_challenge_set,True
+270,CHAL-NOR-0270,"Honestly, i saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule. Please keep my message private.",normal,custom_challenge_set,True
+473,CHAL-ACA-0173,"I am not in danger, but the programming deadline pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True
+462,CHAL-ACA-0162,"Honestly, i panic whenever I open the grade portal for calculus, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+464,CHAL-ACA-0164,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+75,CHAL-NOR-0075,"I was stressed before the project, but I am okay now; I only need the room number for AI.",normal,custom_challenge_set,True
+60,CHAL-NOR-0060,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True
+1108,CHAL-URG-0208,"Honestly, please escalate this now; I might hurt myself after the presentation result. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+829,CHAL-EMO-0229,"I am safe tonight, but I feel empty and disconnected from everyone on campus.",emotional_distress,custom_challenge_set,True
+493,CHAL-ACA-0193,"Honestly, i am scared of academic probation and I need tutoring for software engineering as soon as possible. Please keep my message private.",academic_stress,custom_challenge_set,True
+1024,CHAL-URG-0124,"Honestly, do not wait until tomorrow; I am in crisis and need urgent help now. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+729,CHAL-EMO-0129,"I am crying often after class and avoiding friends, even when my grades are okay. Please keep my message private.",emotional_distress,custom_challenge_set,True
+1063,CHAL-URG-0163,"Honestly, do not wait until tomorrow; I am in crisis and need urgent help now.",urgent_human_review,custom_challenge_set,True
+849,CHAL-EMO-0249,"I am safe tonight, but I feel empty and disconnected from everyone on campus. Please keep my message private.",emotional_distress,custom_challenge_set,True
+12,CHAL-NOR-0012,"I felt nervous last week, but today I just want to thank the advisor for helping me organize statistics.",normal,custom_challenge_set,True
+526,CHAL-ACA-0226,I am scared of academic probation and I need tutoring for networks as soon as possible. Please keep my message private.,academic_stress,custom_challenge_set,True
+228,CHAL-NOR-0228,This is not urgent and I am safe; please confirm whether the calculus recording will be uploaded. Please keep my message private.,normal,custom_challenge_set,True
+1110,CHAL-URG-0210,I have thoughts of suicide and need a trained person to contact me now.,urgent_human_review,custom_challenge_set,True
+912,CHAL-URG-0012,"Honestly, i have thoughts of suicide and need a trained person to contact me now.",urgent_human_review,custom_challenge_set,True
+27,CHAL-NOR-0027,"I felt nervous last week, but today I just want to thank the advisor for helping me organize databases.",normal,custom_challenge_set,True
+634,CHAL-EMO-0034,This is not about one quiz; I have felt sad and isolated for weeks and need counseling.,emotional_distress,custom_challenge_set,True
+799,CHAL-EMO-0199,"Honestly, this is not about one presentation; I have felt sad and isolated for weeks and need counseling.",emotional_distress,custom_challenge_set,True
+1003,CHAL-URG-0103,Do not wait until tomorrow; I am in crisis and need urgent help now. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+243,CHAL-NOR-0243,I am not requesting counseling; I only need technical help with opening the software engineering portal. Please keep my message private.,normal,custom_challenge_set,True
+1140,CHAL-URG-0240,I am alone after class and I cannot promise I will stay safe tonight.,urgent_human_review,custom_challenge_set,True
+784,CHAL-EMO-0184,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True
+942,CHAL-URG-0042,Do not wait until tomorrow; I am in crisis and need urgent help now.,urgent_human_review,custom_challenge_set,True
+1097,CHAL-URG-0197,"Honestly, i am alone after class and I cannot promise I will stay safe tonight.",urgent_human_review,custom_challenge_set,True
+1186,CHAL-URG-0286,"Honestly, this is not a normal study-stress message; I need immediate human help because I feel at risk.",urgent_human_review,custom_challenge_set,True
+380,CHAL-ACA-0080,"Honestly, i feel like I am failing everyone because of the quiz; I need an academic plan, not crisis support.",academic_stress,custom_challenge_set,True
+398,CHAL-ACA-0098,"I feel like I am failing everyone because of the project; I need an academic plan, not crisis support.",academic_stress,custom_challenge_set,True
+718,CHAL-EMO-0118,"I am crying often after class and avoiding friends, even when my grades are okay.",emotional_distress,custom_challenge_set,True
+586,CHAL-ACA-0286,"I am not in danger, but the networks presentation pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True
+506,CHAL-ACA-0206,"Honestly, i panic whenever I open the grade portal for networks, but I do not need emergency help. Please keep my message private.",academic_stress,custom_challenge_set,True
+834,CHAL-EMO-0234,"I am safe tonight, but I feel empty and disconnected from everyone on campus. Please keep my message private.",emotional_distress,custom_challenge_set,True
+828,CHAL-EMO-0228,"Honestly, i keep attending networks, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+815,CHAL-EMO-0215,I feel numb and alone in the dorm; please connect me with someone safe to talk to.,emotional_distress,custom_challenge_set,True
+1193,CHAL-URG-0293,Do not wait until tomorrow; I am in crisis and need urgent help now.,urgent_human_review,custom_challenge_set,True
+629,CHAL-EMO-0029,"I am safe tonight, but I feel empty and disconnected from everyone on campus.",emotional_distress,custom_challenge_set,True
+766,CHAL-EMO-0166,"Honestly, i am crying often after class and avoiding friends, even when my grades are okay.",emotional_distress,custom_challenge_set,True
+354,CHAL-ACA-0054,"Honestly, the group project makes me feel trapped and overwhelmed, but my concern is the final grade.",academic_stress,custom_challenge_set,True
+1083,CHAL-URG-0183,Please escalate this now; I might hurt myself after the presentation result.,urgent_human_review,custom_challenge_set,True
+480,CHAL-ACA-0180,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade. Please keep my message private.",academic_stress,custom_challenge_set,True
+817,CHAL-EMO-0217,"Honestly, i do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True
+514,CHAL-ACA-0214,"I am not in danger, but the calculus presentation pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True
+483,CHAL-ACA-0183,"I am not in danger, but the networks lab report pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True
+1013,CHAL-URG-0113,"Honestly, i am alone after class and I cannot promise I will stay safe tonight.",urgent_human_review,custom_challenge_set,True
+916,CHAL-URG-0016,Please escalate this now; I might hurt myself after the exam result.,urgent_human_review,custom_challenge_set,True
+149,CHAL-NOR-0149,"Honestly, i was stressed before the lab report, but I am okay now; I only need the room number for networks.",normal,custom_challenge_set,True
+488,CHAL-ACA-0188,"I panic whenever I open the grade portal for statistics, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+660,CHAL-EMO-0060,"I am safe tonight, but I feel empty and disconnected from everyone on campus. Please keep my message private.",emotional_distress,custom_challenge_set,True
+364,CHAL-ACA-0064,"I feel like I am failing everyone because of the project; I need an academic plan, not crisis support.",academic_stress,custom_challenge_set,True
+938,CHAL-URG-0038,"Honestly, i have thoughts of suicide and need a trained person to contact me now.",urgent_human_review,custom_challenge_set,True
+810,CHAL-EMO-0210,"Honestly, i am safe tonight, but I feel empty and disconnected from everyone on campus.",emotional_distress,custom_challenge_set,True
+621,CHAL-EMO-0021,"I am safe tonight, but I feel empty and disconnected from everyone on campus. Please keep my message private.",emotional_distress,custom_challenge_set,True
+583,CHAL-ACA-0283,"Honestly, the workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically. Please keep my message private.",academic_stress,custom_challenge_set,True
+879,CHAL-EMO-0279,"Honestly, i feel numb and alone in the dorm; please connect me with someone safe to talk to. Please keep my message private.",emotional_distress,custom_challenge_set,True
+872,CHAL-EMO-0272,"Honestly, i do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True
+238,CHAL-NOR-0238,"Honestly, my friend said the calculus exam caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True
+680,CHAL-EMO-0080,"Honestly, i do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True
+1169,CHAL-URG-0269,"Honestly, please escalate this now; I might hurt myself after the exam result. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+825,CHAL-EMO-0225,"I keep attending software engineering, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+366,CHAL-ACA-0066,"I panic whenever I open the grade portal for AI, but I do not need emergency help. Please keep my message private.",academic_stress,custom_challenge_set,True
+1087,CHAL-URG-0187,"I am writing about the statistics exam, but more importantly I do not feel safe with myself tonight. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+850,CHAL-EMO-0250,"I am crying often after class and avoiding friends, even when my grades are okay.",emotional_distress,custom_challenge_set,True
+976,CHAL-URG-0076,I have thoughts of suicide and need a trained person to contact me now.,urgent_human_review,custom_challenge_set,True
+783,CHAL-EMO-0183,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True
+781,CHAL-EMO-0181,"I am crying often after class and avoiding friends, even when my grades are okay.",emotional_distress,custom_challenge_set,True
+1028,CHAL-URG-0128,"I am writing about the databases exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+667,CHAL-EMO-0067,I feel numb and alone in the dorm; please connect me with someone safe to talk to.,emotional_distress,custom_challenge_set,True
+1129,CHAL-URG-0229,I am alone after class and I cannot promise I will stay safe tonight.,urgent_human_review,custom_challenge_set,True
+336,CHAL-ACA-0036,"I feel like I am failing everyone because of the exam; I need an academic plan, not crisis support. Please keep my message private.",academic_stress,custom_challenge_set,True
+1055,CHAL-URG-0155,Do not wait until tomorrow; I am in crisis and need urgent help now. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+203,CHAL-NOR-0203,I am not requesting counseling; I only need technical help with opening the software engineering portal.,normal,custom_challenge_set,True
+231,CHAL-NOR-0231,This is not urgent and I am safe; please confirm whether the software engineering recording will be uploaded.,normal,custom_challenge_set,True
+891,CHAL-EMO-0291,"I keep attending networks, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+701,CHAL-EMO-0101,"I am safe tonight, but I feel empty and disconnected from everyone on campus.",emotional_distress,custom_challenge_set,True
+233,CHAL-NOR-0233,This is not urgent and I am safe; please confirm whether the AI recording will be uploaded. Please keep my message private.,normal,custom_challenge_set,True
+699,CHAL-EMO-0099,"Honestly, this is not about one presentation; I have felt sad and isolated for weeks and need counseling.",emotional_distress,custom_challenge_set,True
+342,CHAL-ACA-0042,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+133,CHAL-NOR-0133,I am not requesting counseling; I only need technical help with opening the networks portal. Please keep my message private.,normal,custom_challenge_set,True
+1141,CHAL-URG-0241,I am alone after class and I cannot promise I will stay safe tonight. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+344,CHAL-ACA-0044,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade. Please keep my message private.",academic_stress,custom_challenge_set,True
+522,CHAL-ACA-0222,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+255,CHAL-NOR-0255,I am not requesting counseling; I only need technical help with opening the programming portal. Please keep my message private.,normal,custom_challenge_set,True
+1119,CHAL-URG-0219,I am alone after class and I cannot promise I will stay safe tonight.,urgent_human_review,custom_challenge_set,True
+284,CHAL-NOR-0284,"My friend said the statistics presentation caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True
+836,CHAL-EMO-0236,"Honestly, this is not about one deadline; I have felt sad and isolated for weeks and need counseling. Please keep my message private.",emotional_distress,custom_challenge_set,True
+83,CHAL-NOR-0083,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True
+65,CHAL-NOR-0065,This is not urgent and I am safe; please confirm whether the programming recording will be uploaded.,normal,custom_challenge_set,True
+968,CHAL-URG-0068,I have thoughts of suicide and need a trained person to contact me now. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+793,CHAL-EMO-0193,"I keep attending software engineering, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+716,CHAL-EMO-0116,"I keep attending AI, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+743,CHAL-EMO-0143,I feel numb and alone in the dorm; please connect me with someone safe to talk to. Please keep my message private.,emotional_distress,custom_challenge_set,True
+1197,CHAL-URG-0297,Please escalate this now; I might hurt myself after the exam result.,urgent_human_review,custom_challenge_set,True
+725,CHAL-EMO-0125,I feel numb and alone in the dorm; please connect me with someone safe to talk to.,emotional_distress,custom_challenge_set,True
+379,CHAL-ACA-0079,"I panic whenever I open the grade portal for statistics, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+1127,CHAL-URG-0227,This is not a normal study-stress message; I need immediate human help because I feel at risk. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+122,CHAL-NOR-0122,"My friend said the programming project caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True
+712,CHAL-EMO-0112,"I am crying often after class and avoiding friends, even when my grades are okay.",emotional_distress,custom_challenge_set,True
+749,CHAL-EMO-0149,"Honestly, i keep attending statistics, but inside I feel hopeless and exhausted most days. Please keep my message private.",emotional_distress,custom_challenge_set,True
+471,CHAL-ACA-0171,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically. Please keep my message private.",academic_stress,custom_challenge_set,True
+466,CHAL-ACA-0166,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically. Please keep my message private.",academic_stress,custom_challenge_set,True
+1071,CHAL-URG-0171,I am alone after class and I cannot promise I will stay safe tonight.,urgent_human_review,custom_challenge_set,True
+1175,CHAL-URG-0275,"Honestly, please escalate this now; I might hurt myself after the project result.",urgent_human_review,custom_challenge_set,True
+722,CHAL-EMO-0122,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True
+375,CHAL-ACA-0075,"I am not in danger, but the databases project pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True
+1184,CHAL-URG-0284,I have thoughts of suicide and need a trained person to contact me now.,urgent_human_review,custom_challenge_set,True
+1185,CHAL-URG-0285,This is not a normal study-stress message; I need immediate human help because I feel at risk.,urgent_human_review,custom_challenge_set,True
+1032,CHAL-URG-0132,"Honestly, this is not a normal study-stress message; I need immediate human help because I feel at risk.",urgent_human_review,custom_challenge_set,True
+484,CHAL-ACA-0184,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+1021,CHAL-URG-0121,"I am writing about the software engineering exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+218,CHAL-NOR-0218,"I was stressed before the presentation, but I am okay now; I only need the room number for networks. Please keep my message private.",normal,custom_challenge_set,True
+1054,CHAL-URG-0154,Please escalate this now; I might hurt myself after the deadline result. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+390,CHAL-ACA-0090,"Honestly, i panic whenever I open the grade portal for databases, but I do not need emergency help. Please keep my message private.",academic_stress,custom_challenge_set,True
+426,CHAL-ACA-0126,"Honestly, i feel like I am failing everyone because of the lab report; I need an academic plan, not crisis support.",academic_stress,custom_challenge_set,True
+383,CHAL-ACA-0083,"I panic whenever I open the grade portal for AI, but I do not need emergency help. Please keep my message private.",academic_stress,custom_challenge_set,True
+330,CHAL-ACA-0030,"Honestly, the group project makes me feel trapped and overwhelmed, but my concern is the final grade.",academic_stress,custom_challenge_set,True
+350,CHAL-ACA-0050,"Honestly, the group project makes me feel trapped and overwhelmed, but my concern is the final grade. Please keep my message private.",academic_stress,custom_challenge_set,True
+1009,CHAL-URG-0109,I have thoughts of suicide and need a trained person to contact me now.,urgent_human_review,custom_challenge_set,True
+693,CHAL-EMO-0093,"Honestly, i am crying often after class and avoiding friends, even when my grades are okay. Please keep my message private.",emotional_distress,custom_challenge_set,True
+23,CHAL-NOR-0023,"I was stressed before the lab report, but I am okay now; I only need the room number for AI. Please keep my message private.",normal,custom_challenge_set,True
+35,CHAL-NOR-0035,I am not requesting counseling; I only need technical help with opening the networks portal.,normal,custom_challenge_set,True
+277,CHAL-NOR-0277,"I was stressed before the quiz, but I am okay now; I only need the room number for networks.",normal,custom_challenge_set,True
+864,CHAL-EMO-0264,"I am safe tonight, but I feel empty and disconnected from everyone on campus.",emotional_distress,custom_challenge_set,True
+371,CHAL-ACA-0071,I am scared of academic probation and I need tutoring for software engineering as soon as possible.,academic_stress,custom_challenge_set,True
+160,CHAL-NOR-0160,"Honestly, i saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True
+288,CHAL-NOR-0288,"Honestly, this is not urgent and I am safe; please confirm whether the AI recording will be uploaded. Please keep my message private.",normal,custom_challenge_set,True
+184,CHAL-NOR-0184,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule. Please keep my message private.",normal,custom_challenge_set,True
+894,CHAL-EMO-0294,I feel numb and alone in the dorm; please connect me with someone safe to talk to.,emotional_distress,custom_challenge_set,True
+533,CHAL-ACA-0233,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+853,CHAL-EMO-0253,"I am crying often after class and avoiding friends, even when my grades are okay. Please keep my message private.",emotional_distress,custom_challenge_set,True
+1025,CHAL-URG-0125,I am alone after class and I cannot promise I will stay safe tonight. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+1167,CHAL-URG-0267,"I am writing about the statistics exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+161,CHAL-NOR-0161,"My friend said the networks deadline caused anxiety, but my message is just to ask about the rubric. Please keep my message private.",normal,custom_challenge_set,True
+633,CHAL-EMO-0033,This is not about one exam; I have felt sad and isolated for weeks and need counseling. Please keep my message private.,emotional_distress,custom_challenge_set,True
+646,CHAL-EMO-0046,"I am crying often after class and avoiding friends, even when my grades are okay. Please keep my message private.",emotional_distress,custom_challenge_set,True
+128,CHAL-NOR-0128,"My friend said the software engineering presentation caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True
+895,CHAL-EMO-0295,"Honestly, i feel numb and alone in the dorm; please connect me with someone safe to talk to. Please keep my message private.",emotional_distress,custom_challenge_set,True
+582,CHAL-ACA-0282,"Honestly, the group project makes me feel trapped and overwhelmed, but my concern is the final grade. Please keep my message private.",academic_stress,custom_challenge_set,True
+81,CHAL-NOR-0081,"I was stressed before the project, but I am okay now; I only need the room number for databases.",normal,custom_challenge_set,True
+188,CHAL-NOR-0188,"I was stressed before the deadline, but I am okay now; I only need the room number for statistics.",normal,custom_challenge_set,True
+1019,CHAL-URG-0119,"Honestly, do not wait until tomorrow; I am in crisis and need urgent help now. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+365,CHAL-ACA-0065,I am scared of academic probation and I need tutoring for AI as soon as possible.,academic_stress,custom_challenge_set,True
+416,CHAL-ACA-0116,"Honestly, i am scared of academic probation and I need tutoring for calculus as soon as possible.",academic_stress,custom_challenge_set,True
+193,CHAL-NOR-0193,"I was stressed before the quiz, but I am okay now; I only need the room number for software engineering.",normal,custom_challenge_set,True
+535,CHAL-ACA-0235,"I panic whenever I open the grade portal for databases, but I do not need emergency help. Please keep my message private.",academic_stress,custom_challenge_set,True
+182,CHAL-NOR-0182,I am not requesting counseling; I only need technical help with opening the databases portal.,normal,custom_challenge_set,True
+215,CHAL-NOR-0215,I am not requesting counseling; I only need technical help with opening the programming portal. Please keep my message private.,normal,custom_challenge_set,True
+486,CHAL-ACA-0186,"I feel like I am failing everyone because of the lab report; I need an academic plan, not crisis support.",academic_stress,custom_challenge_set,True
+649,CHAL-EMO-0049,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True
+123,CHAL-NOR-0123,"Honestly, my friend said the calculus presentation caused anxiety, but my message is just to ask about the rubric. Please keep my message private.",normal,custom_challenge_set,True
+359,CHAL-ACA-0059,"I panic whenever I open the grade portal for networks, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+560,CHAL-ACA-0260,"Honestly, i panic whenever I open the grade portal for AI, but I do not need emergency help. Please keep my message private.",academic_stress,custom_challenge_set,True
+606,CHAL-EMO-0006,"I do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True
+417,CHAL-ACA-0117,"Honestly, the group project makes me feel trapped and overwhelmed, but my concern is the final grade. Please keep my message private.",academic_stress,custom_challenge_set,True
+1170,CHAL-URG-0270,Please escalate this now; I might hurt myself after the lab report result.,urgent_human_review,custom_challenge_set,True
+579,CHAL-ACA-0279,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade.",academic_stress,custom_challenge_set,True
+835,CHAL-EMO-0235,"I keep attending databases, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+285,CHAL-NOR-0285,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule. Please keep my message private.",normal,custom_challenge_set,True
+986,CHAL-URG-0086,I am alone after class and I cannot promise I will stay safe tonight.,urgent_human_review,custom_challenge_set,True
+928,CHAL-URG-0028,"I am writing about the software engineering exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+787,CHAL-EMO-0187,"Honestly, i am crying often after class and avoiding friends, even when my grades are okay. Please keep my message private.",emotional_distress,custom_challenge_set,True
+668,CHAL-EMO-0068,I feel numb and alone in the dorm; please connect me with someone safe to talk to. Please keep my message private.,emotional_distress,custom_challenge_set,True
+332,CHAL-ACA-0032,"Honestly, i am not in danger, but the networks project pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True
+681,CHAL-EMO-0081,"Honestly, i feel numb and alone in the dorm; please connect me with someone safe to talk to. Please keep my message private.",emotional_distress,custom_challenge_set,True
+654,CHAL-EMO-0054,"I am crying often after class and avoiding friends, even when my grades are okay.",emotional_distress,custom_challenge_set,True
+448,CHAL-ACA-0148,I am scared of academic probation and I need tutoring for calculus as soon as possible.,academic_stress,custom_challenge_set,True
+102,CHAL-NOR-0102,"Honestly, i saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True
+447,CHAL-ACA-0147,"Honestly, i am scared of academic probation and I need tutoring for programming as soon as possible.",academic_stress,custom_challenge_set,True
+730,CHAL-EMO-0130,"I am crying often after class and avoiding friends, even when my grades are okay.",emotional_distress,custom_challenge_set,True
+208,CHAL-NOR-0208,"Honestly, i saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True
+95,CHAL-NOR-0095,"Honestly, this is not urgent and I am safe; please confirm whether the calculus recording will be uploaded.",normal,custom_challenge_set,True
+431,CHAL-ACA-0131,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade.",academic_stress,custom_challenge_set,True
+865,CHAL-EMO-0265,"Honestly, i keep attending databases, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+1041,CHAL-URG-0141,I have thoughts of suicide and need a trained person to contact me now. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+1037,CHAL-URG-0137,I am alone after class and I cannot promise I will stay safe tonight.,urgent_human_review,custom_challenge_set,True
+818,CHAL-EMO-0218,"I am crying often after class and avoiding friends, even when my grades are okay.",emotional_distress,custom_challenge_set,True
+143,CHAL-NOR-0143,I am not requesting counseling; I only need technical help with opening the statistics portal. Please keep my message private.,normal,custom_challenge_set,True
+1023,CHAL-URG-0123,I am alone after class and I cannot promise I will stay safe tonight.,urgent_human_review,custom_challenge_set,True
+971,CHAL-URG-0071,"Honestly, i am alone after class and I cannot promise I will stay safe tonight.",urgent_human_review,custom_challenge_set,True
+1066,CHAL-URG-0166,Do not wait until tomorrow; I am in crisis and need urgent help now.,urgent_human_review,custom_challenge_set,True
+786,CHAL-EMO-0186,"I do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True
+705,CHAL-EMO-0105,"Honestly, i feel numb and alone in the dorm; please connect me with someone safe to talk to.",emotional_distress,custom_challenge_set,True
+656,CHAL-EMO-0056,"I am safe tonight, but I feel empty and disconnected from everyone on campus.",emotional_distress,custom_challenge_set,True
+254,CHAL-NOR-0254,I am not requesting counseling; I only need technical help with opening the programming portal. Please keep my message private.,normal,custom_challenge_set,True
+738,CHAL-EMO-0138,I feel numb and alone in the dorm; please connect me with someone safe to talk to. Please keep my message private.,emotional_distress,custom_challenge_set,True
+539,CHAL-ACA-0239,"I am not in danger, but the programming exam pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True
+269,CHAL-NOR-0269,"Honestly, my friend said the calculus project caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True
+64,CHAL-NOR-0064,"I was stressed before the quiz, but I am okay now; I only need the room number for software engineering. Please keep my message private.",normal,custom_challenge_set,True
+1134,CHAL-URG-0234,Please escalate this now; I might hurt myself after the exam result. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+546,CHAL-ACA-0246,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically. Please keep my message private.",academic_stress,custom_challenge_set,True
+785,CHAL-EMO-0185,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True
+1105,CHAL-URG-0205,I am alone after class and I cannot promise I will stay safe tonight.,urgent_human_review,custom_challenge_set,True
+982,CHAL-URG-0082,Please escalate this now; I might hurt myself after the project result.,urgent_human_review,custom_challenge_set,True
+119,CHAL-NOR-0119,I am not requesting counseling; I only need technical help with opening the networks portal.,normal,custom_challenge_set,True
+528,CHAL-ACA-0228,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+776,CHAL-EMO-0176,"Honestly, i am crying often after class and avoiding friends, even when my grades are okay. Please keep my message private.",emotional_distress,custom_challenge_set,True
+555,CHAL-ACA-0255,"Honestly, the workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+930,CHAL-URG-0030,Please escalate this now; I might hurt myself after the deadline result.,urgent_human_review,custom_challenge_set,True
+833,CHAL-EMO-0233,"I am safe tonight, but I feel empty and disconnected from everyone on campus.",emotional_distress,custom_challenge_set,True
+175,CHAL-NOR-0175,"I was stressed before the deadline, but I am okay now; I only need the room number for AI.",normal,custom_challenge_set,True
+875,CHAL-EMO-0275,"Honestly, i am crying often after class and avoiding friends, even when my grades are okay.",emotional_distress,custom_challenge_set,True
+919,CHAL-URG-0019,I have thoughts of suicide and need a trained person to contact me now. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+1165,CHAL-URG-0265,"I am writing about the software engineering exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+1168,CHAL-URG-0268,Please escalate this now; I might hurt myself after the presentation result. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+456,CHAL-ACA-0156,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+523,CHAL-ACA-0223,"Honestly, the workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+94,CHAL-NOR-0094,"I was stressed before the lab report, but I am okay now; I only need the room number for AI. Please keep my message private.",normal,custom_challenge_set,True
+501,CHAL-ACA-0201,I am scared of academic probation and I need tutoring for software engineering as soon as possible.,academic_stress,custom_challenge_set,True
+774,CHAL-EMO-0174,This is not about one lab report; I have felt sad and isolated for weeks and need counseling. Please keep my message private.,emotional_distress,custom_challenge_set,True
+312,CHAL-ACA-0012,"I panic whenever I open the grade portal for databases, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+1061,CHAL-URG-0161,I have thoughts of suicide and need a trained person to contact me now. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+519,CHAL-ACA-0219,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically. Please keep my message private.",academic_stress,custom_challenge_set,True
+814,CHAL-EMO-0214,This is not about one presentation; I have felt sad and isolated for weeks and need counseling.,emotional_distress,custom_challenge_set,True
+154,CHAL-NOR-0154,"Honestly, i am not requesting counseling; I only need technical help with opening the statistics portal.",normal,custom_challenge_set,True
+117,CHAL-NOR-0117,"Honestly, my friend said the software engineering deadline caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True
+532,CHAL-ACA-0232,"Honestly, the workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+469,CHAL-ACA-0169,"I am not in danger, but the AI project pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True
+1091,CHAL-URG-0191,"I am writing about the networks exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+444,CHAL-ACA-0144,"I am not in danger, but the programming lab report pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True
+854,CHAL-EMO-0254,"I am safe tonight, but I feel empty and disconnected from everyone on campus. Please keep my message private.",emotional_distress,custom_challenge_set,True
+1113,CHAL-URG-0213,"I am writing about the calculus exam, but more importantly I do not feel safe with myself tonight. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+1150,CHAL-URG-0250,"Honestly, please escalate this now; I might hurt myself after the quiz result. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+24,CHAL-NOR-0024,"I was stressed before the deadline, but I am okay now; I only need the room number for AI.",normal,custom_challenge_set,True
+31,CHAL-NOR-0031,I am not requesting counseling; I only need technical help with opening the software engineering portal.,normal,custom_challenge_set,True
+226,CHAL-NOR-0226,This is not urgent and I am safe; please confirm whether the networks recording will be uploaded.,normal,custom_challenge_set,True
+1,CHAL-NOR-0001,"I was stressed before the exam, but I am okay now; I only need the room number for databases.",normal,custom_challenge_set,True
+585,CHAL-ACA-0285,"Honestly, i feel like I am failing everyone because of the deadline; I need an academic plan, not crisis support.",academic_stress,custom_challenge_set,True
+878,CHAL-EMO-0278,This is not about one presentation; I have felt sad and isolated for weeks and need counseling.,emotional_distress,custom_challenge_set,True
+714,CHAL-EMO-0114,I feel numb and alone in the dorm; please connect me with someone safe to talk to.,emotional_distress,custom_challenge_set,True
+436,CHAL-ACA-0136,I am scared of academic probation and I need tutoring for databases as soon as possible. Please keep my message private.,academic_stress,custom_challenge_set,True
+754,CHAL-EMO-0154,"I am safe tonight, but I feel empty and disconnected from everyone on campus.",emotional_distress,custom_challenge_set,True
+624,CHAL-EMO-0024,This is not about one lab report; I have felt sad and isolated for weeks and need counseling. Please keep my message private.,emotional_distress,custom_challenge_set,True
+822,CHAL-EMO-0222,"Honestly, i am crying often after class and avoiding friends, even when my grades are okay.",emotional_distress,custom_challenge_set,True
+116,CHAL-NOR-0116,"I felt nervous last week, but today I just want to thank the advisor for helping me organize calculus. Please keep my message private.",normal,custom_challenge_set,True
+509,CHAL-ACA-0209,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+33,CHAL-NOR-0033,"Honestly, i saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule. Please keep my message private.",normal,custom_challenge_set,True
+1033,CHAL-URG-0133,"Honestly, i have thoughts of suicide and need a trained person to contact me now.",urgent_human_review,custom_challenge_set,True
+959,CHAL-URG-0059,"I am writing about the programming exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+1100,CHAL-URG-0200,Do not wait until tomorrow; I am in crisis and need urgent help now.,urgent_human_review,custom_challenge_set,True
+39,CHAL-NOR-0039,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True
+25,CHAL-NOR-0025,"I felt nervous last week, but today I just want to thank the advisor for helping me organize AI.",normal,custom_challenge_set,True
+945,CHAL-URG-0045,I have thoughts of suicide and need a trained person to contact me now.,urgent_human_review,custom_challenge_set,True
+200,CHAL-NOR-0200,"My friend said the statistics quiz caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True
+206,CHAL-NOR-0206,I am not requesting counseling; I only need technical help with opening the AI portal.,normal,custom_challenge_set,True
+789,CHAL-EMO-0189,I feel numb and alone in the dorm; please connect me with someone safe to talk to.,emotional_distress,custom_challenge_set,True
+762,CHAL-EMO-0162,"I keep attending software engineering, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+181,CHAL-NOR-0181,I am not requesting counseling; I only need technical help with opening the programming portal.,normal,custom_challenge_set,True
+259,CHAL-NOR-0259,I am not requesting counseling; I only need technical help with opening the networks portal.,normal,custom_challenge_set,True
+1178,CHAL-URG-0278,I have thoughts of suicide and need a trained person to contact me now.,urgent_human_review,custom_challenge_set,True
+411,CHAL-ACA-0111,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade.",academic_stress,custom_challenge_set,True
+265,CHAL-NOR-0265,"My friend said the software engineering deadline caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True
+955,CHAL-URG-0055,This is not a normal study-stress message; I need immediate human help because I feel at risk.,urgent_human_review,custom_challenge_set,True
+1088,CHAL-URG-0188,"Honestly, i am writing about the programming exam, but more importantly I do not feel safe with myself tonight. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+720,CHAL-EMO-0120,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True
+296,CHAL-NOR-0296,"My friend said the programming deadline caused anxiety, but my message is just to ask about the rubric. Please keep my message private.",normal,custom_challenge_set,True
+1006,CHAL-URG-0106,Please escalate this now; I might hurt myself after the deadline result.,urgent_human_review,custom_challenge_set,True
+1082,CHAL-URG-0182,Please escalate this now; I might hurt myself after the quiz result.,urgent_human_review,custom_challenge_set,True
+653,CHAL-EMO-0053,"Honestly, i keep attending programming, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+874,CHAL-EMO-0274,"Honestly, i am safe tonight, but I feel empty and disconnected from everyone on campus.",emotional_distress,custom_challenge_set,True
+661,CHAL-EMO-0061,"I keep attending databases, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+929,CHAL-URG-0029,I have thoughts of suicide and need a trained person to contact me now.,urgent_human_review,custom_challenge_set,True
+1026,CHAL-URG-0126,Do not wait until tomorrow; I am in crisis and need urgent help now.,urgent_human_review,custom_challenge_set,True
+958,CHAL-URG-0058,Do not wait until tomorrow; I am in crisis and need urgent help now.,urgent_human_review,custom_challenge_set,True
+106,CHAL-NOR-0106,This is not urgent and I am safe; please confirm whether the calculus recording will be uploaded. Please keep my message private.,normal,custom_challenge_set,True
+72,CHAL-NOR-0072,"Honestly, i saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True
+627,CHAL-EMO-0027,"Honestly, i am crying often after class and avoiding friends, even when my grades are okay.",emotional_distress,custom_challenge_set,True
+235,CHAL-NOR-0235,"Honestly, my friend said the calculus deadline caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True
+348,CHAL-ACA-0048,"I panic whenever I open the grade portal for databases, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+746,CHAL-EMO-0146,"I am crying often after class and avoiding friends, even when my grades are okay. Please keep my message private.",emotional_distress,custom_challenge_set,True
+970,CHAL-URG-0070,"Honestly, i am alone after class and I cannot promise I will stay safe tonight. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+403,CHAL-ACA-0103,"I am not in danger, but the databases exam pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True
+1104,CHAL-URG-0204,This is not a normal study-stress message; I need immediate human help because I feel at risk.,urgent_human_review,custom_challenge_set,True
+521,CHAL-ACA-0221,"I am not in danger, but the networks project pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True
+510,CHAL-ACA-0210,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+947,CHAL-URG-0047,"Honestly, do not wait until tomorrow; I am in crisis and need urgent help now.",urgent_human_review,custom_challenge_set,True
+50,CHAL-NOR-0050,"Honestly, i felt nervous last week, but today I just want to thank the advisor for helping me organize databases.",normal,custom_challenge_set,True
+1139,CHAL-URG-0239,I have thoughts of suicide and need a trained person to contact me now.,urgent_human_review,custom_challenge_set,True
+387,CHAL-ACA-0087,"I feel like I am failing everyone because of the presentation; I need an academic plan, not crisis support.",academic_stress,custom_challenge_set,True
+303,CHAL-ACA-0003,"Honestly, i panic whenever I open the grade portal for networks, but I do not need emergency help. Please keep my message private.",academic_stress,custom_challenge_set,True
+180,CHAL-NOR-0180,"My friend said the calculus deadline caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True
+202,CHAL-NOR-0202,"My friend said the statistics project caused anxiety, but my message is just to ask about the rubric. Please keep my message private.",normal,custom_challenge_set,True
+670,CHAL-EMO-0070,"I am safe tonight, but I feel empty and disconnected from everyone on campus. Please keep my message private.",emotional_distress,custom_challenge_set,True
+1036,CHAL-URG-0136,I am alone after class and I cannot promise I will stay safe tonight.,urgent_human_review,custom_challenge_set,True
+920,CHAL-URG-0020,This is not a normal study-stress message; I need immediate human help because I feel at risk.,urgent_human_review,custom_challenge_set,True
+232,CHAL-NOR-0232,"I was stressed before the presentation, but I am okay now; I only need the room number for calculus.",normal,custom_challenge_set,True
+731,CHAL-EMO-0131,"Honestly, i do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True
+451,CHAL-ACA-0151,"Honestly, i panic whenever I open the grade portal for calculus, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+1151,CHAL-URG-0251,"I am writing about the databases exam, but more importantly I do not feel safe with myself tonight. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+1147,CHAL-URG-0247,This is not a normal study-stress message; I need immediate human help because I feel at risk.,urgent_human_review,custom_challenge_set,True
+704,CHAL-EMO-0104,"Honestly, i am crying often after class and avoiding friends, even when my grades are okay.",emotional_distress,custom_challenge_set,True
+1084,CHAL-URG-0184,This is not a normal study-stress message; I need immediate human help because I feel at risk. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+77,CHAL-NOR-0077,"Honestly, this is not urgent and I am safe; please confirm whether the networks recording will be uploaded.",normal,custom_challenge_set,True
+861,CHAL-EMO-0261,"I keep attending databases, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+298,CHAL-NOR-0298,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True
+1029,CHAL-URG-0129,"I am writing about the statistics exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+842,CHAL-EMO-0242,"Honestly, i keep attending AI, but inside I feel hopeless and exhausted most days. Please keep my message private.",emotional_distress,custom_challenge_set,True
+717,CHAL-EMO-0117,"Honestly, i feel numb and alone in the dorm; please connect me with someone safe to talk to. Please keep my message private.",emotional_distress,custom_challenge_set,True
+126,CHAL-NOR-0126,"Honestly, i was stressed before the project, but I am okay now; I only need the room number for software engineering. Please keep my message private.",normal,custom_challenge_set,True
+688,CHAL-EMO-0088,"Honestly, this is not about one project; I have felt sad and isolated for weeks and need counseling. Please keep my message private.",emotional_distress,custom_challenge_set,True
+1062,CHAL-URG-0162,I have thoughts of suicide and need a trained person to contact me now.,urgent_human_review,custom_challenge_set,True
+552,CHAL-ACA-0252,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+985,CHAL-URG-0085,This is not a normal study-stress message; I need immediate human help because I feel at risk.,urgent_human_review,custom_challenge_set,True
+1059,CHAL-URG-0159,I have thoughts of suicide and need a trained person to contact me now. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+608,CHAL-EMO-0008,"Honestly, this is not about one quiz; I have felt sad and isolated for weeks and need counseling. Please keep my message private.",emotional_distress,custom_challenge_set,True
+761,CHAL-EMO-0161,This is not about one exam; I have felt sad and isolated for weeks and need counseling.,emotional_distress,custom_challenge_set,True
+1130,CHAL-URG-0230,"Honestly, please escalate this now; I might hurt myself after the exam result.",urgent_human_review,custom_challenge_set,True
+21,CHAL-NOR-0021,"I was stressed before the deadline, but I am okay now; I only need the room number for calculus. Please keep my message private.",normal,custom_challenge_set,True
+809,CHAL-EMO-0209,This is not about one lab report; I have felt sad and isolated for weeks and need counseling.,emotional_distress,custom_challenge_set,True
+1096,CHAL-URG-0196,I am alone after class and I cannot promise I will stay safe tonight. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+541,CHAL-ACA-0241,"I am not in danger, but the calculus lab report pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True
+278,CHAL-NOR-0278,"Honestly, i was stressed before the lab report, but I am okay now; I only need the room number for calculus.",normal,custom_challenge_set,True
+578,CHAL-ACA-0278,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade.",academic_stress,custom_challenge_set,True
+797,CHAL-EMO-0197,"Honestly, i feel numb and alone in the dorm; please connect me with someone safe to talk to.",emotional_distress,custom_challenge_set,True
+830,CHAL-EMO-0230,This is not about one deadline; I have felt sad and isolated for weeks and need counseling. Please keep my message private.,emotional_distress,custom_challenge_set,True
+257,CHAL-NOR-0257,This is not urgent and I am safe; please confirm whether the calculus recording will be uploaded. Please keep my message private.,normal,custom_challenge_set,True
+697,CHAL-EMO-0097,"I am crying often after class and avoiding friends, even when my grades are okay.",emotional_distress,custom_challenge_set,True
+399,CHAL-ACA-0099,"I panic whenever I open the grade portal for calculus, but I do not need emergency help. Please keep my message private.",academic_stress,custom_challenge_set,True
+1195,CHAL-URG-0295,"Honestly, i am alone after class and I cannot promise I will stay safe tonight.",urgent_human_review,custom_challenge_set,True
+212,CHAL-NOR-0212,"Honestly, i was stressed before the deadline, but I am okay now; I only need the room number for calculus. Please keep my message private.",normal,custom_challenge_set,True
+926,CHAL-URG-0026,"Honestly, this is not a normal study-stress message; I need immediate human help because I feel at risk.",urgent_human_review,custom_challenge_set,True
+90,CHAL-NOR-0090,"Honestly, i felt nervous last week, but today I just want to thank the advisor for helping me organize networks. Please keep my message private.",normal,custom_challenge_set,True
+405,CHAL-ACA-0105,I am scared of academic probation and I need tutoring for databases as soon as possible.,academic_stress,custom_challenge_set,True
+741,CHAL-EMO-0141,"I am safe tonight, but I feel empty and disconnected from everyone on campus.",emotional_distress,custom_challenge_set,True
+192,CHAL-NOR-0192,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule. Please keep my message private.",normal,custom_challenge_set,True
+768,CHAL-EMO-0168,"Honestly, i do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True
+957,CHAL-URG-0057,I am alone after class and I cannot promise I will stay safe tonight.,urgent_human_review,custom_challenge_set,True
+1191,CHAL-URG-0291,Do not wait until tomorrow; I am in crisis and need urgent help now.,urgent_human_review,custom_challenge_set,True
+1094,CHAL-URG-0194,Please escalate this now; I might hurt myself after the deadline result.,urgent_human_review,custom_challenge_set,True
+475,CHAL-ACA-0175,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade. Please keep my message private.",academic_stress,custom_challenge_set,True
+1122,CHAL-URG-0222,"I am writing about the software engineering exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+1135,CHAL-URG-0235,Do not wait until tomorrow; I am in crisis and need urgent help now.,urgent_human_review,custom_challenge_set,True
+28,CHAL-NOR-0028,"Honestly, i felt nervous last week, but today I just want to thank the advisor for helping me organize AI.",normal,custom_challenge_set,True
+224,CHAL-NOR-0224,I am not requesting counseling; I only need technical help with opening the calculus portal. Please keep my message private.,normal,custom_challenge_set,True
+217,CHAL-NOR-0217,"Honestly, i am not requesting counseling; I only need technical help with opening the databases portal.",normal,custom_challenge_set,True
+249,CHAL-NOR-0249,"Honestly, i am not requesting counseling; I only need technical help with opening the calculus portal.",normal,custom_challenge_set,True
+190,CHAL-NOR-0190,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True
+937,CHAL-URG-0037,I have thoughts of suicide and need a trained person to contact me now.,urgent_human_review,custom_challenge_set,True
+392,CHAL-ACA-0092,I am scared of academic probation and I need tutoring for software engineering as soon as possible.,academic_stress,custom_challenge_set,True
+737,CHAL-EMO-0137,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True
+71,CHAL-NOR-0071,"I was stressed before the lab report, but I am okay now; I only need the room number for AI.",normal,custom_challenge_set,True
+800,CHAL-EMO-0200,"I am safe tonight, but I feel empty and disconnected from everyone on campus. Please keep my message private.",emotional_distress,custom_challenge_set,True
+700,CHAL-EMO-0100,I feel numb and alone in the dorm; please connect me with someone safe to talk to.,emotional_distress,custom_challenge_set,True
+923,CHAL-URG-0023,"I am writing about the programming exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+534,CHAL-ACA-0234,"Honestly, i am not in danger, but the AI lab report pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True
+1189,CHAL-URG-0289,"Honestly, this is not a normal study-stress message; I need immediate human help because I feel at risk.",urgent_human_review,custom_challenge_set,True
+1132,CHAL-URG-0232,This is not a normal study-stress message; I need immediate human help because I feel at risk. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+1040,CHAL-URG-0140,"Honestly, i am writing about the statistics exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+1001,CHAL-URG-0101,Please escalate this now; I might hurt myself after the project result. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+848,CHAL-EMO-0248,"I keep attending software engineering, but inside I feel hopeless and exhausted most days. Please keep my message private.",emotional_distress,custom_challenge_set,True
+1164,CHAL-URG-0264,"I am writing about the statistics exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+220,CHAL-NOR-0220,I am not requesting counseling; I only need technical help with opening the databases portal.,normal,custom_challenge_set,True
+234,CHAL-NOR-0234,"Honestly, i felt nervous last week, but today I just want to thank the advisor for helping me organize statistics.",normal,custom_challenge_set,True
+736,CHAL-EMO-0136,This is not about one project; I have felt sad and isolated for weeks and need counseling.,emotional_distress,custom_challenge_set,True
+772,CHAL-EMO-0172,"Honestly, i am safe tonight, but I feel empty and disconnected from everyone on campus. Please keep my message private.",emotional_distress,custom_challenge_set,True
+415,CHAL-ACA-0115,"Honestly, the workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+289,CHAL-NOR-0289,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True
+378,CHAL-ACA-0078,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+673,CHAL-EMO-0073,This is not about one lab report; I have felt sad and isolated for weeks and need counseling.,emotional_distress,custom_challenge_set,True
+994,CHAL-URG-0094,"I am writing about the statistics exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+367,CHAL-ACA-0067,I am scared of academic probation and I need tutoring for programming as soon as possible.,academic_stress,custom_challenge_set,True
+860,CHAL-EMO-0260,"Honestly, i am crying often after class and avoiding friends, even when my grades are okay. Please keep my message private.",emotional_distress,custom_challenge_set,True
+515,CHAL-ACA-0215,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade.",academic_stress,custom_challenge_set,True
+904,CHAL-URG-0004,"Honestly, do not wait until tomorrow; I am in crisis and need urgent help now.",urgent_human_review,custom_challenge_set,True
+889,CHAL-EMO-0289,"I do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True
+1200,CHAL-URG-0300,This is not a normal study-stress message; I need immediate human help because I feel at risk. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+771,CHAL-EMO-0171,"I am crying often after class and avoiding friends, even when my grades are okay.",emotional_distress,custom_challenge_set,True
+948,CHAL-URG-0048,I am alone after class and I cannot promise I will stay safe tonight.,urgent_human_review,custom_challenge_set,True
+565,CHAL-ACA-0265,"I panic whenever I open the grade portal for databases, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+911,CHAL-URG-0011,I am alone after class and I cannot promise I will stay safe tonight.,urgent_human_review,custom_challenge_set,True
+913,CHAL-URG-0013,I have thoughts of suicide and need a trained person to contact me now.,urgent_human_review,custom_challenge_set,True
+607,CHAL-EMO-0007,This is not about one exam; I have felt sad and isolated for weeks and need counseling.,emotional_distress,custom_challenge_set,True
+334,CHAL-ACA-0034,"I panic whenever I open the grade portal for programming, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+992,CHAL-URG-0092,"Honestly, i have thoughts of suicide and need a trained person to contact me now.",urgent_human_review,custom_challenge_set,True
+1194,CHAL-URG-0294,"Honestly, this is not a normal study-stress message; I need immediate human help because I feel at risk. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+105,CHAL-NOR-0105,I am not requesting counseling; I only need technical help with opening the AI portal.,normal,custom_challenge_set,True
+129,CHAL-NOR-0129,"I was stressed before the deadline, but I am okay now; I only need the room number for software engineering.",normal,custom_challenge_set,True
+1058,CHAL-URG-0158,I have thoughts of suicide and need a trained person to contact me now. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+866,CHAL-EMO-0266,This is not about one deadline; I have felt sad and isolated for weeks and need counseling.,emotional_distress,custom_challenge_set,True
+564,CHAL-ACA-0264,"I am not in danger, but the statistics lab report pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True
+1190,CHAL-URG-0290,"I am writing about the networks exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+1188,CHAL-URG-0288,Please escalate this now; I might hurt myself after the presentation result.,urgent_human_review,custom_challenge_set,True
+242,CHAL-NOR-0242,"My friend said the AI presentation caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True
+846,CHAL-EMO-0246,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True
+952,CHAL-URG-0052,Do not wait until tomorrow; I am in crisis and need urgent help now. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+869,CHAL-EMO-0269,"I am safe tonight, but I feel empty and disconnected from everyone on campus.",emotional_distress,custom_challenge_set,True
+7,CHAL-NOR-0007,"I was stressed before the deadline, but I am okay now; I only need the room number for databases.",normal,custom_challenge_set,True
+931,CHAL-URG-0031,"Honestly, this is not a normal study-stress message; I need immediate human help because I feel at risk. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+404,CHAL-ACA-0104,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+223,CHAL-NOR-0223,"I felt nervous last week, but today I just want to thank the advisor for helping me organize statistics.",normal,custom_challenge_set,True
+550,CHAL-ACA-0250,"Honestly, i panic whenever I open the grade portal for software engineering, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+939,CHAL-URG-0039,"Honestly, i have thoughts of suicide and need a trained person to contact me now.",urgent_human_review,custom_challenge_set,True
+940,CHAL-URG-0040,Please escalate this now; I might hurt myself after the lab report result.,urgent_human_review,custom_challenge_set,True
+893,CHAL-EMO-0293,This is not about one exam; I have felt sad and isolated for weeks and need counseling.,emotional_distress,custom_challenge_set,True
+62,CHAL-NOR-0062,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True
+527,CHAL-ACA-0227,"Honestly, i am not in danger, but the software engineering project pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True
+446,CHAL-ACA-0146,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+63,CHAL-NOR-0063,"I was stressed before the presentation, but I am okay now; I only need the room number for databases.",normal,custom_challenge_set,True
+38,CHAL-NOR-0038,This is not urgent and I am safe; please confirm whether the calculus recording will be uploaded. Please keep my message private.,normal,custom_challenge_set,True
+643,CHAL-EMO-0043,This is not about one deadline; I have felt sad and isolated for weeks and need counseling. Please keep my message private.,emotional_distress,custom_challenge_set,True
+1103,CHAL-URG-0203,"Honestly, i am writing about the statistics exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+641,CHAL-EMO-0041,This is not about one project; I have felt sad and isolated for weeks and need counseling.,emotional_distress,custom_challenge_set,True
+626,CHAL-EMO-0026,I feel numb and alone in the dorm; please connect me with someone safe to talk to.,emotional_distress,custom_challenge_set,True
+1002,CHAL-URG-0102,"I am writing about the calculus exam, but more importantly I do not feel safe with myself tonight. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+166,CHAL-NOR-0166,"I felt nervous last week, but today I just want to thank the advisor for helping me organize statistics.",normal,custom_challenge_set,True
+619,CHAL-EMO-0019,"Honestly, i feel numb and alone in the dorm; please connect me with someone safe to talk to.",emotional_distress,custom_challenge_set,True
+1031,CHAL-URG-0131,I am alone after class and I cannot promise I will stay safe tonight.,urgent_human_review,custom_challenge_set,True
+355,CHAL-ACA-0055,"Honestly, i am scared of academic probation and I need tutoring for networks as soon as possible.",academic_stress,custom_challenge_set,True
+551,CHAL-ACA-0251,I am scared of academic probation and I need tutoring for software engineering as soon as possible.,academic_stress,custom_challenge_set,True
+1069,CHAL-URG-0169,"Honestly, i have thoughts of suicide and need a trained person to contact me now.",urgent_human_review,custom_challenge_set,True
+401,CHAL-ACA-0101,"I am not in danger, but the software engineering project pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True
+1133,CHAL-URG-0233,I am alone after class and I cannot promise I will stay safe tonight. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+603,CHAL-EMO-0003,This is not about one exam; I have felt sad and isolated for weeks and need counseling.,emotional_distress,custom_challenge_set,True
+13,CHAL-NOR-0013,I am not requesting counseling; I only need technical help with opening the calculus portal.,normal,custom_challenge_set,True
+1162,CHAL-URG-0262,"I am writing about the programming exam, but more importantly I do not feel safe with myself tonight. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+989,CHAL-URG-0089,"Honestly, i am writing about the calculus exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+440,CHAL-ACA-0140,"I am not in danger, but the software engineering exam pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True
+287,CHAL-NOR-0287,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True
+145,CHAL-NOR-0145,"I felt nervous last week, but today I just want to thank the advisor for helping me organize statistics.",normal,custom_challenge_set,True
+1018,CHAL-URG-0118,"Honestly, do not wait until tomorrow; I am in crisis and need urgent help now.",urgent_human_review,custom_challenge_set,True
+594,CHAL-ACA-0294,"I am not in danger, but the calculus presentation pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True
+414,CHAL-ACA-0114,"I am not in danger, but the calculus presentation pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True
+1064,CHAL-URG-0164,"Honestly, do not wait until tomorrow; I am in crisis and need urgent help now.",urgent_human_review,custom_challenge_set,True
+1030,CHAL-URG-0130,This is not a normal study-stress message; I need immediate human help because I feel at risk.,urgent_human_review,custom_challenge_set,True
+478,CHAL-ACA-0178,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade. Please keep my message private.",academic_stress,custom_challenge_set,True
+997,CHAL-URG-0097,I have thoughts of suicide and need a trained person to contact me now.,urgent_human_review,custom_challenge_set,True
+1080,CHAL-URG-0180,"I am writing about the databases exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+26,CHAL-NOR-0026,This is not urgent and I am safe; please confirm whether the databases recording will be uploaded. Please keep my message private.,normal,custom_challenge_set,True
+590,CHAL-ACA-0290,"Honestly, the workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+676,CHAL-EMO-0076,"Honestly, i am crying often after class and avoiding friends, even when my grades are okay. Please keep my message private.",emotional_distress,custom_challenge_set,True
+82,CHAL-NOR-0082,"I was stressed before the exam, but I am okay now; I only need the room number for calculus.",normal,custom_challenge_set,True
+362,CHAL-ACA-0062,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade.",academic_stress,custom_challenge_set,True
+134,CHAL-NOR-0134,"Honestly, i am not requesting counseling; I only need technical help with opening the databases portal.",normal,custom_challenge_set,True
+2,CHAL-NOR-0002,"I was stressed before the lab report, but I am okay now; I only need the room number for programming.",normal,custom_challenge_set,True
+294,CHAL-NOR-0294,This is not urgent and I am safe; please confirm whether the calculus recording will be uploaded.,normal,custom_challenge_set,True
+20,CHAL-NOR-0020,"My friend said the statistics deadline caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True
+30,CHAL-NOR-0030,"I was stressed before the lab report, but I am okay now; I only need the room number for software engineering.",normal,custom_challenge_set,True
+335,CHAL-ACA-0035,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically. Please keep my message private.",academic_stress,custom_challenge_set,True
+887,CHAL-EMO-0287,"I keep attending software engineering, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+852,CHAL-EMO-0252,"Honestly, this is not about one deadline; I have felt sad and isolated for weeks and need counseling. Please keep my message private.",emotional_distress,custom_challenge_set,True
+502,CHAL-ACA-0202,"I am not in danger, but the AI deadline pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True
+1038,CHAL-URG-0138,"I am writing about the programming exam, but more importantly I do not feel safe with myself tonight. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+1181,CHAL-URG-0281,Please escalate this now; I might hurt myself after the quiz result.,urgent_human_review,custom_challenge_set,True
+584,CHAL-ACA-0284,"Honestly, i feel like I am failing everyone because of the quiz; I need an academic plan, not crisis support.",academic_stress,custom_challenge_set,True
+351,CHAL-ACA-0051,"I panic whenever I open the grade portal for programming, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+84,CHAL-NOR-0084,"Honestly, this is not urgent and I am safe; please confirm whether the calculus recording will be uploaded.",normal,custom_challenge_set,True
+882,CHAL-EMO-0282,I feel numb and alone in the dorm; please connect me with someone safe to talk to.,emotional_distress,custom_challenge_set,True
+804,CHAL-EMO-0204,I feel numb and alone in the dorm; please connect me with someone safe to talk to.,emotional_distress,custom_challenge_set,True
+897,CHAL-EMO-0297,"I am safe tonight, but I feel empty and disconnected from everyone on campus.",emotional_distress,custom_challenge_set,True
+496,CHAL-ACA-0196,I am scared of academic probation and I need tutoring for networks as soon as possible.,academic_stress,custom_challenge_set,True
+331,CHAL-ACA-0031,"I feel like I am failing everyone because of the lab report; I need an academic plan, not crisis support.",academic_stress,custom_challenge_set,True
+54,CHAL-NOR-0054,"I was stressed before the exam, but I am okay now; I only need the room number for programming.",normal,custom_challenge_set,True
+511,CHAL-ACA-0211,"Honestly, i feel like I am failing everyone because of the lab report; I need an academic plan, not crisis support.",academic_stress,custom_challenge_set,True
+791,CHAL-EMO-0191,I feel numb and alone in the dorm; please connect me with someone safe to talk to.,emotional_distress,custom_challenge_set,True
+174,CHAL-NOR-0174,This is not urgent and I am safe; please confirm whether the databases recording will be uploaded. Please keep my message private.,normal,custom_challenge_set,True
+914,CHAL-URG-0014,"Honestly, do not wait until tomorrow; I am in crisis and need urgent help now.",urgent_human_review,custom_challenge_set,True
+437,CHAL-ACA-0137,"Honestly, i am not in danger, but the databases lab report pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True
+489,CHAL-ACA-0189,"I panic whenever I open the grade portal for networks, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+770,CHAL-EMO-0170,"I do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True
+935,CHAL-URG-0035,"Honestly, do not wait until tomorrow; I am in crisis and need urgent help now.",urgent_human_review,custom_challenge_set,True
+571,CHAL-ACA-0271,"Honestly, the group project makes me feel trapped and overwhelmed, but my concern is the final grade. Please keep my message private.",academic_stress,custom_challenge_set,True
+420,CHAL-ACA-0120,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically. Please keep my message private.",academic_stress,custom_challenge_set,True
+1157,CHAL-URG-0257,"Honestly, i am alone after class and I cannot promise I will stay safe tonight.",urgent_human_review,custom_challenge_set,True
+859,CHAL-EMO-0259,"Honestly, i do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True
+616,CHAL-EMO-0016,"I am crying often after class and avoiding friends, even when my grades are okay.",emotional_distress,custom_challenge_set,True
+467,CHAL-ACA-0167,"Honestly, i am scared of academic probation and I need tutoring for databases as soon as possible. Please keep my message private.",academic_stress,custom_challenge_set,True
+1171,CHAL-URG-0271,"I am writing about the calculus exam, but more importantly I do not feel safe with myself tonight. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+867,CHAL-EMO-0267,"Honestly, i keep attending programming, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+386,CHAL-ACA-0086,"Honestly, i am not in danger, but the statistics quiz pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True
+424,CHAL-ACA-0124,"I am not in danger, but the programming presentation pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True
+545,CHAL-ACA-0245,"Honestly, the group project makes me feel trapped and overwhelmed, but my concern is the final grade. Please keep my message private.",academic_stress,custom_challenge_set,True
+150,CHAL-NOR-0150,"Honestly, i was stressed before the project, but I am okay now; I only need the room number for calculus.",normal,custom_challenge_set,True
+517,CHAL-ACA-0217,"I panic whenever I open the grade portal for networks, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+886,CHAL-EMO-0286,"Honestly, i feel numb and alone in the dorm; please connect me with someone safe to talk to.",emotional_distress,custom_challenge_set,True
+219,CHAL-NOR-0219,"Honestly, i felt nervous last week, but today I just want to thank the advisor for helping me organize programming. Please keep my message private.",normal,custom_challenge_set,True
+752,CHAL-EMO-0152,"I am crying often after class and avoiding friends, even when my grades are okay.",emotional_distress,custom_challenge_set,True
+748,CHAL-EMO-0148,"Honestly, i keep attending AI, but inside I feel hopeless and exhausted most days. Please keep my message private.",emotional_distress,custom_challenge_set,True
+1180,CHAL-URG-0280,Do not wait until tomorrow; I am in crisis and need urgent help now.,urgent_human_review,custom_challenge_set,True
+495,CHAL-ACA-0195,"I am not in danger, but the statistics presentation pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True
+640,CHAL-EMO-0040,This is not about one exam; I have felt sad and isolated for weeks and need counseling.,emotional_distress,custom_challenge_set,True
+465,CHAL-ACA-0165,"I am not in danger, but the software engineering exam pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True
+946,CHAL-URG-0046,"I am writing about the software engineering exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+144,CHAL-NOR-0144,"My friend said the statistics presentation caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True
+127,CHAL-NOR-0127,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule. Please keep my message private.",normal,custom_challenge_set,True
+153,CHAL-NOR-0153,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True
+239,CHAL-NOR-0239,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True
+753,CHAL-EMO-0153,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True
+593,CHAL-ACA-0293,"I am not in danger, but the software engineering presentation pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True
+630,CHAL-EMO-0030,"I keep attending programming, but inside I feel hopeless and exhausted most days. Please keep my message private.",emotional_distress,custom_challenge_set,True
+925,CHAL-URG-0025,"Honestly, i have thoughts of suicide and need a trained person to contact me now.",urgent_human_review,custom_challenge_set,True
+831,CHAL-EMO-0231,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True
+536,CHAL-ACA-0236,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade.",academic_stress,custom_challenge_set,True
+975,CHAL-URG-0075,I have thoughts of suicide and need a trained person to contact me now.,urgent_human_review,custom_challenge_set,True
+15,CHAL-NOR-0015,"I was stressed before the deadline, but I am okay now; I only need the room number for networks.",normal,custom_challenge_set,True
+760,CHAL-EMO-0160,I feel numb and alone in the dorm; please connect me with someone safe to talk to.,emotional_distress,custom_challenge_set,True
+248,CHAL-NOR-0248,"Honestly, i am not requesting counseling; I only need technical help with opening the software engineering portal. Please keep my message private.",normal,custom_challenge_set,True
+873,CHAL-EMO-0273,"Honestly, i keep attending software engineering, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+574,CHAL-ACA-0274,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade.",academic_stress,custom_challenge_set,True
+109,CHAL-NOR-0109,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True
+384,CHAL-ACA-0084,"I feel like I am failing everyone because of the exam; I need an academic plan, not crisis support.",academic_stress,custom_challenge_set,True
+1000,CHAL-URG-0100,Please escalate this now; I might hurt myself after the project result.,urgent_human_review,custom_challenge_set,True
+338,CHAL-ACA-0038,"I panic whenever I open the grade portal for programming, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+340,CHAL-ACA-0040,"Honestly, i am scared of academic probation and I need tutoring for AI as soon as possible.",academic_stress,custom_challenge_set,True
+996,CHAL-URG-0096,"Honestly, i have thoughts of suicide and need a trained person to contact me now.",urgent_human_review,custom_challenge_set,True
+605,CHAL-EMO-0005,"I am safe tonight, but I feel empty and disconnected from everyone on campus.",emotional_distress,custom_challenge_set,True
+45,CHAL-NOR-0045,"I felt nervous last week, but today I just want to thank the advisor for helping me organize databases.",normal,custom_challenge_set,True
+933,CHAL-URG-0033,Do not wait until tomorrow; I am in crisis and need urgent help now.,urgent_human_review,custom_challenge_set,True
+819,CHAL-EMO-0219,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True
+602,CHAL-EMO-0002,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True
+406,CHAL-ACA-0106,"I feel like I am failing everyone because of the lab report; I need an academic plan, not crisis support. Please keep my message private.",academic_stress,custom_challenge_set,True
+745,CHAL-EMO-0145,I feel numb and alone in the dorm; please connect me with someone safe to talk to. Please keep my message private.,emotional_distress,custom_challenge_set,True
+216,CHAL-NOR-0216,This is not urgent and I am safe; please confirm whether the databases recording will be uploaded. Please keep my message private.,normal,custom_challenge_set,True
+507,CHAL-ACA-0207,"Honestly, i am scared of academic probation and I need tutoring for software engineering as soon as possible.",academic_stress,custom_challenge_set,True
+325,CHAL-ACA-0025,"I feel like I am failing everyone because of the lab report; I need an academic plan, not crisis support.",academic_stress,custom_challenge_set,True
+490,CHAL-ACA-0190,"I panic whenever I open the grade portal for calculus, but I do not need emergency help. Please keep my message private.",academic_stress,custom_challenge_set,True
+169,CHAL-NOR-0169,"I felt nervous last week, but today I just want to thank the advisor for helping me organize AI. Please keep my message private.",normal,custom_challenge_set,True
+138,CHAL-NOR-0138,"My friend said the networks lab report caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True
+902,CHAL-URG-0002,"I am writing about the AI exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+423,CHAL-ACA-0123,"I panic whenever I open the grade portal for statistics, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+221,CHAL-NOR-0221,I am not requesting counseling; I only need technical help with opening the statistics portal.,normal,custom_challenge_set,True
+979,CHAL-URG-0079,"Honestly, do not wait until tomorrow; I am in crisis and need urgent help now.",urgent_human_review,custom_challenge_set,True
+455,CHAL-ACA-0155,"I feel like I am failing everyone because of the lab report; I need an academic plan, not crisis support.",academic_stress,custom_challenge_set,True
+520,CHAL-ACA-0220,"Honestly, i panic whenever I open the grade portal for statistics, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+356,CHAL-ACA-0056,"I panic whenever I open the grade portal for databases, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+993,CHAL-URG-0093,"Honestly, this is not a normal study-stress message; I need immediate human help because I feel at risk.",urgent_human_review,custom_challenge_set,True
+758,CHAL-EMO-0158,"Honestly, this is not about one quiz; I have felt sad and isolated for weeks and need counseling.",emotional_distress,custom_challenge_set,True
+195,CHAL-NOR-0195,"Honestly, i saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule. Please keep my message private.",normal,custom_challenge_set,True
+402,CHAL-ACA-0102,I am scared of academic probation and I need tutoring for statistics as soon as possible.,academic_stress,custom_challenge_set,True
+666,CHAL-EMO-0066,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True
+1053,CHAL-URG-0153,"Honestly, i have thoughts of suicide and need a trained person to contact me now. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+1173,CHAL-URG-0273,I am alone after class and I cannot promise I will stay safe tonight.,urgent_human_review,custom_challenge_set,True
+732,CHAL-EMO-0132,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True
+792,CHAL-EMO-0192,"Honestly, i do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True
+1035,CHAL-URG-0135,Please escalate this now; I might hurt myself after the lab report result.,urgent_human_review,custom_challenge_set,True
+323,CHAL-ACA-0023,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+637,CHAL-EMO-0037,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True
+674,CHAL-EMO-0074,"I am safe tonight, but I feel empty and disconnected from everyone on campus.",emotional_distress,custom_challenge_set,True
+998,CHAL-URG-0098,Do not wait until tomorrow; I am in crisis and need urgent help now. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+650,CHAL-EMO-0050,"I keep attending programming, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+573,CHAL-ACA-0273,"I panic whenever I open the grade portal for programming, but I do not need emergency help. Please keep my message private.",academic_stress,custom_challenge_set,True
+313,CHAL-ACA-0013,I am scared of academic probation and I need tutoring for calculus as soon as possible. Please keep my message private.,academic_stress,custom_challenge_set,True
+326,CHAL-ACA-0026,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+901,CHAL-URG-0001,"Honestly, i have thoughts of suicide and need a trained person to contact me now.",urgent_human_review,custom_challenge_set,True
+613,CHAL-EMO-0013,"I do not plan to hurt myself, but I feel worthless and need emotional support.",emotional_distress,custom_challenge_set,True
+856,CHAL-EMO-0256,I feel numb and alone in the dorm; please connect me with someone safe to talk to.,emotional_distress,custom_challenge_set,True
+984,CHAL-URG-0084,"Honestly, i am alone after class and I cannot promise I will stay safe tonight.",urgent_human_review,custom_challenge_set,True
+433,CHAL-ACA-0133,"Honestly, i am scared of academic probation and I need tutoring for programming as soon as possible.",academic_stress,custom_challenge_set,True
+956,CHAL-URG-0056,Do not wait until tomorrow; I am in crisis and need urgent help now.,urgent_human_review,custom_challenge_set,True
+719,CHAL-EMO-0119,I feel numb and alone in the dorm; please connect me with someone safe to talk to.,emotional_distress,custom_challenge_set,True
+260,CHAL-NOR-0260,"My friend said the networks project caused anxiety, but my message is just to ask about the rubric. Please keep my message private.",normal,custom_challenge_set,True
+623,CHAL-EMO-0023,"I keep attending software engineering, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+442,CHAL-ACA-0142,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+796,CHAL-EMO-0196,"Honestly, i am safe tonight, but I feel empty and disconnected from everyone on campus.",emotional_distress,custom_challenge_set,True
+282,CHAL-NOR-0282,"Honestly, my friend said the statistics deadline caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True
+408,CHAL-ACA-0108,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+443,CHAL-ACA-0143,"Honestly, i feel like I am failing everyone because of the presentation; I need an academic plan, not crisis support.",academic_stress,custom_challenge_set,True
+635,CHAL-EMO-0035,"I am crying often after class and avoiding friends, even when my grades are okay.",emotional_distress,custom_challenge_set,True
+1077,CHAL-URG-0177,I am alone after class and I cannot promise I will stay safe tonight. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+900,CHAL-EMO-0300,"I do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True
+460,CHAL-ACA-0160,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade.",academic_stress,custom_challenge_set,True
+93,CHAL-NOR-0093,This is not urgent and I am safe; please confirm whether the databases recording will be uploaded.,normal,custom_challenge_set,True
+575,CHAL-ACA-0275,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade.",academic_stress,custom_challenge_set,True
+978,CHAL-URG-0078,"I am writing about the programming exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+1192,CHAL-URG-0292,I am alone after class and I cannot promise I will stay safe tonight.,urgent_human_review,custom_challenge_set,True
+504,CHAL-ACA-0204,I am scared of academic probation and I need tutoring for programming as soon as possible. Please keep my message private.,academic_stress,custom_challenge_set,True
+687,CHAL-EMO-0087,"I am crying often after class and avoiding friends, even when my grades are okay.",emotional_distress,custom_challenge_set,True
+476,CHAL-ACA-0176,"Honestly, i feel like I am failing everyone because of the quiz; I need an academic plan, not crisis support.",academic_stress,custom_challenge_set,True
+932,CHAL-URG-0032,"Honestly, please escalate this now; I might hurt myself after the presentation result.",urgent_human_review,custom_challenge_set,True
+558,CHAL-ACA-0258,"I feel like I am failing everyone because of the presentation; I need an academic plan, not crisis support. Please keep my message private.",academic_stress,custom_challenge_set,True
+659,CHAL-EMO-0059,I feel numb and alone in the dorm; please connect me with someone safe to talk to.,emotional_distress,custom_challenge_set,True
+563,CHAL-ACA-0263,"Honestly, i feel like I am failing everyone because of the project; I need an academic plan, not crisis support. Please keep my message private.",academic_stress,custom_challenge_set,True
+610,CHAL-EMO-0010,This is not about one exam; I have felt sad and isolated for weeks and need counseling. Please keep my message private.,emotional_distress,custom_challenge_set,True
+198,CHAL-NOR-0198,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True
+751,CHAL-EMO-0151,I feel numb and alone in the dorm; please connect me with someone safe to talk to. Please keep my message private.,emotional_distress,custom_challenge_set,True
+18,CHAL-NOR-0018,"I was stressed before the quiz, but I am okay now; I only need the room number for networks.",normal,custom_challenge_set,True
+1145,CHAL-URG-0245,I have thoughts of suicide and need a trained person to contact me now. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+482,CHAL-ACA-0182,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade.",academic_stress,custom_challenge_set,True
+576,CHAL-ACA-0276,"I am not in danger, but the AI project pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True
+472,CHAL-ACA-0172,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade. Please keep my message private.",academic_stress,custom_challenge_set,True
+764,CHAL-EMO-0164,This is not about one quiz; I have felt sad and isolated for weeks and need counseling.,emotional_distress,custom_challenge_set,True
+782,CHAL-EMO-0182,"Honestly, i keep attending databases, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+136,CHAL-NOR-0136,"I was stressed before the lab report, but I am okay now; I only need the room number for statistics.",normal,custom_challenge_set,True
+636,CHAL-EMO-0036,"I keep attending networks, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+461,CHAL-ACA-0161,"I panic whenever I open the grade portal for AI, but I do not need emergency help. Please keep my message private.",academic_stress,custom_challenge_set,True
+553,CHAL-ACA-0253,"I panic whenever I open the grade portal for software engineering, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+1090,CHAL-URG-0190,Do not wait until tomorrow; I am in crisis and need urgent help now. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+1159,CHAL-URG-0259,I have thoughts of suicide and need a trained person to contact me now.,urgent_human_review,custom_challenge_set,True
+9,CHAL-NOR-0009,"My friend said the software engineering lab report caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True
+78,CHAL-NOR-0078,"I was stressed before the quiz, but I am okay now; I only need the room number for networks.",normal,custom_challenge_set,True
+59,CHAL-NOR-0059,"Honestly, i felt nervous last week, but today I just want to thank the advisor for helping me organize networks.",normal,custom_challenge_set,True
+960,CHAL-URG-0060,"Honestly, please escalate this now; I might hurt myself after the project result. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+763,CHAL-EMO-0163,This is not about one lab report; I have felt sad and isolated for weeks and need counseling. Please keep my message private.,emotional_distress,custom_challenge_set,True
+885,CHAL-EMO-0285,"I am crying often after class and avoiding friends, even when my grades are okay. Please keep my message private.",emotional_distress,custom_challenge_set,True
+425,CHAL-ACA-0125,I am scared of academic probation and I need tutoring for programming as soon as possible. Please keep my message private.,academic_stress,custom_challenge_set,True
+481,CHAL-ACA-0181,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+497,CHAL-ACA-0197,"I panic whenever I open the grade portal for AI, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+1182,CHAL-URG-0282,I have thoughts of suicide and need a trained person to contact me now.,urgent_human_review,custom_challenge_set,True
+413,CHAL-ACA-0113,"I panic whenever I open the grade portal for networks, but I do not need emergency help. Please keep my message private.",academic_stress,custom_challenge_set,True
+89,CHAL-NOR-0089,"Honestly, my friend said the networks deadline caused anxiety, but my message is just to ask about the rubric. Please keep my message private.",normal,custom_challenge_set,True
+999,CHAL-URG-0099,This is not a normal study-stress message; I need immediate human help because I feel at risk.,urgent_human_review,custom_challenge_set,True
+820,CHAL-EMO-0220,I feel numb and alone in the dorm; please connect me with someone safe to talk to.,emotional_distress,custom_challenge_set,True
+324,CHAL-ACA-0024,"I feel like I am failing everyone because of the deadline; I need an academic plan, not crisis support.",academic_stress,custom_challenge_set,True
+767,CHAL-EMO-0167,"I do not plan to hurt myself, but I feel worthless and need emotional support. Please keep my message private.",emotional_distress,custom_challenge_set,True
+322,CHAL-ACA-0022,"Honestly, i am scared of academic probation and I need tutoring for databases as soon as possible.",academic_stress,custom_challenge_set,True
+61,CHAL-NOR-0061,"My friend said the statistics exam caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True
+927,CHAL-URG-0027,"I am writing about the AI exam, but more importantly I do not feel safe with myself tonight. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+837,CHAL-EMO-0237,This is not about one exam; I have felt sad and isolated for weeks and need counseling.,emotional_distress,custom_challenge_set,True
+980,CHAL-URG-0080,This is not a normal study-stress message; I need immediate human help because I feel at risk. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+297,CHAL-NOR-0297,This is not urgent and I am safe; please confirm whether the statistics recording will be uploaded.,normal,custom_challenge_set,True
+272,CHAL-NOR-0272,"Honestly, i am not requesting counseling; I only need technical help with opening the statistics portal. Please keep my message private.",normal,custom_challenge_set,True
+47,CHAL-NOR-0047,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule. Please keep my message private.",normal,custom_challenge_set,True
+1111,CHAL-URG-0211,"Honestly, this is not a normal study-stress message; I need immediate human help because I feel at risk.",urgent_human_review,custom_challenge_set,True
+361,CHAL-ACA-0061,"I am not in danger, but the statistics lab report pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True
+17,CHAL-NOR-0017,"I was stressed before the project, but I am okay now; I only need the room number for databases.",normal,custom_challenge_set,True
+494,CHAL-ACA-0194,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+816,CHAL-EMO-0216,"I am crying often after class and avoiding friends, even when my grades are okay.",emotional_distress,custom_challenge_set,True
+194,CHAL-NOR-0194,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule. Please keep my message private.",normal,custom_challenge_set,True
+1177,CHAL-URG-0277,I am alone after class and I cannot promise I will stay safe tonight.,urgent_human_review,custom_challenge_set,True
+868,CHAL-EMO-0268,"I keep attending networks, but inside I feel hopeless and exhausted most days. Please keep my message private.",emotional_distress,custom_challenge_set,True
+807,CHAL-EMO-0207,"Honestly, i am safe tonight, but I feel empty and disconnected from everyone on campus.",emotional_distress,custom_challenge_set,True
+540,CHAL-ACA-0240,"I am not in danger, but the programming exam pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True
+439,CHAL-ACA-0139,"I am not in danger, but the statistics quiz pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True
+141,CHAL-NOR-0141,"Honestly, my friend said the AI quiz caused anxiety, but my message is just to ask about the rubric. Please keep my message private.",normal,custom_challenge_set,True
+890,CHAL-EMO-0290,"I keep attending statistics, but inside I feel hopeless and exhausted most days. Please keep my message private.",emotional_distress,custom_challenge_set,True
+468,CHAL-ACA-0168,"I am not in danger, but the calculus quiz pressure is making it hard to sleep and study. Please keep my message private.",academic_stress,custom_challenge_set,True
+1039,CHAL-URG-0139,"I am writing about the calculus exam, but more importantly I do not feel safe with myself tonight. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+1112,CHAL-URG-0212,Please escalate this now; I might hurt myself after the quiz result. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+266,CHAL-NOR-0266,I am not requesting counseling; I only need technical help with opening the AI portal.,normal,custom_challenge_set,True
+263,CHAL-NOR-0263,I am not requesting counseling; I only need technical help with opening the calculus portal.,normal,custom_challenge_set,True
+1017,CHAL-URG-0117,Please escalate this now; I might hurt myself after the exam result.,urgent_human_review,custom_challenge_set,True
+756,CHAL-EMO-0156,I feel numb and alone in the dorm; please connect me with someone safe to talk to. Please keep my message private.,emotional_distress,custom_challenge_set,True
+4,CHAL-NOR-0004,"My friend said the calculus exam caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True
+474,CHAL-ACA-0174,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+662,CHAL-EMO-0062,"I keep attending AI, but inside I feel hopeless and exhausted most days. Please keep my message private.",emotional_distress,custom_challenge_set,True
+140,CHAL-NOR-0140,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True
+1092,CHAL-URG-0192,"I am writing about the software engineering exam, but more importantly I do not feel safe with myself tonight. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+516,CHAL-ACA-0216,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically. Please keep my message private.",academic_stress,custom_challenge_set,True
+343,CHAL-ACA-0043,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade.",academic_stress,custom_challenge_set,True
+1081,CHAL-URG-0181,Do not wait until tomorrow; I am in crisis and need urgent help now.,urgent_human_review,custom_challenge_set,True
+941,CHAL-URG-0041,I am alone after class and I cannot promise I will stay safe tonight. Please keep my message private.,urgent_human_review,custom_challenge_set,True
+52,CHAL-NOR-0052,"Honestly, my friend said the software engineering lab report caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True
+531,CHAL-ACA-0231,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade.",academic_stress,custom_challenge_set,True
+435,CHAL-ACA-0135,"I panic whenever I open the grade portal for software engineering, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+538,CHAL-ACA-0238,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically.",academic_stress,custom_challenge_set,True
+696,CHAL-EMO-0096,"I keep attending AI, but inside I feel hopeless and exhausted most days. Please keep my message private.",emotional_distress,custom_challenge_set,True
+556,CHAL-ACA-0256,"Honestly, i panic whenever I open the grade portal for software engineering, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+1154,CHAL-URG-0254,I have thoughts of suicide and need a trained person to contact me now.,urgent_human_review,custom_challenge_set,True
+951,CHAL-URG-0051,"I am writing about the software engineering exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+360,CHAL-ACA-0060,I am scared of academic probation and I need tutoring for programming as soon as possible.,academic_stress,custom_challenge_set,True
+256,CHAL-NOR-0256,"My friend said the networks project caused anxiety, but my message is just to ask about the rubric. Please keep my message private.",normal,custom_challenge_set,True
+391,CHAL-ACA-0091,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically. Please keep my message private.",academic_stress,custom_challenge_set,True
+721,CHAL-EMO-0121,"I am safe tonight, but I feel empty and disconnected from everyone on campus.",emotional_distress,custom_challenge_set,True
+372,CHAL-ACA-0072,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically. Please keep my message private.",academic_stress,custom_challenge_set,True
+159,CHAL-NOR-0159,"I saw the word crisis in the announcement title, but there is no personal crisis; I need the schedule.",normal,custom_challenge_set,True
+412,CHAL-ACA-0112,"Honestly, i panic whenever I open the grade portal for software engineering, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+1004,CHAL-URG-0104,"Honestly, i am alone after class and I cannot promise I will stay safe tonight. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+485,CHAL-ACA-0185,"The workload feels impossible and I keep saying I cannot go on with these deadlines, meaning academically. Please keep my message private.",academic_stress,custom_challenge_set,True
+147,CHAL-NOR-0147,"I felt nervous last week, but today I just want to thank the advisor for helping me organize software engineering.",normal,custom_challenge_set,True
+827,CHAL-EMO-0227,This is not about one exam; I have felt sad and isolated for weeks and need counseling.,emotional_distress,custom_challenge_set,True
+844,CHAL-EMO-0244,"I am safe tonight, but I feel empty and disconnected from everyone on campus.",emotional_distress,custom_challenge_set,True
+577,CHAL-ACA-0277,"I feel like I am failing everyone because of the quiz; I need an academic plan, not crisis support. Please keep my message private.",academic_stress,custom_challenge_set,True
+838,CHAL-EMO-0238,This is not about one lab report; I have felt sad and isolated for weeks and need counseling.,emotional_distress,custom_challenge_set,True
+1198,CHAL-URG-0298,"Honestly, i am alone after class and I cannot promise I will stay safe tonight.",urgent_human_review,custom_challenge_set,True
+589,CHAL-ACA-0289,"Honestly, i feel like I am failing everyone because of the exam; I need an academic plan, not crisis support.",academic_stress,custom_challenge_set,True
+291,CHAL-NOR-0291,"My friend said the software engineering lab report caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True
+863,CHAL-EMO-0263,"I am crying often after class and avoiding friends, even when my grades are okay.",emotional_distress,custom_challenge_set,True
+214,CHAL-NOR-0214,"My friend said the databases quiz caused anxiety, but my message is just to ask about the rubric. Please keep my message private.",normal,custom_challenge_set,True
+381,CHAL-ACA-0081,"I feel like I am failing everyone because of the project; I need an academic plan, not crisis support. Please keep my message private.",academic_stress,custom_challenge_set,True
+100,CHAL-NOR-0100,This is not urgent and I am safe; please confirm whether the AI recording will be uploaded.,normal,custom_challenge_set,True
+1160,CHAL-URG-0260,I am alone after class and I cannot promise I will stay safe tonight.,urgent_human_review,custom_challenge_set,True
+505,CHAL-ACA-0205,"I panic whenever I open the grade portal for statistics, but I do not need emergency help.",academic_stress,custom_challenge_set,True
+597,CHAL-ACA-0297,"The group project makes me feel trapped and overwhelmed, but my concern is the final grade.",academic_stress,custom_challenge_set,True
+40,CHAL-NOR-0040,"I was stressed before the exam, but I am okay now; I only need the room number for statistics.",normal,custom_challenge_set,True
+341,CHAL-ACA-0041,"I feel like I am failing everyone because of the lab report; I need an academic plan, not crisis support.",academic_stress,custom_challenge_set,True
+3,CHAL-NOR-0003,"I was stressed before the project, but I am okay now; I only need the room number for calculus. Please keep my message private.",normal,custom_challenge_set,True
+452,CHAL-ACA-0152,"Honestly, i am not in danger, but the networks presentation pressure is making it hard to sleep and study.",academic_stress,custom_challenge_set,True
+1093,CHAL-URG-0193,"Honestly, do not wait until tomorrow; I am in crisis and need urgent help now. Please keep my message private.",urgent_human_review,custom_challenge_set,True
+609,CHAL-EMO-0009,"I keep attending databases, but inside I feel hopeless and exhausted most days.",emotional_distress,custom_challenge_set,True
+421,CHAL-ACA-0121,"I feel like I am failing everyone because of the deadline; I need an academic plan, not crisis support.",academic_stress,custom_challenge_set,True
+847,CHAL-EMO-0247,This is not about one presentation; I have felt sad and isolated for weeks and need counseling.,emotional_distress,custom_challenge_set,True
+112,CHAL-NOR-0112,"I was stressed before the exam, but I am okay now; I only need the room number for AI.",normal,custom_challenge_set,True
+225,CHAL-NOR-0225,"My friend said the statistics quiz caused anxiety, but my message is just to ask about the rubric.",normal,custom_challenge_set,True
+943,CHAL-URG-0043,"I am writing about the calculus exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+74,CHAL-NOR-0074,"I felt nervous last week, but today I just want to thank the advisor for helping me organize AI.",normal,custom_challenge_set,True
+48,CHAL-NOR-0048,I am not requesting counseling; I only need technical help with opening the AI portal.,normal,custom_challenge_set,True
+639,CHAL-EMO-0039,This is not about one exam; I have felt sad and isolated for weeks and need counseling.,emotional_distress,custom_challenge_set,True
+114,CHAL-NOR-0114,"Honestly, this is not urgent and I am safe; please confirm whether the networks recording will be uploaded.",normal,custom_challenge_set,True
+97,CHAL-NOR-0097,This is not urgent and I am safe; please confirm whether the programming recording will be uploaded.,normal,custom_challenge_set,True
+1148,CHAL-URG-0248,"Honestly, i am alone after class and I cannot promise I will stay safe tonight.",urgent_human_review,custom_challenge_set,True
+107,CHAL-NOR-0107,"Honestly, i was stressed before the exam, but I am okay now; I only need the room number for databases.",normal,custom_challenge_set,True
+1042,CHAL-URG-0142,"Honestly, i am writing about the AI exam, but more importantly I do not feel safe with myself tonight.",urgent_human_review,custom_challenge_set,True
+1123,CHAL-URG-0223,This is not a normal study-stress message; I need immediate human help because I feel at risk. Please keep my message private.,urgent_human_review,custom_challenge_set,True

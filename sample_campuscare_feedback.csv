@@ -1,0 +1,721 @@
+id,text,label,student_context,source,is_sample_only
+custom_academic_stress_082,"During the semester, I feel nervous before every lab evaluation and my heart races.",academic_stress,general,custom_seed_sample,True
+custom_emotional_distress_153,"Today, I feel like I am disappointing everyone and I cannot handle it. I am sharing this anonymously.",emotional_distress,exam_week,custom_seed_sample,True
+custom_academic_stress_139,"Today, I feel nervous before every lab evaluation and my heart races. I am sharing this anonymously.",academic_stress,financial_pressure,custom_seed_sample,True
+custom_normal_150,"During the semester, The assignment deadline is reasonable and I understand the topic. I hope the university can support students.",normal,exam_week,custom_seed_sample,True
+custom_emotional_distress_094,"During the semester, I am isolating myself and I do not want to talk to anyone. I am sharing this anonymously.",emotional_distress,advisor_feedback,custom_seed_sample,True
+custom_normal_139,"This week, As a student, I feel motivated after the review session this week. Can someone guide me?",normal,family_issue,custom_seed_sample,True
+custom_urgent_human_review_104,"After class, Please contact me urgently because I feel at risk and not safe.",urgent_human_review,advisor_feedback,custom_seed_sample,True
+custom_academic_stress_013,"This week, I am afraid I will fail even though I study every day. I am sharing this anonymously.",academic_stress,financial_pressure,custom_seed_sample,True
+custom_academic_stress_166,"Honestly, As a student, I need help planning my study time because everything feels urgent.",academic_stress,advisor_feedback,custom_seed_sample,True
+custom_urgent_human_review_097,"This week, This is an emergency for me and I need human help immediately.",urgent_human_review,family_issue,custom_seed_sample,True
+custom_emotional_distress_113,I feel empty and tired all the time even after resting.,emotional_distress,advisor_feedback,custom_seed_sample,True
+custom_urgent_human_review_165,"Today, I do not feel extremely safe tonight and I need immediate help from someone....",urgent_human_review,general,custom_seed_sample,True
+custom_academic_stress_106,"This week, I cannot stop worrying about the final project deadline. Can someone guide me?",academic_stress,general,custom_seed_sample,True
+custom_urgent_human_review_157,"This week, I might hurt myself if I stay alone and I need urgent support. I hope the university can support students.",urgent_human_review,exam_week,custom_seed_sample,True
+custom_urgent_human_review_052,"After class, Please contact me urgently because I feel very at risk and not safe.",urgent_human_review,family_issue,custom_seed_sample,True
+custom_academic_stress_169,"During the semester, Personally, I have two exams and three assignments this week and I feel overwhelmed.",academic_stress,general,custom_seed_sample,True
+custom_normal_011,"Today, The course materials are organized and helpful.",normal,financial_pressure,custom_seed_sample,True
+custom_normal_097,I attended the lecture today and the examples were clear. I am sharing this anonymously.,normal,group_work,custom_seed_sample,True
+custom_emotional_distress_026,"During the semester, I do not enjoy activities that used to make me happy.",emotional_distress,sleep,custom_seed_sample,True
+custom_urgent_human_review_122,"As a student, I feel in danger from myself and need a counselor or trusted adult now. This has affected my attendance.",urgent_human_review,financial_pressure,custom_seed_sample,True
+custom_urgent_human_review_090,"This week, This is an emergency for me and I need human help immediately....",urgent_human_review,group_work,custom_seed_sample,True
+custom_academic_stress_129,"After class, The workload is too much and Personally, I do not know where to start. This has affected my attendance.",academic_stress,general,custom_seed_sample,True
+custom_emotional_distress_004,I do not enjoy activities that used to make me happy.,emotional_distress,family_issue,custom_seed_sample,True
+custom_urgent_human_review_106,"Today, This is an emergency for me and I need human help immediately. Thank you.",urgent_human_review,advisor_feedback,custom_seed_sample,True
+custom_emotional_distress_032,"Today, Even simple tasks feel extremely heavy and I cannot focus in lectures.",emotional_distress,sleep,custom_seed_sample,True
+custom_academic_stress_071,"Lately, The workload is too much and I do not know where to start. I wrote this in the feedback form.",academic_stress,exam_week,custom_seed_sample,True
+custom_emotional_distress_059,"Lately, I feel hopeless about the semester and nothing feels worth the effort. This has affected my attendance.",emotional_distress,exam_week,custom_seed_sample,True
+custom_normal_015,"During the semester, I had a good study session with my group today.",normal,exam_week,custom_seed_sample,True
+custom_urgent_human_review_030,"This week, As a student, I need emergency support because I am afraid I may harm myself.",urgent_human_review,group_work,custom_seed_sample,True
+custom_emotional_distress_083,"After class, I feel very sad most days and I have lost interest in studying. I am sharing this anonymously. Please.",emotional_distress,financial_pressure,custom_seed_sample,True
+custom_urgent_human_review_149,"Today, I need emergency support because I am afraid I may harm myself. I am sharing this anonymously.",urgent_human_review,advisor_feedback,custom_seed_sample,True
+custom_urgent_human_review_009,"Lately, I need emergency support because I am afraid I may harm myself.",urgent_human_review,advisor_feedback,custom_seed_sample,True
+custom_normal_125,"Honestly, I attended the lecture today and the examples were clear. Please.",normal,sleep,custom_seed_sample,True
+custom_emotional_distress_141,"Honestly, I am isolating myself and I do not want to talk to anyone.",emotional_distress,advisor_feedback,custom_seed_sample,True
+custom_emotional_distress_097,"Honestly, I do not enjoy activities that used to make me happy.",emotional_distress,sleep,custom_seed_sample,True
+custom_urgent_human_review_035,"After class, Personally, I am not safe being alone and I need someone to reach out now. I hope the university can support students.",urgent_human_review,sleep,custom_seed_sample,True
+custom_academic_stress_097,"Honestly, The workload is too much and I do not know where to start. This has affected my attendance.",academic_stress,family_issue,custom_seed_sample,True
+custom_normal_079,"After class, My schedule feels balanced and I can manage my work.",normal,family_issue,custom_seed_sample,True
+custom_emotional_distress_101,"Lately, Even simple tasks feel extremely heavy and I cannot focus in lectures. Please.",emotional_distress,exam_week,custom_seed_sample,True
+custom_urgent_human_review_059,"This week, I might hurt myself if I stay alone and I need urgent support. I wrote this in the feedback form.",urgent_human_review,general,custom_seed_sample,True
+custom_emotional_distress_090,"During the semester, I feel empty and tired all the time even after resting.",emotional_distress,project_deadline,custom_seed_sample,True
+custom_academic_stress_100,"During the semester, The workload is too much and I do not know where to start.",academic_stress,financial_pressure,custom_seed_sample,True
+custom_normal_170,"This week, The lab instructions were easy to follow and I finished on time.",normal,financial_pressure,custom_seed_sample,True
+custom_academic_stress_098,"Honestly, I am afraid I will fail even though I study every day. I hope the university can support students. Thank you.",academic_stress,group_work,custom_seed_sample,True
+custom_urgent_human_review_179,"Today, This is an emergency for me and Personally, I need human help immediately.",urgent_human_review,sleep,custom_seed_sample,True
+custom_urgent_human_review_044,"After class, Personally, I cannot promise I will be okay tonight without immediate help.!",urgent_human_review,group_work,custom_seed_sample,True
+custom_emotional_distress_147,"Lately, I feel like I am disappointing everyone and I cannot handle it.",emotional_distress,advisor_feedback,custom_seed_sample,True
+custom_normal_001,"Lately, My schedule feels balanced and I can manage my work.",normal,general,custom_seed_sample,True
+custom_academic_stress_113,"During the semester, I keep postponing tasks and then panic when the deadline is near. Please.",academic_stress,exam_week,custom_seed_sample,True
+custom_emotional_distress_020,"Honestly, Even simple tasks feel extremely heavy and I cannot focus in lectures. Can someone guide me?...",emotional_distress,group_work,custom_seed_sample,True
+custom_academic_stress_120,"After class, I cannot stop worrying about the final project deadline.",academic_stress,financial_pressure,custom_seed_sample,True
+custom_emotional_distress_093,I feel sad most days and I have lost interest in studying.,emotional_distress,financial_pressure,custom_seed_sample,True
+custom_urgent_human_review_111,"Lately, Personally, I cannot promise I will be okay tonight without immediate help. I wrote this in the feedback form.",urgent_human_review,advisor_feedback,custom_seed_sample,True
+custom_emotional_distress_161,"Honestly, I feel like I am disappointing everyone and I cannot handle it. Can someone guide me?",emotional_distress,advisor_feedback,custom_seed_sample,True
+custom_urgent_human_review_081,"Lately, Please contact me urgently because Personally, I feel very at risk and not safe. This has affected my attendance.",urgent_human_review,general,custom_seed_sample,True
+custom_normal_009,"This week, The assignment deadline is reasonable and I understand the topic.",normal,advisor_feedback,custom_seed_sample,True
+custom_urgent_human_review_166,"During the semester, I am not safe being alone and I need someone to reach out now.",urgent_human_review,general,custom_seed_sample,True
+custom_academic_stress_007,I cannot stop worrying about the final project deadline. Can someone guide me?,academic_stress,project_deadline,custom_seed_sample,True
+custom_academic_stress_107,"Honestly, I cannot stop worrying about the final project deadline.",academic_stress,project_deadline,custom_seed_sample,True
+custom_urgent_human_review_121,"Today, I do not feel really safe tonight and I need immediate help from someone. I am sharing this anonymously.",urgent_human_review,group_work,custom_seed_sample,True
+custom_emotional_distress_134,"Lately, I do not enjoy activities that used to make me happy.",emotional_distress,group_work,custom_seed_sample,True
+custom_normal_179,The quiz feedback helped me know what to improve. I am sharing this anonymously.,normal,advisor_feedback,custom_seed_sample,True
+custom_normal_163,"After class, The course materials are organized and helpful....",normal,financial_pressure,custom_seed_sample,True
+custom_urgent_human_review_026,"After class, I am not safe being alone and I need someone to reach out now. I wrote this in the feedback form.",urgent_human_review,exam_week,custom_seed_sample,True
+custom_emotional_distress_095,"Honestly, I keep crying at night and I feel emotionally drained.",emotional_distress,sleep,custom_seed_sample,True
+custom_academic_stress_134,I need help planning my study time because everything feels urgent.,academic_stress,family_issue,custom_seed_sample,True
+custom_normal_096,"Honestly, As a student, I am doing okay this week and keeping up with classes. This has affected my attendance.",normal,group_work,custom_seed_sample,True
+custom_emotional_distress_063,"Lately, I do not enjoy activities that used to make me happy.",emotional_distress,financial_pressure,custom_seed_sample,True
+custom_urgent_human_review_034,"Honestly, I might hurt myself if I stay alone and I need urgent support.",urgent_human_review,group_work,custom_seed_sample,True
+custom_academic_stress_138,"Lately, I keep postponing tasks and then panic when the deadline is near. I hope the university can support students.",academic_stress,exam_week,custom_seed_sample,True
+custom_urgent_human_review_131,"During the semester, I cannot promise I will be okay tonight without immediate help. I wrote this in the feedback form. Please.",urgent_human_review,sleep,custom_seed_sample,True
+custom_urgent_human_review_010,"During the semester, I need emergency support because I am afraid I may harm myself.",urgent_human_review,family_issue,custom_seed_sample,True
+custom_academic_stress_146,"After class, I keep postponing tasks and then panic when the deadline is near.",academic_stress,family_issue,custom_seed_sample,True
+custom_urgent_human_review_156,"This week, I might hurt myself if I stay alone and I need urgent support.",urgent_human_review,general,custom_seed_sample,True
+custom_emotional_distress_005,"Honestly, My mood has been low for weeks and my grades are dropping.",emotional_distress,family_issue,custom_seed_sample,True
+custom_academic_stress_072,"After class, The workload is too much and I do not know where to start. Can someone guide me?",academic_stress,group_work,custom_seed_sample,True
+custom_emotional_distress_011,"Honestly, Personally, I do not enjoy activities that used to make me happy. Can someone guide me?!",emotional_distress,financial_pressure,custom_seed_sample,True
+custom_urgent_human_review_134,"During the semester, Personally, I am not safe being alone and I need someone to reach out now.",urgent_human_review,sleep,custom_seed_sample,True
+custom_emotional_distress_157,"Today, My mood has been low for weeks and my grades are dropping. I hope the university can support students.",emotional_distress,advisor_feedback,custom_seed_sample,True
+custom_normal_168,"This week, The quiz feedback helped me know what to improve.",normal,family_issue,custom_seed_sample,True
+custom_normal_161,"Lately, The lab instructions were easy to follow and I finished on time. Please.",normal,sleep,custom_seed_sample,True
+custom_normal_104,"After class, I attended the lecture today and the examples were clear. Thank you.",normal,project_deadline,custom_seed_sample,True
+custom_academic_stress_104,I need help planning my study time because everything feels urgent. I hope the university can support students.,academic_stress,group_work,custom_seed_sample,True
+custom_academic_stress_041,"This week, I am afraid I will fail even though I study every day.",academic_stress,advisor_feedback,custom_seed_sample,True
+custom_emotional_distress_106,"During the semester, I feel kind of empty and tired all the time even after resting. This has affected my attendance.",emotional_distress,advisor_feedback,custom_seed_sample,True
+custom_urgent_human_review_019,I do not feel safe tonight and I need immediate help from someone.,urgent_human_review,group_work,custom_seed_sample,True
+custom_emotional_distress_023,"This week, I do not enjoy activities that used to make me happy. This has affected my attendance.",emotional_distress,group_work,custom_seed_sample,True
+custom_normal_177,"During the semester, As a student, I enjoyed the practical task and learned a new skill. I am sharing this anonymously.",normal,financial_pressure,custom_seed_sample,True
+custom_normal_114,"Lately, I enjoyed the practical task and learned a new skill.",normal,exam_week,custom_seed_sample,True
+custom_emotional_distress_145,"Today, I keep crying at night and I feel emotionally drained.",emotional_distress,financial_pressure,custom_seed_sample,True
+custom_normal_021,I attended the lecture today and the examples were clear.,normal,project_deadline,custom_seed_sample,True
+custom_normal_039,"After class, Personally, I feel motivated after the review session this week. I am sharing this anonymously.",normal,exam_week,custom_seed_sample,True
+custom_urgent_human_review_098,"Today, I need emergency support because I am afraid I may harm myself. I wrote this in the feedback form.",urgent_human_review,family_issue,custom_seed_sample,True
+custom_emotional_distress_098,"Today, I do not enjoy activities that used to make me happy. This has affected my attendance.",emotional_distress,advisor_feedback,custom_seed_sample,True
+custom_emotional_distress_173,"Today, Personally, I feel empty and tired all the time even after resting. Can someone guide me?",emotional_distress,general,custom_seed_sample,True
+custom_emotional_distress_132,"During the semester, I feel kind of hopeless about the semester and nothing feels worth the effort.",emotional_distress,exam_week,custom_seed_sample,True
+custom_academic_stress_010,"After class, My sleep is getting worse because I keep thinking about grades.",academic_stress,exam_week,custom_seed_sample,True
+custom_normal_137,"During the semester, Personally, I attended the lecture today and the examples were clear. Can someone guide me?",normal,family_issue,custom_seed_sample,True
+custom_urgent_human_review_113,"Lately, This is an emergency for me and I need human help immediately.",urgent_human_review,advisor_feedback,custom_seed_sample,True
+custom_urgent_human_review_024,"During the semester, I am scared of what I may do to myself and I need a person now.",urgent_human_review,group_work,custom_seed_sample,True
+custom_emotional_distress_069,"After class, I feel like I am disappointing everyone and I cannot handle it.",emotional_distress,group_work,custom_seed_sample,True
+custom_normal_130,"Lately, My schedule feels balanced and I can manage my work.",normal,sleep,custom_seed_sample,True
+custom_normal_062,"Today, As a student, I feel really motivated after the review session this week. I am sharing this anonymously.",normal,advisor_feedback,custom_seed_sample,True
+custom_urgent_human_review_133,"Lately, I am not safe being alone and I need someone to reach out now.",urgent_human_review,sleep,custom_seed_sample,True
+custom_academic_stress_001,"During the semester, I need help planning my study time because everything feels urgent. This has affected my attendance.",academic_stress,family_issue,custom_seed_sample,True
+custom_urgent_human_review_167,"During the semester, I feel extremely like I may lose control and I need urgent human review. I wrote this in the feedback form.",urgent_human_review,family_issue,custom_seed_sample,True
+custom_normal_083,"Honestly, The assignment deadline is reasonable and I understand the topic. I hope the university can support students.",normal,advisor_feedback,custom_seed_sample,True
+custom_emotional_distress_166,"This week, Even simple tasks feel heavy and I cannot focus in lectures. Please.",emotional_distress,project_deadline,custom_seed_sample,True
+custom_emotional_distress_043,"Lately, As a student, I feel sad most days and I have lost interest in studying.!",emotional_distress,group_work,custom_seed_sample,True
+custom_normal_132,"Today, The lab instructions were easy to follow and I finished on time.",normal,financial_pressure,custom_seed_sample,True
+custom_emotional_distress_178,"Honestly, I need someone to check on me because I feel really very alone.",emotional_distress,family_issue,custom_seed_sample,True
+custom_normal_173,The course materials are organized and helpful.,normal,general,custom_seed_sample,True
+custom_normal_066,"Today, The quiz feedback helped me know what to improve.",normal,exam_week,custom_seed_sample,True
+custom_normal_129,"Honestly, As a student, I enjoyed the practical task and learned a new skill. This has affected my attendance.",normal,group_work,custom_seed_sample,True
+custom_academic_stress_024,I feel extremely nervous before every lab evaluation and my heart races. Can someone guide me? Please.,academic_stress,advisor_feedback,custom_seed_sample,True
+custom_academic_stress_152,"Honestly, I am exhausted from studying late every night for exams.",academic_stress,project_deadline,custom_seed_sample,True
+custom_urgent_human_review_177,"During the semester, I feel really in danger from myself and need a counselor or trusted adult now. I am sharing this anonymously.",urgent_human_review,sleep,custom_seed_sample,True
+custom_urgent_human_review_114,"Honestly, I might hurt myself if I stay alone and I need urgent support. I am sharing this anonymously.",urgent_human_review,project_deadline,custom_seed_sample,True
+custom_emotional_distress_163,"Today, Even simple tasks feel heavy and I cannot focus in lectures. I am sharing this anonymously.",emotional_distress,sleep,custom_seed_sample,True
+custom_urgent_human_review_110,"Lately, As a student, I feel like I may lose control and I need urgent human review. I am sharing this anonymously.",urgent_human_review,group_work,custom_seed_sample,True
+custom_urgent_human_review_162,"During the semester, I feel very like I may lose control and I need urgent human review.",urgent_human_review,general,custom_seed_sample,True
+custom_emotional_distress_065,"After class, I feel extremely hopeless about the semester and nothing feels worth the effort. Can someone guide me?",emotional_distress,exam_week,custom_seed_sample,True
+custom_normal_169,"This week, The course materials are organized and helpful. Can someone guide me?",normal,sleep,custom_seed_sample,True
+custom_academic_stress_148,"This week, I am exhausted from studying late every night for exams.",academic_stress,exam_week,custom_seed_sample,True
+custom_urgent_human_review_040,"During the semester, I am not safe being alone and I need someone to reach out now.",urgent_human_review,exam_week,custom_seed_sample,True
+custom_emotional_distress_076,"Today, I am isolating myself and I do not want to talk to anyone. I am sharing this anonymously.",emotional_distress,sleep,custom_seed_sample,True
+custom_emotional_distress_006,Even simple tasks feel kind of heavy and I cannot focus in lectures.,emotional_distress,exam_week,custom_seed_sample,True
+custom_academic_stress_154,"Today, My sleep is getting worse because I keep thinking about grades. I wrote this in the feedback form.",academic_stress,advisor_feedback,custom_seed_sample,True
+custom_normal_033,"During the semester, The course materials are organized and helpful.",normal,project_deadline,custom_seed_sample,True
+custom_emotional_distress_021,"Lately, My mood has been low for weeks and my grades are dropping....",emotional_distress,family_issue,custom_seed_sample,True
+custom_academic_stress_035,"After class, Group work is stressful because I am carrying most of the tasks. Please.",academic_stress,family_issue,custom_seed_sample,True
+custom_normal_005,"Today, My schedule feels balanced and I can manage my work.",normal,family_issue,custom_seed_sample,True
+custom_urgent_human_review_053,I do not feel safe tonight and I need immediate help from someone.,urgent_human_review,project_deadline,custom_seed_sample,True
+custom_urgent_human_review_047,"During the semester, I might hurt myself if I stay alone and I need urgent support. Thank you.",urgent_human_review,financial_pressure,custom_seed_sample,True
+custom_normal_127,"Honestly, I feel motivated after the review session this week.",normal,sleep,custom_seed_sample,True
+custom_academic_stress_149,"This week, I need help planning my study time because everything feels urgent. This has affected my attendance.",academic_stress,advisor_feedback,custom_seed_sample,True
+custom_urgent_human_review_160,"This week, I cannot promise I will be okay tonight without immediate help.",urgent_human_review,sleep,custom_seed_sample,True
+custom_urgent_human_review_017,"Today, This is an emergency for me and I need human help immediately.",urgent_human_review,exam_week,custom_seed_sample,True
+custom_urgent_human_review_138,"Today, As a student, I am not safe being alone and I need someone to reach out now. I wrote this in the feedback form.",urgent_human_review,family_issue,custom_seed_sample,True
+custom_academic_stress_145,"Today, I need help planning my study time because everything feels urgent. This has affected my attendance.",academic_stress,advisor_feedback,custom_seed_sample,True
+custom_emotional_distress_047,"This week, As a student, I keep crying at night and I feel emotionally drained. I am sharing this anonymously.",emotional_distress,general,custom_seed_sample,True
+custom_emotional_distress_057,"Honestly, My mood has been low for weeks and my grades are dropping.",emotional_distress,project_deadline,custom_seed_sample,True
+custom_emotional_distress_041,"After class, I feel empty and tired all the time even after resting. This has affected my attendance.",emotional_distress,general,custom_seed_sample,True
+custom_urgent_human_review_120,"This week, I might hurt myself if I stay alone and I need urgent support.",urgent_human_review,family_issue,custom_seed_sample,True
+custom_urgent_human_review_015,"During the semester, I am scared of what I may do to myself and I need a person now.",urgent_human_review,exam_week,custom_seed_sample,True
+custom_urgent_human_review_140,"Today, I feel kind of in danger from myself and need a counselor or trusted adult now.!",urgent_human_review,advisor_feedback,custom_seed_sample,True
+custom_academic_stress_086,"Today, As a student, I am exhausted from studying late every night for exams.",academic_stress,sleep,custom_seed_sample,True
+custom_emotional_distress_030,I feel sad most days and I have lost interest in studying. I am sharing this anonymously.,emotional_distress,sleep,custom_seed_sample,True
+custom_academic_stress_045,"This week, Personally, I have two exams and three assignments this week and I feel very overwhelmed.",academic_stress,group_work,custom_seed_sample,True
+custom_academic_stress_049,"After class, Group work is stressful because I am carrying most of the tasks.",academic_stress,advisor_feedback,custom_seed_sample,True
+custom_normal_159,"During the semester, The lab instructions were easy to follow and I finished on time. This has affected my attendance.",normal,project_deadline,custom_seed_sample,True
+custom_urgent_human_review_146,"Honestly, I need emergency support because I am afraid I may harm myself. Thank you.",urgent_human_review,exam_week,custom_seed_sample,True
+custom_normal_153,"Today, I enjoyed the practical task and learned a new skill. This has affected my attendance.",normal,project_deadline,custom_seed_sample,True
+custom_normal_136,"Lately, I attended the lecture today and the examples were clear....",normal,exam_week,custom_seed_sample,True
+custom_urgent_human_review_091,"Lately, I do not feel extremely safe tonight and I need immediate help from someone.",urgent_human_review,sleep,custom_seed_sample,True
+custom_normal_031,I am doing okay this week and keeping up with classes.!,normal,general,custom_seed_sample,True
+custom_normal_134,"After class, I am doing okay this week and keeping up with classes. This has affected my attendance.",normal,sleep,custom_seed_sample,True
+custom_normal_174,"This week, I feel kind of motivated after the review session this week.",normal,financial_pressure,custom_seed_sample,True
+custom_emotional_distress_089,"Honestly, I feel sad most days and I have lost interest in studying.",emotional_distress,financial_pressure,custom_seed_sample,True
+custom_normal_115,My schedule feels balanced and I can manage my work. I am sharing this anonymously.,normal,general,custom_seed_sample,True
+custom_emotional_distress_146,"Today, Even simple tasks feel really heavy and I cannot focus in lectures. I wrote this in the feedback form.",emotional_distress,exam_week,custom_seed_sample,True
+custom_normal_095,"After class, My schedule feels balanced and I can manage my work.",normal,group_work,custom_seed_sample,True
+custom_urgent_human_review_170,"This week, I am not safe being alone and I need someone to reach out now. I hope the university can support students.",urgent_human_review,project_deadline,custom_seed_sample,True
+custom_urgent_human_review_011,"Lately, As a student, I feel in danger from myself and need a counselor or trusted adult now.",urgent_human_review,project_deadline,custom_seed_sample,True
+custom_emotional_distress_111,"This week, I feel really like I am disappointing everyone and I cannot handle it.",emotional_distress,general,custom_seed_sample,True
+custom_urgent_human_review_061,"After class, I feel very like I may lose control and I need urgent human review. I hope the university can support students.",urgent_human_review,project_deadline,custom_seed_sample,True
+custom_urgent_human_review_147,"Lately, I might hurt myself if I stay alone and I need urgent support. I am sharing this anonymously.",urgent_human_review,advisor_feedback,custom_seed_sample,True
+custom_urgent_human_review_037,"This week, I need emergency support because I am afraid I may harm myself. I am sharing this anonymously.",urgent_human_review,group_work,custom_seed_sample,True
+custom_urgent_human_review_172,"Lately, I am not safe being alone and I need someone to reach out now. This has affected my attendance.",urgent_human_review,group_work,custom_seed_sample,True
+custom_urgent_human_review_018,"Honestly, I feel like I may lose control and I need urgent human review. I am sharing this anonymously. Thank you.",urgent_human_review,sleep,custom_seed_sample,True
+custom_emotional_distress_119,"After class, I feel like I am disappointing everyone and I cannot handle it. Can someone guide me?",emotional_distress,financial_pressure,custom_seed_sample,True
+custom_academic_stress_026,"During the semester, I cannot stop worrying about the final project deadline.",academic_stress,project_deadline,custom_seed_sample,True
+custom_urgent_human_review_161,"This week, I might hurt myself if I stay alone and I need urgent support. I hope the university can support students.!",urgent_human_review,exam_week,custom_seed_sample,True
+custom_academic_stress_108,I have two exams and three assignments this week and I feel overwhelmed. This has affected my attendance.,academic_stress,project_deadline,custom_seed_sample,True
+custom_emotional_distress_022,"During the semester, I feel like I am disappointing everyone and I cannot handle it. This has affected my attendance.",emotional_distress,advisor_feedback,custom_seed_sample,True
+custom_normal_029,"Today, I feel motivated after the review session this week.",normal,exam_week,custom_seed_sample,True
+custom_academic_stress_029,"Today, I am exhausted from studying late every night for exams.",academic_stress,advisor_feedback,custom_seed_sample,True
+custom_emotional_distress_013,"Honestly, My mood has been low for weeks and my grades are dropping.",emotional_distress,exam_week,custom_seed_sample,True
+custom_emotional_distress_117,"After class, I need someone to check on me because I feel very very alone.",emotional_distress,financial_pressure,custom_seed_sample,True
+custom_emotional_distress_062,"Honestly, I keep crying at night and I feel emotionally drained.!",emotional_distress,family_issue,custom_seed_sample,True
+custom_normal_052,"This week, I feel motivated after the review session this week.",normal,sleep,custom_seed_sample,True
+custom_urgent_human_review_128,"After class, I feel really like I may lose control and I need urgent human review.",urgent_human_review,group_work,custom_seed_sample,True
+custom_academic_stress_089,"Lately, I am exhausted from studying late every night for exams. I wrote this in the feedback form.",academic_stress,sleep,custom_seed_sample,True
+custom_academic_stress_046,"After class, Group work is stressful because I am carrying most of the tasks.",academic_stress,sleep,custom_seed_sample,True
+custom_emotional_distress_108,"During the semester, I am isolating myself and I do not want to talk to anyone.",emotional_distress,family_issue,custom_seed_sample,True
+custom_emotional_distress_015,"Honestly, I keep crying at night and I feel extremely emotionally drained.",emotional_distress,family_issue,custom_seed_sample,True
+custom_academic_stress_127,"This week, Group work is stressful because I am carrying most of the tasks. I hope the university can support students.",academic_stress,group_work,custom_seed_sample,True
+custom_academic_stress_020,"Lately, I am afraid I will fail even though I study every day. I wrote this in the feedback form.",academic_stress,exam_week,custom_seed_sample,True
+custom_academic_stress_094,"During the semester, I feel nervous before every lab evaluation and my heart races.",academic_stress,sleep,custom_seed_sample,True
+custom_urgent_human_review_125,"Lately, Personally, I feel like I may lose control and I need urgent human review. I am sharing this anonymously.",urgent_human_review,project_deadline,custom_seed_sample,True
+custom_urgent_human_review_076,"Lately, I am scared of what I may do to myself and I need a person now.",urgent_human_review,group_work,custom_seed_sample,True
+custom_normal_119,"This week, The quiz feedback helped me know what to improve. This has affected my attendance.",normal,advisor_feedback,custom_seed_sample,True
+custom_academic_stress_016,"During the semester, I have two exams and three assignments this week and I feel very overwhelmed.",academic_stress,advisor_feedback,custom_seed_sample,True
+custom_emotional_distress_064,"After class, I keep crying at night and I feel emotionally drained.",emotional_distress,family_issue,custom_seed_sample,True
+custom_normal_028,"Honestly, I am doing okay this week and keeping up with classes.",normal,advisor_feedback,custom_seed_sample,True
+custom_normal_013,"Honestly, Personally, I enjoyed the practical task and learned a new skill. Please.",normal,sleep,custom_seed_sample,True
+custom_normal_093,"After class, The lab instructions were easy to follow and I finished on time. I wrote this in the feedback form.",normal,family_issue,custom_seed_sample,True
+custom_emotional_distress_154,"This week, I need someone to check on me because I feel very alone. I hope the university can support students.",emotional_distress,advisor_feedback,custom_seed_sample,True
+custom_normal_131,"Today, My schedule feels balanced and I can manage my work.",normal,general,custom_seed_sample,True
+custom_academic_stress_172,"This week, I have two exams and three assignments this week and I feel overwhelmed. I wrote this in the feedback form.",academic_stress,group_work,custom_seed_sample,True
+custom_urgent_human_review_109,"Personally, I feel like I may lose control and I need urgent human review.",urgent_human_review,exam_week,custom_seed_sample,True
+custom_emotional_distress_123,"During the semester, Personally, I feel hopeless about the semester and nothing feels worth the effort. I wrote this in the feedback form.",emotional_distress,family_issue,custom_seed_sample,True
+custom_normal_158,"This week, Personally, I enjoyed the practical task and learned a new skill.!",normal,advisor_feedback,custom_seed_sample,True
+custom_urgent_human_review_054,"Today, Please contact me urgently because I feel at risk and not safe. I am sharing this anonymously.",urgent_human_review,exam_week,custom_seed_sample,True
+custom_academic_stress_118,"Today, I cannot stop worrying about the final project deadline. This has affected my attendance.!",academic_stress,sleep,custom_seed_sample,True
+custom_academic_stress_109,"During the semester, I need help planning my study time because everything feels urgent. I wrote this in the feedback form.!",academic_stress,family_issue,custom_seed_sample,True
+custom_academic_stress_177,"Honestly, My sleep is getting worse because I keep thinking about grades. I wrote this in the feedback form.",academic_stress,general,custom_seed_sample,True
+custom_academic_stress_023,"Honestly, I am afraid I will fail even though I study every day.",academic_stress,group_work,custom_seed_sample,True
+custom_urgent_human_review_065,"During the semester, I am not safe being alone and I need someone to reach out now.",urgent_human_review,exam_week,custom_seed_sample,True
+custom_urgent_human_review_042,"Honestly, Please contact me urgently because I feel kind of at risk and not safe. I am sharing this anonymously.",urgent_human_review,group_work,custom_seed_sample,True
+custom_normal_156,"Today, I attended the lecture today and the examples were clear. I hope the university can support students.",normal,financial_pressure,custom_seed_sample,True
+custom_emotional_distress_079,"Today, Even simple tasks feel heavy and I cannot focus in lectures. I hope the university can support students....",emotional_distress,project_deadline,custom_seed_sample,True
+custom_emotional_distress_130,"During the semester, I am isolating myself and I do not want to talk to anyone.",emotional_distress,financial_pressure,custom_seed_sample,True
+custom_urgent_human_review_086,"During the semester, I need emergency support because I am afraid I may harm myself.",urgent_human_review,family_issue,custom_seed_sample,True
+custom_emotional_distress_107,"As a student, I do not enjoy activities that used to make me happy.",emotional_distress,exam_week,custom_seed_sample,True
+custom_urgent_human_review_083,"Lately, I am not safe being alone and I need someone to reach out now.",urgent_human_review,family_issue,custom_seed_sample,True
+custom_urgent_human_review_087,"After class, Please contact me urgently because I feel at risk and not safe. I am sharing this anonymously.",urgent_human_review,financial_pressure,custom_seed_sample,True
+custom_normal_135,"Lately, The assignment deadline is reasonable and Personally, I understand the topic. Can someone guide me?",normal,sleep,custom_seed_sample,True
+custom_normal_085,"Today, I had a good study session with my group today. I wrote this in the feedback form.",normal,group_work,custom_seed_sample,True
+custom_normal_176,"During the semester, The course materials are organized and helpful. Can someone guide me?",normal,project_deadline,custom_seed_sample,True
+custom_urgent_human_review_012,"After class, This is an emergency for me and I need human help immediately.",urgent_human_review,sleep,custom_seed_sample,True
+custom_normal_018,"After class, I feel kind of motivated after the review session this week. I hope the university can support students.",normal,family_issue,custom_seed_sample,True
+custom_academic_stress_048,"During the semester, Personally, I am afraid I will fail even though I study every day. This has affected my attendance.",academic_stress,general,custom_seed_sample,True
+custom_academic_stress_040,My sleep is getting worse because I keep thinking about grades. This has affected my attendance.,academic_stress,financial_pressure,custom_seed_sample,True
+custom_urgent_human_review_048,"During the semester, Please contact me urgently because Personally, I feel at risk and not safe. This has affected my attendance.",urgent_human_review,advisor_feedback,custom_seed_sample,True
+custom_normal_162,"Honestly, The assignment deadline is reasonable and I understand the topic.",normal,sleep,custom_seed_sample,True
+custom_urgent_human_review_092,I might hurt myself if I stay alone and I need urgent support. I am sharing this anonymously.,urgent_human_review,sleep,custom_seed_sample,True
+custom_emotional_distress_137,"During the semester, Personally, I feel hopeless about the semester and nothing feels worth the effort.",emotional_distress,general,custom_seed_sample,True
+custom_normal_160,I am doing okay this week and keeping up with classes.,normal,sleep,custom_seed_sample,True
+custom_urgent_human_review_108,"This week, This is an emergency for me and I need human help immediately.",urgent_human_review,exam_week,custom_seed_sample,True
+custom_academic_stress_055,"This week, My sleep is getting worse because I keep thinking about grades. I wrote this in the feedback form.",academic_stress,financial_pressure,custom_seed_sample,True
+custom_academic_stress_022,My sleep is getting worse because I keep thinking about grades. I am sharing this anonymously....,academic_stress,advisor_feedback,custom_seed_sample,True
+custom_normal_047,I attended the lecture today and the examples were clear.,normal,project_deadline,custom_seed_sample,True
+custom_academic_stress_131,"During the semester, Personally, I cannot stop worrying about the final project deadline. I am sharing this anonymously.",academic_stress,general,custom_seed_sample,True
+custom_academic_stress_066,"After class, My sleep is getting worse because I keep thinking about grades.!",academic_stress,sleep,custom_seed_sample,True
+custom_academic_stress_144,"Today, I am exhausted from studying late every night for exams. Can someone guide me?",academic_stress,exam_week,custom_seed_sample,True
+custom_urgent_human_review_057,"Honestly, I am scared of what I may do to myself and I need a person now.",urgent_human_review,advisor_feedback,custom_seed_sample,True
+custom_urgent_human_review_000,"Lately, I am scared of what I may do to myself and I need a person now.",urgent_human_review,general,custom_seed_sample,True
+custom_urgent_human_review_176,I cannot promise I will be okay tonight without immediate help.,urgent_human_review,advisor_feedback,custom_seed_sample,True
+custom_academic_stress_156,"After class, I am exhausted from studying late every night for exams. I wrote this in the feedback form.!",academic_stress,advisor_feedback,custom_seed_sample,True
+custom_academic_stress_080,"Honestly, I have two exams and three assignments this week and I feel overwhelmed. Can someone guide me?",academic_stress,general,custom_seed_sample,True
+custom_normal_149,"Honestly, I attended the lecture today and the examples were clear.",normal,advisor_feedback,custom_seed_sample,True
+custom_academic_stress_137,"Today, As a student, I am exhausted from studying late every night for exams. This has affected my attendance.",academic_stress,financial_pressure,custom_seed_sample,True
+custom_normal_146,"After class, I am doing okay this week and keeping up with classes. This has affected my attendance.",normal,advisor_feedback,custom_seed_sample,True
+custom_academic_stress_102,"During the semester, I cannot stop worrying about the final project deadline.",academic_stress,family_issue,custom_seed_sample,True
+custom_academic_stress_112,"Honestly, I cannot stop worrying about the final project deadline. Can someone guide me?",academic_stress,sleep,custom_seed_sample,True
+custom_urgent_human_review_014,"After class, Please contact me urgently because I feel really at risk and not safe. I wrote this in the feedback form.",urgent_human_review,sleep,custom_seed_sample,True
+custom_emotional_distress_075,"Today, My mood has been low for weeks and my grades are dropping.",emotional_distress,sleep,custom_seed_sample,True
+custom_normal_078,The course materials are organized and helpful. I wrote this in the feedback form.,normal,group_work,custom_seed_sample,True
+custom_urgent_human_review_025,"During the semester, As a student, I feel really like I may lose control and I need urgent human review.",urgent_human_review,project_deadline,custom_seed_sample,True
+custom_urgent_human_review_163,"After class, I feel really in danger from myself and need a counselor or trusted adult now. This has affected my attendance.",urgent_human_review,family_issue,custom_seed_sample,True
+custom_normal_004,"This week, The quiz feedback helped me know what to improve. This has affected my attendance.",normal,sleep,custom_seed_sample,True
+custom_emotional_distress_105,"During the semester, I am isolating myself and I do not want to talk to anyone. Can someone guide me?",emotional_distress,general,custom_seed_sample,True
+custom_urgent_human_review_084,"Honestly, Personally, I might hurt myself if I stay alone and I need urgent support.",urgent_human_review,sleep,custom_seed_sample,True
+custom_urgent_human_review_137,"This week, I am scared of what I may do to myself and I need a person now. I wrote this in the feedback form. Thank you.",urgent_human_review,project_deadline,custom_seed_sample,True
+custom_academic_stress_164,"As a student, I need help planning my study time because everything feels urgent.",academic_stress,group_work,custom_seed_sample,True
+custom_urgent_human_review_069,This is an emergency for me and I need human help immediately. Can someone guide me?,urgent_human_review,advisor_feedback,custom_seed_sample,True
+custom_normal_067,"After class, The lab instructions were easy to follow and I finished on time. This has affected my attendance.",normal,sleep,custom_seed_sample,True
+custom_urgent_human_review_066,"Honestly, I need emergency support because I am afraid I may harm myself. I am sharing this anonymously.",urgent_human_review,project_deadline,custom_seed_sample,True
+custom_academic_stress_028,"This week, As a student, I am afraid I will fail even though I study every day. Can someone guide me? Please.",academic_stress,advisor_feedback,custom_seed_sample,True
+custom_normal_006,"Lately, The lab instructions were easy to follow and As a student, I finished on time. I am sharing this anonymously.",normal,group_work,custom_seed_sample,True
+custom_urgent_human_review_151,"During the semester, As a student, I feel extremely in danger from myself and need a counselor or trusted adult now. Thank you.",urgent_human_review,advisor_feedback,custom_seed_sample,True
+custom_normal_123,"After class, My schedule feels balanced and As a student, I can manage my work. I wrote this in the feedback form.",normal,family_issue,custom_seed_sample,True
+custom_academic_stress_073,"After class, I cannot stop worrying about the final project deadline.",academic_stress,advisor_feedback,custom_seed_sample,True
+custom_urgent_human_review_033,"Today, Please contact me urgently because I feel extremely at risk and not safe. Thank you.",urgent_human_review,project_deadline,custom_seed_sample,True
+custom_academic_stress_155,"This week, My sleep is getting worse because I keep thinking about grades.!",academic_stress,general,custom_seed_sample,True
+custom_academic_stress_065,"Lately, My sleep is getting worse because I keep thinking about grades.",academic_stress,advisor_feedback,custom_seed_sample,True
+custom_academic_stress_021,"After class, I cannot stop worrying about the final project deadline. Thank you.",academic_stress,exam_week,custom_seed_sample,True
+custom_academic_stress_037,"During the semester, I feel extremely nervous before every lab evaluation and my heart races.",academic_stress,general,custom_seed_sample,True
+custom_normal_017,"The assignment deadline is reasonable and As a student, I understand the topic. I hope the university can support students.",normal,financial_pressure,custom_seed_sample,True
+custom_academic_stress_078,"This week, I need help planning my study time because everything feels urgent. This has affected my attendance. Please.",academic_stress,exam_week,custom_seed_sample,True
+custom_academic_stress_060,"Honestly, I have two exams and three assignments this week and I feel extremely overwhelmed.",academic_stress,family_issue,custom_seed_sample,True
+custom_emotional_distress_087,"During the semester, I keep crying at night and I feel emotionally drained.",emotional_distress,exam_week,custom_seed_sample,True
+custom_academic_stress_178,"This week, The workload is too much and I do not know where to start. I am sharing this anonymously.",academic_stress,sleep,custom_seed_sample,True
+custom_emotional_distress_066,"Today, My mood has been low for weeks and my grades are dropping.",emotional_distress,group_work,custom_seed_sample,True
+custom_emotional_distress_036,"Lately, I do not enjoy activities that used to make me happy. Can someone guide me?",emotional_distress,exam_week,custom_seed_sample,True
+custom_emotional_distress_016,"Lately, I am isolating myself and I do not want to talk to anyone. Can someone guide me?",emotional_distress,financial_pressure,custom_seed_sample,True
+custom_urgent_human_review_095,"Honestly, I feel kind of in danger from myself and need a counselor or trusted adult now. Please.",urgent_human_review,general,custom_seed_sample,True
+custom_emotional_distress_003,"During the semester, As a student, I feel hopeless about the semester and nothing feels worth the effort.",emotional_distress,group_work,custom_seed_sample,True
+custom_normal_167,"Lately, I had a good study session with my group today.",normal,general,custom_seed_sample,True
+custom_academic_stress_101,"Today, I am afraid I will fail even though I study every day. I hope the university can support students.",academic_stress,exam_week,custom_seed_sample,True
+custom_normal_126,"Today, I am doing okay this week and keeping up with classes. I hope the university can support students.",normal,group_work,custom_seed_sample,True
+custom_academic_stress_039,"During the semester, My sleep is getting worse because I keep thinking about grades. I hope the university can support students.",academic_stress,family_issue,custom_seed_sample,True
+custom_emotional_distress_150,"Today, I feel empty and tired all the time even after resting. Can someone guide me?",emotional_distress,group_work,custom_seed_sample,True
+custom_normal_142,I attended the lecture today and the examples were clear. Thank you.,normal,project_deadline,custom_seed_sample,True
+custom_academic_stress_056,"This week, I need help planning my study time because everything feels urgent. I wrote this in the feedback form.",academic_stress,group_work,custom_seed_sample,True
+custom_urgent_human_review_021,"Lately, Please contact me urgently because I feel extremely at risk and not safe.",urgent_human_review,financial_pressure,custom_seed_sample,True
+custom_academic_stress_142,"This week, Group work is stressful because I am carrying most of the tasks. Can someone guide me?",academic_stress,financial_pressure,custom_seed_sample,True
+custom_academic_stress_070,"Honestly, I am exhausted from studying late every night for exams. I am sharing this anonymously.",academic_stress,exam_week,custom_seed_sample,True
+custom_emotional_distress_054,"This week, I am isolating myself and I do not want to talk to anyone.",emotional_distress,general,custom_seed_sample,True
+custom_emotional_distress_052,"Lately, I am isolating myself and I do not want to talk to anyone.",emotional_distress,exam_week,custom_seed_sample,True
+custom_normal_044,"Today, I had a good study session with my group today.",normal,advisor_feedback,custom_seed_sample,True
+custom_academic_stress_159,I have two exams and three assignments this week and I feel overwhelmed.,academic_stress,exam_week,custom_seed_sample,True
+custom_urgent_human_review_060,"Personally, I am scared of what I may do to myself and I need a person now. Thank you.",urgent_human_review,family_issue,custom_seed_sample,True
+custom_emotional_distress_056,"This week, Even simple tasks feel heavy and As a student, I cannot focus in lectures.",emotional_distress,exam_week,custom_seed_sample,True
+custom_academic_stress_173,"During the semester, I am exhausted from studying late every night for exams. I am sharing this anonymously.",academic_stress,project_deadline,custom_seed_sample,True
+custom_normal_151,"After class, My schedule feels balanced and I can manage my work.",normal,sleep,custom_seed_sample,True
+custom_emotional_distress_044,"Lately, I need someone to check on me because I feel very very alone.",emotional_distress,project_deadline,custom_seed_sample,True
+custom_normal_175,"As a student, I enjoyed the practical task and learned a new skill.",normal,family_issue,custom_seed_sample,True
+custom_emotional_distress_139,"During the semester, I need someone to check on me because I feel extremely very alone. I wrote this in the feedback form.",emotional_distress,exam_week,custom_seed_sample,True
+custom_academic_stress_162,"After class, Personally, I keep postponing tasks and then panic when the deadline is near.",academic_stress,advisor_feedback,custom_seed_sample,True
+custom_emotional_distress_000,I feel extremely like I am disappointing everyone and I cannot handle it.,emotional_distress,financial_pressure,custom_seed_sample,True
+custom_emotional_distress_160,"This week, I keep crying at night and I feel extremely emotionally drained. Can someone guide me?",emotional_distress,project_deadline,custom_seed_sample,True
+custom_academic_stress_158,"Honestly, The workload is too much and I do not know where to start. Can someone guide me?",academic_stress,exam_week,custom_seed_sample,True
+custom_emotional_distress_029,"This week, I do not enjoy activities that used to make me happy. Can someone guide me?",emotional_distress,sleep,custom_seed_sample,True
+custom_urgent_human_review_152,"Honestly, I am scared of what I may do to myself and I need a person now.",urgent_human_review,project_deadline,custom_seed_sample,True
+custom_normal_030,"This week, I attended the lecture today and the examples were clear. I hope the university can support students.!",normal,family_issue,custom_seed_sample,True
+custom_academic_stress_111,"This week, I am exhausted from studying late every night for exams.",academic_stress,general,custom_seed_sample,True
+custom_emotional_distress_171,"Lately, I am isolating myself and I do not want to talk to anyone. Thank you.",emotional_distress,general,custom_seed_sample,True
+custom_normal_065,"Today, The quiz feedback helped me know what to improve. This has affected my attendance.",normal,financial_pressure,custom_seed_sample,True
+custom_emotional_distress_070,"During the semester, I do not enjoy activities that used to make me happy. I am sharing this anonymously.",emotional_distress,financial_pressure,custom_seed_sample,True
+custom_emotional_distress_124,"Lately, I feel like I am disappointing everyone and I cannot handle it. I am sharing this anonymously.",emotional_distress,sleep,custom_seed_sample,True
+custom_emotional_distress_121,"Honestly, I feel like I am disappointing everyone and I cannot handle it....",emotional_distress,exam_week,custom_seed_sample,True
+custom_academic_stress_003,"During the semester, I am exhausted from studying late every night for exams.",academic_stress,financial_pressure,custom_seed_sample,True
+custom_emotional_distress_018,I am isolating myself and I do not want to talk to anyone. Please.,emotional_distress,project_deadline,custom_seed_sample,True
+custom_academic_stress_054,"Lately, I feel nervous before every lab evaluation and my heart races. I hope the university can support students.",academic_stress,exam_week,custom_seed_sample,True
+custom_urgent_human_review_123,"After class, As a student, I am not safe being alone and I need someone to reach out now.",urgent_human_review,general,custom_seed_sample,True
+custom_academic_stress_011,"During the semester, I keep postponing tasks and then panic when the deadline is near. I am sharing this anonymously.!",academic_stress,sleep,custom_seed_sample,True
+custom_academic_stress_018,"After class, I cannot stop worrying about the final project deadline. This has affected my attendance.",academic_stress,sleep,custom_seed_sample,True
+custom_emotional_distress_072,"After class, Even simple tasks feel heavy and I cannot focus in lectures. This has affected my attendance.",emotional_distress,general,custom_seed_sample,True
+custom_urgent_human_review_116,"This week, This is an emergency for me and I need human help immediately. Can someone guide me?",urgent_human_review,financial_pressure,custom_seed_sample,True
+custom_urgent_human_review_038,"Lately, I feel very in danger from myself and need a counselor or trusted adult now.",urgent_human_review,exam_week,custom_seed_sample,True
+custom_normal_110,"After class, The assignment deadline is reasonable and Personally, I understand the topic. This has affected my attendance.",normal,general,custom_seed_sample,True
+custom_urgent_human_review_056,"During the semester, I feel extremely like I may lose control and I need urgent human review. Thank you.",urgent_human_review,sleep,custom_seed_sample,True
+custom_urgent_human_review_132,"After class, This is an emergency for me and I need human help immediately.",urgent_human_review,sleep,custom_seed_sample,True
+custom_emotional_distress_008,My mood has been low for weeks and my grades are dropping.,emotional_distress,general,custom_seed_sample,True
+custom_academic_stress_171,"Honestly, I am afraid I will fail even though I study every day. I hope the university can support students.",academic_stress,project_deadline,custom_seed_sample,True
+custom_academic_stress_119,I am exhausted from studying late every night for exams. Thank you.,academic_stress,general,custom_seed_sample,True
+custom_academic_stress_061,"During the semester, Personally, I feel nervous before every lab evaluation and my heart races. I hope the university can support students.",academic_stress,family_issue,custom_seed_sample,True
+custom_emotional_distress_158,I do not enjoy activities that used to make me happy. This has affected my attendance....,emotional_distress,sleep,custom_seed_sample,True
+custom_emotional_distress_025,"Today, I am isolating myself and I do not want to talk to anyone.",emotional_distress,general,custom_seed_sample,True
+custom_emotional_distress_080,"Honestly, My mood has been low for weeks and my grades are dropping.",emotional_distress,financial_pressure,custom_seed_sample,True
+custom_normal_102,"Lately, I enjoyed the practical task and learned a new skill. Can someone guide me?",normal,advisor_feedback,custom_seed_sample,True
+custom_academic_stress_031,"After class, I need help planning my study time because everything feels urgent. Can someone guide me?",academic_stress,financial_pressure,custom_seed_sample,True
+custom_emotional_distress_164,"Lately, As a student, I am isolating myself and I do not want to talk to anyone.!",emotional_distress,financial_pressure,custom_seed_sample,True
+custom_normal_050,"Lately, The course materials are organized and helpful. I am sharing this anonymously.",normal,project_deadline,custom_seed_sample,True
+custom_normal_116,"During the semester, The lab instructions were easy to follow and I finished on time.",normal,exam_week,custom_seed_sample,True
+custom_urgent_human_review_078,"During the semester, This is an emergency for me and I need human help immediately. Can someone guide me?",urgent_human_review,general,custom_seed_sample,True
+custom_urgent_human_review_023,"Today, Please contact me urgently because I feel at risk and not safe. Thank you.",urgent_human_review,advisor_feedback,custom_seed_sample,True
+custom_normal_117,"Honestly, I attended the lecture today and the examples were clear.",normal,general,custom_seed_sample,True
+custom_emotional_distress_010,"This week, As a student, I am isolating myself and I do not want to talk to anyone.",emotional_distress,general,custom_seed_sample,True
+custom_normal_101,The quiz feedback helped me know what to improve. I wrote this in the feedback form.,normal,exam_week,custom_seed_sample,True
+custom_urgent_human_review_100,"During the semester, This is an emergency for me and I need human help immediately. I hope the university can support students.",urgent_human_review,project_deadline,custom_seed_sample,True
+custom_emotional_distress_116,Even simple tasks feel heavy and I cannot focus in lectures. I hope the university can support students.,emotional_distress,general,custom_seed_sample,True
+custom_urgent_human_review_016,"Honestly, I am not safe being alone and I need someone to reach out now.",urgent_human_review,group_work,custom_seed_sample,True
+custom_emotional_distress_162,"This week, My mood has been low for weeks and my grades are dropping. Can someone guide me?",emotional_distress,financial_pressure,custom_seed_sample,True
+custom_academic_stress_047,"Honestly, I am exhausted from studying late every night for exams.!",academic_stress,financial_pressure,custom_seed_sample,True
+custom_emotional_distress_034,"After class, Personally, I feel kind of sad most days and I have lost interest in studying.",emotional_distress,family_issue,custom_seed_sample,True
+custom_urgent_human_review_001,I might hurt myself if I stay alone and I need urgent support. I wrote this in the feedback form.,urgent_human_review,general,custom_seed_sample,True
+custom_normal_059,"This week, The quiz feedback helped me know what to improve.",normal,advisor_feedback,custom_seed_sample,True
+custom_urgent_human_review_145,"Today, I cannot promise I will be okay tonight without immediate help.",urgent_human_review,group_work,custom_seed_sample,True
+custom_emotional_distress_152,"This week, My mood has been low for weeks and my grades are dropping. I am sharing this anonymously.",emotional_distress,financial_pressure,custom_seed_sample,True
+custom_normal_014,"Honestly, The lab instructions were easy to follow and I finished on time. This has affected my attendance.",normal,project_deadline,custom_seed_sample,True
+custom_emotional_distress_078,"This week, I feel very hopeless about the semester and nothing feels worth the effort. I am sharing this anonymously.",emotional_distress,financial_pressure,custom_seed_sample,True
+custom_emotional_distress_012,"Lately, My mood has been low for weeks and my grades are dropping.",emotional_distress,group_work,custom_seed_sample,True
+custom_academic_stress_095,"The workload is too much and As a student, I do not know where to start. Can someone guide me?",academic_stress,family_issue,custom_seed_sample,True
+custom_normal_026,"During the semester, The quiz feedback helped me know what to improve.",normal,project_deadline,custom_seed_sample,True
+custom_urgent_human_review_175,"Lately, I cannot promise I will be okay tonight without immediate help. I hope the university can support students.",urgent_human_review,group_work,custom_seed_sample,True
+custom_emotional_distress_009,"Lately, I do not enjoy activities that used to make me happy.",emotional_distress,general,custom_seed_sample,True
+custom_academic_stress_052,"Lately, Group work is stressful because I am carrying most of the tasks. I am sharing this anonymously.",academic_stress,family_issue,custom_seed_sample,True
+custom_emotional_distress_128,"This week, Even simple tasks feel extremely heavy and I cannot focus in lectures.",emotional_distress,financial_pressure,custom_seed_sample,True
+custom_emotional_distress_102,"During the semester, Personally, I feel like I am disappointing everyone and I cannot handle it.",emotional_distress,project_deadline,custom_seed_sample,True
+custom_normal_128,"Lately, The lab instructions were easy to follow and I finished on time.",normal,general,custom_seed_sample,True
+custom_urgent_human_review_105,"Today, I feel really in danger from myself and need a counselor or trusted adult now.!",urgent_human_review,group_work,custom_seed_sample,True
+custom_normal_107,"Honestly, The lab instructions were easy to follow and I finished on time.",normal,group_work,custom_seed_sample,True
+custom_emotional_distress_120,"This week, Even simple tasks feel heavy and I cannot focus in lectures. I am sharing this anonymously.",emotional_distress,general,custom_seed_sample,True
+custom_academic_stress_006,"Today, My sleep is getting worse because Personally, I keep thinking about grades. This has affected my attendance.",academic_stress,exam_week,custom_seed_sample,True
+custom_academic_stress_150,"Honestly, The workload is too much and I do not know where to start.",academic_stress,sleep,custom_seed_sample,True
+custom_emotional_distress_019,"Lately, I feel extremely sad most days and I have lost interest in studying. I hope the university can support students.",emotional_distress,general,custom_seed_sample,True
+custom_normal_022,"Today, I enjoyed the practical task and learned a new skill. This has affected my attendance.",normal,advisor_feedback,custom_seed_sample,True
+custom_urgent_human_review_142,"Lately, As a student, I feel very in danger from myself and need a counselor or trusted adult now.",urgent_human_review,family_issue,custom_seed_sample,True
+custom_normal_081,"Honestly, The lab instructions were easy to follow and I finished on time. I am sharing this anonymously.",normal,sleep,custom_seed_sample,True
+custom_normal_090,"During the semester, I had a good study session with my group today.",normal,project_deadline,custom_seed_sample,True
+custom_emotional_distress_131,"This week, I feel really empty and tired all the time even after resting.",emotional_distress,group_work,custom_seed_sample,True
+custom_academic_stress_062,I feel nervous before every lab evaluation and my heart races. Thank you.,academic_stress,sleep,custom_seed_sample,True
+custom_emotional_distress_114,"After class, My mood has been low for weeks and my grades are dropping.!",emotional_distress,general,custom_seed_sample,True
+custom_normal_076,"After class, I feel kind of motivated after the review session this week. I am sharing this anonymously.",normal,group_work,custom_seed_sample,True
+custom_emotional_distress_168,"After class, I need someone to check on me because I feel very alone. Can someone guide me?",emotional_distress,project_deadline,custom_seed_sample,True
+custom_urgent_human_review_150,"Today, I am not safe being alone and I need someone to reach out now.",urgent_human_review,financial_pressure,custom_seed_sample,True
+custom_normal_027,"Today, The assignment deadline is reasonable and I understand the topic. This has affected my attendance.",normal,exam_week,custom_seed_sample,True
+custom_normal_141,"During the semester, The quiz feedback helped me know what to improve. Personally, I hope the university can support students. Please.",normal,advisor_feedback,custom_seed_sample,True
+custom_urgent_human_review_118,"After class, As a student, I cannot promise I will be okay tonight without immediate help. Can someone guide me? Thank you.",urgent_human_review,advisor_feedback,custom_seed_sample,True
+custom_urgent_human_review_043,"During the semester, As a student, I feel like I may lose control and I need urgent human review. Can someone guide me? Thank you.",urgent_human_review,advisor_feedback,custom_seed_sample,True
+custom_urgent_human_review_144,"Today, I am scared of what I may do to myself and I need a person now. Please.",urgent_human_review,sleep,custom_seed_sample,True
+custom_academic_stress_057,"Lately, Group work is stressful because As a student, I am carrying most of the tasks. Can someone guide me?",academic_stress,family_issue,custom_seed_sample,True
+custom_urgent_human_review_169,"This week, I might hurt myself if I stay alone and I need urgent support. I am sharing this anonymously.",urgent_human_review,group_work,custom_seed_sample,True
+custom_urgent_human_review_093,"During the semester, I am not safe being alone and I need someone to reach out now.",urgent_human_review,exam_week,custom_seed_sample,True
+custom_urgent_human_review_141,"After class, This is an emergency for me and I need human help immediately.",urgent_human_review,project_deadline,custom_seed_sample,True
+custom_academic_stress_005,"Lately, I have two exams and three assignments this week and I feel overwhelmed. Can someone guide me?!",academic_stress,sleep,custom_seed_sample,True
+custom_academic_stress_136,"During the semester, Personally, I have two exams and three assignments this week and I feel overwhelmed.",academic_stress,financial_pressure,custom_seed_sample,True
+custom_normal_048,"Lately, My schedule feels balanced and Personally, I can manage my work. I wrote this in the feedback form.",normal,exam_week,custom_seed_sample,True
+custom_urgent_human_review_075,I cannot promise I will be okay tonight without immediate help.,urgent_human_review,advisor_feedback,custom_seed_sample,True
+custom_normal_060,"After class, I feel really motivated after the review session this week.",normal,advisor_feedback,custom_seed_sample,True
+custom_normal_098,My schedule feels balanced and I can manage my work.,normal,financial_pressure,custom_seed_sample,True
+custom_normal_120,"After class, I had a good study session with my group today.",normal,general,custom_seed_sample,True
+custom_academic_stress_105,"This week, I have two exams and three assignments this week and I feel overwhelmed.",academic_stress,project_deadline,custom_seed_sample,True
+custom_normal_002,"Lately, The assignment deadline is reasonable and I understand the topic.",normal,sleep,custom_seed_sample,True
+custom_academic_stress_034,"After class, My sleep is getting worse because I keep thinking about grades. I hope the university can support students.",academic_stress,financial_pressure,custom_seed_sample,True
+custom_normal_178,"Lately, My schedule feels balanced and I can manage my work. Can someone guide me?",normal,financial_pressure,custom_seed_sample,True
+custom_normal_154,"Today, I attended the lecture today and the examples were clear. I hope the university can support students.",normal,advisor_feedback,custom_seed_sample,True
+custom_academic_stress_141,"Lately, Group work is stressful because I am carrying most of the tasks.",academic_stress,group_work,custom_seed_sample,True
+custom_emotional_distress_071,"During the semester, I feel like I am disappointing everyone and I cannot handle it.",emotional_distress,sleep,custom_seed_sample,True
+custom_urgent_human_review_063,Please contact me urgently because I feel at risk and not safe. I am sharing this anonymously.,urgent_human_review,group_work,custom_seed_sample,True
+custom_academic_stress_075,"After class, As a student, I feel nervous before every lab evaluation and my heart races.",academic_stress,sleep,custom_seed_sample,True
+custom_urgent_human_review_126,"After class, I am not safe being alone and I need someone to reach out now.",urgent_human_review,sleep,custom_seed_sample,True
+custom_urgent_human_review_022,"After class, I need emergency support because I am afraid I may harm myself.",urgent_human_review,general,custom_seed_sample,True
+custom_academic_stress_125,"Honestly, I need help planning my study time because everything feels urgent. This has affected my attendance.",academic_stress,advisor_feedback,custom_seed_sample,True
+custom_emotional_distress_155,"Honestly, Even simple tasks feel heavy and I cannot focus in lectures. I hope the university can support students.",emotional_distress,project_deadline,custom_seed_sample,True
+custom_emotional_distress_144,"This week, Personally, I feel sad most days and I have lost interest in studying.",emotional_distress,project_deadline,custom_seed_sample,True
+custom_emotional_distress_156,"Honestly, I feel kind of empty and tired all the time even after resting. I am sharing this anonymously.",emotional_distress,financial_pressure,custom_seed_sample,True
+custom_normal_089,"During the semester, Personally, I enjoyed the practical task and learned a new skill. I hope the university can support students.",normal,advisor_feedback,custom_seed_sample,True
+custom_urgent_human_review_102,"Honestly, This is an emergency for me and I need human help immediately. I am sharing this anonymously.",urgent_human_review,project_deadline,custom_seed_sample,True
+custom_academic_stress_030,"Lately, As a student, I am exhausted from studying late every night for exams.",academic_stress,advisor_feedback,custom_seed_sample,True
+custom_academic_stress_050,"Honestly, Group work is stressful because I am carrying most of the tasks.",academic_stress,exam_week,custom_seed_sample,True
+custom_academic_stress_087,"This week, Group work is stressful because I am carrying most of the tasks.",academic_stress,family_issue,custom_seed_sample,True
+custom_normal_138,"Honestly, The assignment deadline is reasonable and I understand the topic.",normal,financial_pressure,custom_seed_sample,True
+custom_academic_stress_147,The workload is too much and I do not know where to start. I hope the university can support students.,academic_stress,advisor_feedback,custom_seed_sample,True
+custom_emotional_distress_159,"Lately, Personally, I feel empty and tired all the time even after resting.",emotional_distress,group_work,custom_seed_sample,True
+custom_urgent_human_review_136,"Today, I might hurt myself if I stay alone and I need urgent support.",urgent_human_review,general,custom_seed_sample,True
+custom_emotional_distress_175,"After class, Personally, I feel hopeless about the semester and nothing feels worth the effort.",emotional_distress,group_work,custom_seed_sample,True
+custom_academic_stress_174,"The workload is too much and As a student, I do not know where to start. Can someone guide me?",academic_stress,project_deadline,custom_seed_sample,True
+custom_academic_stress_063,I need help planning my study time because everything feels urgent.,academic_stress,advisor_feedback,custom_seed_sample,True
+custom_emotional_distress_035,"As a student, I need someone to check on me because I feel very alone.",emotional_distress,project_deadline,custom_seed_sample,True
+custom_emotional_distress_084,"During the semester, I am isolating myself and I do not want to talk to anyone. I wrote this in the feedback form.",emotional_distress,financial_pressure,custom_seed_sample,True
+custom_urgent_human_review_036,"Lately, I am not safe being alone and I need someone to reach out now.",urgent_human_review,financial_pressure,custom_seed_sample,True
+custom_academic_stress_175,"After class, The workload is too much and I do not know where to start. Can someone guide me?!",academic_stress,group_work,custom_seed_sample,True
+custom_academic_stress_033,"After class, I am afraid I will fail even though I study every day. I hope the university can support students.",academic_stress,group_work,custom_seed_sample,True
+custom_normal_145,"After class, I enjoyed the practical task and learned a new skill.",normal,general,custom_seed_sample,True
+custom_urgent_human_review_089,"This week, Please contact me urgently because I feel at risk and not safe. I wrote this in the feedback form.",urgent_human_review,exam_week,custom_seed_sample,True
+custom_academic_stress_153,"During the semester, My sleep is getting worse because I keep thinking about grades.",academic_stress,financial_pressure,custom_seed_sample,True
+custom_emotional_distress_001,"This week, I feel sad most days and I have lost interest in studying.",emotional_distress,family_issue,custom_seed_sample,True
+custom_normal_045,"Honestly, The course materials are organized and helpful.",normal,sleep,custom_seed_sample,True
+custom_normal_091,"After class, The assignment deadline is reasonable and I understand the topic. I am sharing this anonymously.",normal,general,custom_seed_sample,True
+custom_emotional_distress_074,"This week, I do not enjoy activities that used to make me happy. Can someone guide me?",emotional_distress,project_deadline,custom_seed_sample,True
+custom_urgent_human_review_032,"Today, This is an emergency for me and I need human help immediately.",urgent_human_review,project_deadline,custom_seed_sample,True
+custom_normal_041,"Today, The course materials are organized and helpful.",normal,general,custom_seed_sample,True
+custom_academic_stress_069,"During the semester, Personally, I am afraid I will fail even though I study every day. I am sharing this anonymously.",academic_stress,general,custom_seed_sample,True
+custom_urgent_human_review_124,"During the semester, Personally, I might hurt myself if I stay alone and I need urgent support. I hope the university can support students.",urgent_human_review,sleep,custom_seed_sample,True
+custom_normal_080,"Lately, I am doing okay this week and keeping up with classes.",normal,exam_week,custom_seed_sample,True
+custom_emotional_distress_176,"Lately, I feel like I am disappointing everyone and I cannot handle it.",emotional_distress,family_issue,custom_seed_sample,True
+custom_academic_stress_012,"After class, I feel kind of nervous before every lab evaluation and my heart races.",academic_stress,exam_week,custom_seed_sample,True
+custom_academic_stress_133,"Honestly, I need help planning my study time because everything feels urgent. I am sharing this anonymously.",academic_stress,exam_week,custom_seed_sample,True
+custom_emotional_distress_148,"Honestly, I do not enjoy activities that used to make me happy. I am sharing this anonymously.",emotional_distress,sleep,custom_seed_sample,True
+custom_emotional_distress_073,"This week, Personally, I feel sad most days and I have lost interest in studying.",emotional_distress,advisor_feedback,custom_seed_sample,True
+custom_emotional_distress_045,"During the semester, I keep crying at night and I feel emotionally drained. This has affected my attendance.",emotional_distress,general,custom_seed_sample,True
+custom_normal_051,"This week, I had a good study session with my group today. This has affected my attendance.",normal,general,custom_seed_sample,True
+custom_normal_068,"During the semester, The course materials are organized and helpful.!",normal,exam_week,custom_seed_sample,True
+custom_normal_020,"This week, The quiz feedback helped me know what to improve. Can someone guide me?",normal,family_issue,custom_seed_sample,True
+custom_academic_stress_117,"After class, My sleep is getting worse because I keep thinking about grades. I wrote this in the feedback form.",academic_stress,group_work,custom_seed_sample,True
+custom_urgent_human_review_029,"After class, I am not safe being alone and I need someone to reach out now.",urgent_human_review,general,custom_seed_sample,True
+custom_urgent_human_review_115,"Personally, I might hurt myself if I stay alone and I need urgent support.",urgent_human_review,financial_pressure,custom_seed_sample,True
+custom_normal_084,"After class, I had a good study session with my group today.",normal,family_issue,custom_seed_sample,True
+custom_urgent_human_review_082,I cannot promise I will be okay tonight without immediate help. This has affected my attendance.,urgent_human_review,family_issue,custom_seed_sample,True
+custom_urgent_human_review_096,"This week, I do not feel very safe tonight and I need immediate help from someone.",urgent_human_review,project_deadline,custom_seed_sample,True
+custom_academic_stress_176,"My sleep is getting worse because As a student, I keep thinking about grades. Can someone guide me?",academic_stress,group_work,custom_seed_sample,True
+custom_urgent_human_review_168,"Honestly, I feel like I may lose control and I need urgent human review. I hope the university can support students.",urgent_human_review,sleep,custom_seed_sample,True
+custom_academic_stress_032,"Lately, My sleep is getting worse because I keep thinking about grades.",academic_stress,financial_pressure,custom_seed_sample,True
+custom_emotional_distress_027,I need someone to check on me because I feel kind of very alone.,emotional_distress,family_issue,custom_seed_sample,True
+custom_urgent_human_review_055,"Honestly, I do not feel safe tonight and I need immediate help from someone....",urgent_human_review,sleep,custom_seed_sample,True
+custom_normal_140,"Honestly, My schedule feels balanced and I can manage my work. I wrote this in the feedback form.",normal,advisor_feedback,custom_seed_sample,True
+custom_urgent_human_review_173,"Today, I cannot promise I will be okay tonight without immediate help. I hope the university can support students.",urgent_human_review,exam_week,custom_seed_sample,True
+custom_emotional_distress_126,"This week, I need someone to check on me because I feel really very alone.",emotional_distress,project_deadline,custom_seed_sample,True
+custom_urgent_human_review_174,"This week, I am not safe being alone and I need someone to reach out now.",urgent_human_review,exam_week,custom_seed_sample,True
+custom_urgent_human_review_050,"After class, This is an emergency for me and Personally, I need human help immediately.!",urgent_human_review,group_work,custom_seed_sample,True
+custom_academic_stress_123,I need help planning my study time because everything feels urgent.,academic_stress,sleep,custom_seed_sample,True
+custom_normal_023,"During the semester, The assignment deadline is reasonable and I understand the topic. This has affected my attendance.",normal,general,custom_seed_sample,True
+custom_urgent_human_review_080,"After class, I do not feel extremely safe tonight and I need immediate help from someone.",urgent_human_review,project_deadline,custom_seed_sample,True
+custom_urgent_human_review_028,"Honestly, I cannot promise I will be okay tonight without immediate help. I hope the university can support students.",urgent_human_review,group_work,custom_seed_sample,True
+custom_urgent_human_review_067,"After class, I might hurt myself if I stay alone and I need urgent support. This has affected my attendance.",urgent_human_review,financial_pressure,custom_seed_sample,True
+custom_emotional_distress_068,"During the semester, Personally, I feel like I am disappointing everyone and I cannot handle it.",emotional_distress,sleep,custom_seed_sample,True
+custom_normal_164,"Today, My schedule feels balanced and Personally, I can manage my work.",normal,advisor_feedback,custom_seed_sample,True
+custom_normal_070,"During the semester, The assignment deadline is reasonable and I understand the topic. Can someone guide me?",normal,family_issue,custom_seed_sample,True
+custom_urgent_human_review_143,"Today, I feel in danger from myself and need a counselor or trusted adult now. I wrote this in the feedback form.",urgent_human_review,group_work,custom_seed_sample,True
+custom_academic_stress_114,"Lately, I cannot stop worrying about the final project deadline.",academic_stress,sleep,custom_seed_sample,True
+custom_academic_stress_170,"After class, The workload is too much and Personally, I do not know where to start. Can someone guide me?",academic_stress,exam_week,custom_seed_sample,True
+custom_urgent_human_review_077,"After class, I do not feel safe tonight and I need immediate help from someone.",urgent_human_review,general,custom_seed_sample,True
+custom_normal_166,The quiz feedback helped me know what to improve. I am sharing this anonymously.,normal,project_deadline,custom_seed_sample,True
+custom_urgent_human_review_070,"Honestly, I feel in danger from myself and need a counselor or trusted adult now.",urgent_human_review,general,custom_seed_sample,True
+custom_emotional_distress_169,"Lately, I feel kind of hopeless about the semester and nothing feels worth the effort.",emotional_distress,general,custom_seed_sample,True
+custom_emotional_distress_017,"During the semester, I feel hopeless about the semester and nothing feels worth the effort. I am sharing this anonymously.",emotional_distress,group_work,custom_seed_sample,True
+custom_urgent_human_review_006,"This week, I feel really like I may lose control and I need urgent human review. I wrote this in the feedback form.",urgent_human_review,exam_week,custom_seed_sample,True
+custom_emotional_distress_165,"This week, I need someone to check on me because I feel very alone. I am sharing this anonymously....",emotional_distress,group_work,custom_seed_sample,True
+custom_normal_172,The course materials are organized and helpful.,normal,financial_pressure,custom_seed_sample,True
+custom_academic_stress_038,"Lately, I need help planning my study time because everything feels urgent. I hope the university can support students.",academic_stress,general,custom_seed_sample,True
+custom_normal_103,"Today, I attended the lecture today and the examples were clear. Can someone guide me?",normal,project_deadline,custom_seed_sample,True
+custom_emotional_distress_051,"Today, I feel empty and tired all the time even after resting.",emotional_distress,project_deadline,custom_seed_sample,True
+custom_emotional_distress_136,I feel kind of like I am disappointing everyone and I cannot handle it.,emotional_distress,family_issue,custom_seed_sample,True
+custom_normal_112,The quiz feedback helped me know what to improve. This has affected my attendance.,normal,financial_pressure,custom_seed_sample,True
+custom_emotional_distress_174,"Today, I keep crying at night and I feel emotionally drained. I am sharing this anonymously.!",emotional_distress,general,custom_seed_sample,True
+custom_emotional_distress_049,"Today, I need someone to check on me because I feel very alone.",emotional_distress,financial_pressure,custom_seed_sample,True
+custom_academic_stress_124,"Honestly, As a student, I need help planning my study time because everything feels urgent. I am sharing this anonymously.",academic_stress,family_issue,custom_seed_sample,True
+custom_academic_stress_074,"Honestly, Group work is stressful because I am carrying most of the tasks. I hope the university can support students.",academic_stress,family_issue,custom_seed_sample,True
+custom_urgent_human_review_107,"During the semester, I feel in danger from myself and need a counselor or trusted adult now. Can someone guide me?",urgent_human_review,sleep,custom_seed_sample,True
+custom_normal_054,"Honestly, The lab instructions were easy to follow and I finished on time. I am sharing this anonymously.",normal,family_issue,custom_seed_sample,True
+custom_emotional_distress_135,"This week, I feel kind of sad most days and I have lost interest in studying....",emotional_distress,sleep,custom_seed_sample,True
+custom_emotional_distress_058,"Today, I feel very hopeless about the semester and nothing feels worth the effort. I am sharing this anonymously.",emotional_distress,project_deadline,custom_seed_sample,True
+custom_normal_032,"This week, My schedule feels balanced and As a student, I can manage my work. I wrote this in the feedback form. Please.",normal,advisor_feedback,custom_seed_sample,True
+custom_academic_stress_122,"During the semester, I need help planning my study time because everything feels urgent. I wrote this in the feedback form.",academic_stress,family_issue,custom_seed_sample,True
+custom_emotional_distress_067,"Lately, I keep crying at night and I feel emotionally drained.",emotional_distress,group_work,custom_seed_sample,True
+custom_normal_087,"Today, The course materials are organized and helpful.",normal,project_deadline,custom_seed_sample,True
+custom_academic_stress_132,"During the semester, I am afraid I will fail even though I study every day.",academic_stress,family_issue,custom_seed_sample,True
+custom_academic_stress_053,"This week, I have two exams and three assignments this week and I feel overwhelmed.",academic_stress,general,custom_seed_sample,True
+custom_normal_049,I am doing okay this week and keeping up with classes. I hope the university can support students.,normal,family_issue,custom_seed_sample,True
+custom_emotional_distress_046,"Honestly, Even simple tasks feel extremely heavy and As a student, I cannot focus in lectures.",emotional_distress,family_issue,custom_seed_sample,True
+custom_emotional_distress_060,"During the semester, I feel like I am disappointing everyone and I cannot handle it. I wrote this in the feedback form.",emotional_distress,exam_week,custom_seed_sample,True
+custom_normal_157,"Honestly, As a student, I had a good study session with my group today.",normal,family_issue,custom_seed_sample,True
+custom_emotional_distress_103,"After class, Personally, I feel extremely empty and tired all the time even after resting.",emotional_distress,exam_week,custom_seed_sample,True
+custom_emotional_distress_179,"During the semester, My mood has been low for weeks and my grades are dropping.",emotional_distress,exam_week,custom_seed_sample,True
+custom_urgent_human_review_153,"This week, I feel in danger from myself and need a counselor or trusted adult now.",urgent_human_review,general,custom_seed_sample,True
+custom_urgent_human_review_101,"Honestly, I am scared of what I may do to myself and I need a person now.",urgent_human_review,general,custom_seed_sample,True
+custom_normal_007,"This week, The lab instructions were easy to follow and As a student, I finished on time.",normal,family_issue,custom_seed_sample,True
+custom_urgent_human_review_099,"This week, I am scared of what I may do to myself and I need a person now. Can someone guide me?",urgent_human_review,financial_pressure,custom_seed_sample,True
+custom_academic_stress_068,"Today, The workload is too much and I do not know where to start.",academic_stress,exam_week,custom_seed_sample,True
+custom_normal_046,"During the semester, I had a good study session with my group today. I wrote this in the feedback form.",normal,sleep,custom_seed_sample,True
+custom_emotional_distress_122,"Today, I feel sad most days and I have lost interest in studying. Can someone guide me?!",emotional_distress,group_work,custom_seed_sample,True
+custom_urgent_human_review_051,"After class, I am not safe being alone and I need someone to reach out now. I wrote this in the feedback form.",urgent_human_review,project_deadline,custom_seed_sample,True
+custom_urgent_human_review_119,"During the semester, I feel kind of like I may lose control and I need urgent human review. This has affected my attendance.",urgent_human_review,advisor_feedback,custom_seed_sample,True
+custom_normal_144,"This week, I am doing okay this week and keeping up with classes. This has affected my attendance.",normal,project_deadline,custom_seed_sample,True
+custom_emotional_distress_170,"This week, Even simple tasks feel heavy and I cannot focus in lectures. This has affected my attendance.",emotional_distress,project_deadline,custom_seed_sample,True
+custom_normal_073,"After class, I am doing okay this week and keeping up with classes. I hope the university can support students. Please.",normal,project_deadline,custom_seed_sample,True
+custom_academic_stress_058,"Honestly, I need help planning my study time because everything feels urgent. I hope the university can support students.",academic_stress,project_deadline,custom_seed_sample,True
+custom_urgent_human_review_049,"After class, Please contact me urgently because I feel at risk and not safe.",urgent_human_review,advisor_feedback,custom_seed_sample,True
+custom_emotional_distress_109,"Honestly, My mood has been low for weeks and my grades are dropping.",emotional_distress,advisor_feedback,custom_seed_sample,True
+custom_academic_stress_036,"Lately, Group work is stressful because I am carrying most of the tasks.",academic_stress,advisor_feedback,custom_seed_sample,True
+custom_normal_121,"Lately, I had a good study session with my group today. Thank you.",normal,sleep,custom_seed_sample,True
+custom_emotional_distress_055,"Lately, I keep crying at night and I feel emotionally drained.",emotional_distress,general,custom_seed_sample,True
+custom_normal_043,"Today, I attended the lecture today and the examples were clear.",normal,family_issue,custom_seed_sample,True
+custom_urgent_human_review_129,Please contact me urgently because I feel at risk and not safe. This has affected my attendance.,urgent_human_review,general,custom_seed_sample,True
+custom_normal_057,"During the semester, I attended the lecture today and the examples were clear.",normal,advisor_feedback,custom_seed_sample,True
+custom_academic_stress_167,I feel nervous before every lab evaluation and my heart races.,academic_stress,general,custom_seed_sample,True
+custom_normal_037,"Honestly, Personally, I had a good study session with my group today.",normal,advisor_feedback,custom_seed_sample,True
+custom_normal_016,"Honestly, My schedule feels balanced and I can manage my work.",normal,group_work,custom_seed_sample,True
+custom_emotional_distress_100,"This week, As a student, I feel empty and tired all the time even after resting. I hope the university can support students.",emotional_distress,exam_week,custom_seed_sample,True
+custom_emotional_distress_151,"Today, I do not enjoy activities that used to make me happy.",emotional_distress,group_work,custom_seed_sample,True
+custom_academic_stress_135,"Lately, I am exhausted from studying late every night for exams.",academic_stress,project_deadline,custom_seed_sample,True
+custom_normal_064,"Honestly, I attended the lecture today and the examples were clear. This has affected my attendance.",normal,family_issue,custom_seed_sample,True
+custom_emotional_distress_038,"This week, I do not enjoy activities that used to make me happy. This has affected my attendance.",emotional_distress,family_issue,custom_seed_sample,True
+custom_emotional_distress_140,"After class, I feel empty and tired all the time even after resting.",emotional_distress,exam_week,custom_seed_sample,True
+custom_academic_stress_064,"After class, I need help planning my study time because everything feels urgent. I wrote this in the feedback form....",academic_stress,exam_week,custom_seed_sample,True
+custom_normal_025,"Today, The lab instructions were easy to follow and As a student, I finished on time. I hope the university can support students.",normal,project_deadline,custom_seed_sample,True
+custom_urgent_human_review_148,"Honestly, I need emergency support because I am afraid I may harm myself. Can someone guide me?",urgent_human_review,advisor_feedback,custom_seed_sample,True
+custom_normal_036,"Honestly, I enjoyed the practical task and learned a new skill.",normal,financial_pressure,custom_seed_sample,True
+custom_normal_143,"Honestly, The lab instructions were easy to follow and I finished on time.",normal,sleep,custom_seed_sample,True
+custom_academic_stress_014,My sleep is getting worse because I keep thinking about grades....,academic_stress,exam_week,custom_seed_sample,True
+custom_emotional_distress_088,"After class, I feel kind of sad most days and I have lost interest in studying. This has affected my attendance.",emotional_distress,family_issue,custom_seed_sample,True
+custom_normal_086,"After class, I feel motivated after the review session this week.",normal,advisor_feedback,custom_seed_sample,True
+custom_emotional_distress_138,"After class, I am isolating myself and I do not want to talk to anyone. Please.",emotional_distress,project_deadline,custom_seed_sample,True
+custom_urgent_human_review_027,"This is an emergency for me and Personally, I need human help immediately. I am sharing this anonymously.",urgent_human_review,financial_pressure,custom_seed_sample,True
+custom_normal_109,"This week, The quiz feedback helped me know what to improve. I wrote this in the feedback form.",normal,sleep,custom_seed_sample,True
+custom_urgent_human_review_046,"Honestly, This is an emergency for me and I need human help immediately.",urgent_human_review,sleep,custom_seed_sample,True
+custom_academic_stress_126,"During the semester, Group work is stressful because I am carrying most of the tasks. This has affected my attendance.",academic_stress,family_issue,custom_seed_sample,True
+custom_academic_stress_015,"Honestly, I am afraid I will fail even though I study every day. I hope the university can support students.",academic_stress,sleep,custom_seed_sample,True
+custom_urgent_human_review_031,"After class, I need emergency support because I am afraid I may harm myself. This has affected my attendance.",urgent_human_review,advisor_feedback,custom_seed_sample,True
+custom_normal_040,"This week, The course materials are organized and helpful.",normal,exam_week,custom_seed_sample,True
+custom_academic_stress_000,"This week, Personally, I feel nervous before every lab evaluation and my heart races. This has affected my attendance.",academic_stress,advisor_feedback,custom_seed_sample,True
+custom_academic_stress_027,"This week, I am exhausted from studying late every night for exams. I wrote this in the feedback form.",academic_stress,financial_pressure,custom_seed_sample,True
+custom_academic_stress_116,"After class, Group work is stressful because I am carrying most of the tasks. I hope the university can support students....",academic_stress,general,custom_seed_sample,True
+custom_emotional_distress_110,"After class, As a student, I do not enjoy activities that used to make me happy.",emotional_distress,group_work,custom_seed_sample,True
+custom_normal_082,"After class, I am doing okay this week and keeping up with classes.",normal,project_deadline,custom_seed_sample,True
+custom_academic_stress_168,"During the semester, Personally, I am afraid I will fail even though I study every day. I wrote this in the feedback form.",academic_stress,group_work,custom_seed_sample,True
+custom_urgent_human_review_007,"Today, I cannot promise I will be okay tonight without immediate help.",urgent_human_review,project_deadline,custom_seed_sample,True
+custom_emotional_distress_014,"During the semester, I feel really hopeless about the semester and nothing feels worth the effort.",emotional_distress,exam_week,custom_seed_sample,True
+custom_normal_092,"After class, The quiz feedback helped me know what to improve.",normal,advisor_feedback,custom_seed_sample,True
+custom_normal_056,"After class, I am doing okay this week and keeping up with classes.",normal,financial_pressure,custom_seed_sample,True
+custom_emotional_distress_050,"During the semester, I am isolating myself and I do not want to talk to anyone. Can someone guide me? Thank you.",emotional_distress,project_deadline,custom_seed_sample,True
+custom_academic_stress_130,"This week, I am exhausted from studying late every night for exams. Please.",academic_stress,project_deadline,custom_seed_sample,True
+custom_academic_stress_161,"After class, Personally, I cannot stop worrying about the final project deadline.",academic_stress,family_issue,custom_seed_sample,True
+custom_emotional_distress_007,"Personally, I do not enjoy activities that used to make me happy.",emotional_distress,general,custom_seed_sample,True
+custom_urgent_human_review_008,"Honestly, I feel like I may lose control and I need urgent human review.",urgent_human_review,general,custom_seed_sample,True
+custom_urgent_human_review_103,"Today, I am scared of what I may do to myself and I need a person now. I hope the university can support students.",urgent_human_review,family_issue,custom_seed_sample,True
+custom_emotional_distress_133,"After class, I am isolating myself and I do not want to talk to anyone. Can someone guide me?",emotional_distress,exam_week,custom_seed_sample,True
+custom_emotional_distress_033,"After class, I feel very hopeless about the semester and nothing feels worth the effort.",emotional_distress,financial_pressure,custom_seed_sample,True
+custom_urgent_human_review_041,"Honestly, Personally, I feel really like I may lose control and I need urgent human review. I hope the university can support students.",urgent_human_review,general,custom_seed_sample,True
+custom_academic_stress_051,"Lately, Group work is stressful because I am carrying most of the tasks. I am sharing this anonymously.",academic_stress,exam_week,custom_seed_sample,True
+custom_urgent_human_review_064,"Honestly, I do not feel really safe tonight and I need immediate help from someone. I am sharing this anonymously.",urgent_human_review,project_deadline,custom_seed_sample,True
+custom_urgent_human_review_072,"Lately, I am not safe being alone and I need someone to reach out now.",urgent_human_review,group_work,custom_seed_sample,True
+custom_emotional_distress_053,"This week, Personally, I need someone to check on me because I feel really very alone. This has affected my attendance.",emotional_distress,project_deadline,custom_seed_sample,True
+custom_emotional_distress_086,"After class, I feel very hopeless about the semester and nothing feels worth the effort. I hope the university can support students.",emotional_distress,general,custom_seed_sample,True
+custom_emotional_distress_129,"This week, I do not enjoy activities that used to make me happy. I am sharing this anonymously.",emotional_distress,sleep,custom_seed_sample,True
+custom_emotional_distress_142,"Lately, I feel really empty and tired all the time even after resting. Thank you.",emotional_distress,group_work,custom_seed_sample,True
+custom_emotional_distress_167,"Lately, As a student, I feel extremely hopeless about the semester and nothing feels worth the effort.",emotional_distress,financial_pressure,custom_seed_sample,True
+custom_normal_003,"Today, As a student, I had a good study session with my group today. I wrote this in the feedback form.",normal,exam_week,custom_seed_sample,True
+custom_urgent_human_review_135,"This week, I feel like I may lose control and I need urgent human review. I hope the university can support students.",urgent_human_review,sleep,custom_seed_sample,True
+custom_academic_stress_157,"During the semester, I am afraid I will fail even though I study every day. I hope the university can support students.",academic_stress,sleep,custom_seed_sample,True
+custom_normal_155,"Lately, My schedule feels balanced and As a student, I can manage my work. Can someone guide me? Thank you.",normal,group_work,custom_seed_sample,True
+custom_academic_stress_092,"Today, I keep postponing tasks and then panic when the deadline is near. I wrote this in the feedback form.",academic_stress,project_deadline,custom_seed_sample,True
+custom_urgent_human_review_164,"Lately, Personally, I feel extremely like I may lose control and I need urgent human review.!",urgent_human_review,project_deadline,custom_seed_sample,True
+custom_normal_038,"During the semester, As a student, I had a good study session with my group today. I am sharing this anonymously.",normal,group_work,custom_seed_sample,True
+custom_normal_000,The lab instructions were easy to follow and I finished on time.,normal,project_deadline,custom_seed_sample,True
+custom_normal_152,The course materials are organized and helpful. Can someone guide me?!,normal,project_deadline,custom_seed_sample,True
+custom_emotional_distress_149,"Lately, My mood has been low for weeks and my grades are dropping. Personally, I am sharing this anonymously.",emotional_distress,sleep,custom_seed_sample,True
+custom_normal_019,"During the semester, I enjoyed the practical task and learned a new skill.",normal,sleep,custom_seed_sample,True
+custom_urgent_human_review_178,"Today, I might hurt myself if I stay alone and I need urgent support.",urgent_human_review,general,custom_seed_sample,True
+custom_academic_stress_076,"This week, Personally, I cannot stop worrying about the final project deadline. I hope the university can support students. Please.",academic_stress,advisor_feedback,custom_seed_sample,True
+custom_urgent_human_review_045,"Today, I cannot promise I will be okay tonight without immediate help....",urgent_human_review,sleep,custom_seed_sample,True
+custom_normal_072,I had a good study session with my group today.,normal,general,custom_seed_sample,True
+custom_normal_074,"During the semester, My schedule feels balanced and Personally, I can manage my work. I hope the university can support students.",normal,general,custom_seed_sample,True
+custom_normal_035,"Today, I had a good study session with my group today. I hope the university can support students.",normal,exam_week,custom_seed_sample,True
+custom_normal_105,"During the semester, The assignment deadline is reasonable and I understand the topic.",normal,group_work,custom_seed_sample,True
+custom_academic_stress_085,I feel nervous before every lab evaluation and my heart races.,academic_stress,family_issue,custom_seed_sample,True
+custom_emotional_distress_092,"Honestly, I feel really empty and tired all the time even after resting. I hope the university can support students.",emotional_distress,family_issue,custom_seed_sample,True
+custom_normal_108,"Honestly, I attended the lecture today and the examples were clear.",normal,financial_pressure,custom_seed_sample,True
+custom_academic_stress_043,I have two exams and three assignments this week and I feel overwhelmed. I hope the university can support students.,academic_stress,exam_week,custom_seed_sample,True
+custom_emotional_distress_081,"During the semester, I need someone to check on me because I feel extremely very alone.",emotional_distress,advisor_feedback,custom_seed_sample,True
+custom_urgent_human_review_013,"This week, Please contact me urgently because I feel at risk and not safe. I am sharing this anonymously.",urgent_human_review,family_issue,custom_seed_sample,True
+custom_normal_147,The lab instructions were easy to follow and I finished on time.,normal,financial_pressure,custom_seed_sample,True
+custom_normal_111,"After class, I am doing okay this week and keeping up with classes. Please.",normal,project_deadline,custom_seed_sample,True
+custom_urgent_human_review_071,"This week, I feel kind of in danger from myself and need a counselor or trusted adult now. I hope the university can support students.",urgent_human_review,advisor_feedback,custom_seed_sample,True
+custom_urgent_human_review_074,I might hurt myself if I stay alone and I need urgent support. Can someone guide me?,urgent_human_review,group_work,custom_seed_sample,True
+custom_emotional_distress_042,"After class, I feel like I am disappointing everyone and I cannot handle it.",emotional_distress,project_deadline,custom_seed_sample,True
+custom_academic_stress_025,"This week, I feel really nervous before every lab evaluation and my heart races. This has affected my attendance.",academic_stress,advisor_feedback,custom_seed_sample,True
+custom_emotional_distress_143,"Honestly, Even simple tasks feel heavy and I cannot focus in lectures.",emotional_distress,sleep,custom_seed_sample,True
+custom_normal_071,"After class, The quiz feedback helped me know what to improve. I wrote this in the feedback form.",normal,financial_pressure,custom_seed_sample,True
+custom_emotional_distress_091,"Today, My mood has been low for weeks and my grades are dropping.",emotional_distress,sleep,custom_seed_sample,True
+custom_academic_stress_002,"Today, Group work is stressful because I am carrying most of the tasks.",academic_stress,project_deadline,custom_seed_sample,True
+custom_academic_stress_091,"During the semester, My sleep is getting worse because I keep thinking about grades.",academic_stress,financial_pressure,custom_seed_sample,True
+custom_academic_stress_084,"During the semester, I have two exams and three assignments this week and I feel overwhelmed.",academic_stress,family_issue,custom_seed_sample,True
+custom_normal_061,"Honestly, The assignment deadline is reasonable and I understand the topic. I am sharing this anonymously.",normal,project_deadline,custom_seed_sample,True
+custom_academic_stress_160,"Today, I keep postponing tasks and then panic when the deadline is near.",academic_stress,group_work,custom_seed_sample,True
+custom_emotional_distress_037,"Lately, I feel sad most days and I have lost interest in studying. This has affected my attendance.",emotional_distress,general,custom_seed_sample,True
+custom_urgent_human_review_155,"This week, This is an emergency for me and Personally, I need human help immediately.",urgent_human_review,advisor_feedback,custom_seed_sample,True
+custom_normal_063,I am doing okay this week and keeping up with classes. This has affected my attendance. Thank you.,normal,advisor_feedback,custom_seed_sample,True
+custom_urgent_human_review_088,I cannot promise I will be okay tonight without immediate help.,urgent_human_review,family_issue,custom_seed_sample,True
+custom_normal_075,The quiz feedback helped me know what to improve. I wrote this in the feedback form.,normal,general,custom_seed_sample,True
+custom_normal_165,"After class, My schedule feels balanced and I can manage my work.",normal,financial_pressure,custom_seed_sample,True
+custom_academic_stress_083,"Lately, I am exhausted from studying late every night for exams.",academic_stress,project_deadline,custom_seed_sample,True
+custom_academic_stress_151,"After class, Group work is stressful because I am carrying most of the tasks. I hope the university can support students.",academic_stress,sleep,custom_seed_sample,True
+custom_emotional_distress_077,"This week, I keep crying at night and I feel kind of emotionally drained.",emotional_distress,advisor_feedback,custom_seed_sample,True
+custom_academic_stress_103,"After class, I cannot stop worrying about the final project deadline. Can someone guide me?",academic_stress,advisor_feedback,custom_seed_sample,True
+custom_emotional_distress_104,"After class, I feel sad most days and I have lost interest in studying.",emotional_distress,financial_pressure,custom_seed_sample,True
+custom_normal_077,"During the semester, The course materials are organized and helpful.",normal,general,custom_seed_sample,True
+custom_emotional_distress_118,"Lately, Even simple tasks feel heavy and I cannot focus in lectures.",emotional_distress,sleep,custom_seed_sample,True
+custom_academic_stress_121,"Today, As a student, I keep postponing tasks and then panic when the deadline is near. I wrote this in the feedback form.",academic_stress,group_work,custom_seed_sample,True
+custom_academic_stress_079,"This week, I feel nervous before every lab evaluation and my heart races. This has affected my attendance.!",academic_stress,advisor_feedback,custom_seed_sample,True
+custom_academic_stress_008,"Today, The workload is too much and I do not know where to start. Thank you.",academic_stress,exam_week,custom_seed_sample,True
+custom_normal_113,"Lately, The lab instructions were easy to follow and I finished on time.",normal,sleep,custom_seed_sample,True
+custom_academic_stress_009,"This week, I am exhausted from studying late every night for exams. Can someone guide me?",academic_stress,general,custom_seed_sample,True
+custom_urgent_human_review_039,"This week, I do not feel safe tonight and I need immediate help from someone.",urgent_human_review,exam_week,custom_seed_sample,True
+custom_emotional_distress_024,"During the semester, I feel sad most days and I have lost interest in studying.",emotional_distress,financial_pressure,custom_seed_sample,True
+custom_normal_133,"Lately, I am doing okay this week and keeping up with classes. I am sharing this anonymously.",normal,financial_pressure,custom_seed_sample,True
+custom_urgent_human_review_079,"Honestly, Personally, I do not feel safe tonight and I need immediate help from someone. I wrote this in the feedback form.",urgent_human_review,financial_pressure,custom_seed_sample,True
+custom_normal_088,"After class, My schedule feels balanced and I can manage my work....",normal,project_deadline,custom_seed_sample,True
+custom_normal_122,"Honestly, My schedule feels balanced and I can manage my work.",normal,exam_week,custom_seed_sample,True
+custom_normal_124,"Honestly, My schedule feels balanced and I can manage my work.",normal,project_deadline,custom_seed_sample,True
+custom_urgent_human_review_073,"Honestly, Personally, I do not feel very safe tonight and I need immediate help from someone.",urgent_human_review,financial_pressure,custom_seed_sample,True
+custom_academic_stress_042,"Lately, The workload is too much and I do not know where to start. This has affected my attendance.",academic_stress,sleep,custom_seed_sample,True
+custom_urgent_human_review_068,"After class, I feel like I may lose control and I need urgent human review.",urgent_human_review,advisor_feedback,custom_seed_sample,True
+custom_normal_058,"This week, I attended the lecture today and the examples were clear.",normal,sleep,custom_seed_sample,True
+custom_normal_094,I am doing okay this week and keeping up with classes. I am sharing this anonymously....,normal,group_work,custom_seed_sample,True
+custom_urgent_human_review_094,"Today, I do not feel extremely safe tonight and I need immediate help from someone.",urgent_human_review,sleep,custom_seed_sample,True
+custom_normal_024,"During the semester, The quiz feedback helped me know what to improve. Thank you.",normal,sleep,custom_seed_sample,True
+custom_normal_034,"Today, I enjoyed the practical task and learned a new skill. Can someone guide me?",normal,sleep,custom_seed_sample,True
+custom_academic_stress_017,"Honestly, I keep postponing tasks and then panic when the deadline is near.",academic_stress,group_work,custom_seed_sample,True
+custom_academic_stress_077,"After class, I cannot stop worrying about the final project deadline. I hope the university can support students....",academic_stress,general,custom_seed_sample,True
+custom_academic_stress_110,"During the semester, I feel nervous before every lab evaluation and my heart races.",academic_stress,group_work,custom_seed_sample,True
+custom_academic_stress_044,"Lately, I cannot stop worrying about the final project deadline. I wrote this in the feedback form.",academic_stress,general,custom_seed_sample,True
+custom_academic_stress_179,"Lately, I have two exams and three assignments this week and I feel really overwhelmed.!",academic_stress,family_issue,custom_seed_sample,True
+custom_emotional_distress_096,"Lately, I do not enjoy activities that used to make me happy.",emotional_distress,financial_pressure,custom_seed_sample,True
+custom_normal_106,"After class, Personally, I enjoyed the practical task and learned a new skill. This has affected my attendance....",normal,financial_pressure,custom_seed_sample,True
+custom_emotional_distress_177,"This week, I feel very empty and tired all the time even after resting.",emotional_distress,group_work,custom_seed_sample,True
+custom_urgent_human_review_139,"Lately, As a student, I might hurt myself if I stay alone and I need urgent support. This has affected my attendance.",urgent_human_review,group_work,custom_seed_sample,True
+custom_emotional_distress_061,"Today, Even simple tasks feel heavy and As a student, I cannot focus in lectures. Please.",emotional_distress,family_issue,custom_seed_sample,True
+custom_urgent_human_review_158,"Today, I might hurt myself if I stay alone and I need urgent support.",urgent_human_review,exam_week,custom_seed_sample,True
+custom_normal_069,"Today, The course materials are organized and helpful.",normal,family_issue,custom_seed_sample,True
+custom_normal_008,"During the semester, The course materials are organized and helpful.",normal,project_deadline,custom_seed_sample,True
+custom_normal_010,"Honestly, I feel motivated after the review session this week. I am sharing this anonymously.",normal,general,custom_seed_sample,True
+custom_urgent_human_review_020,"This week, I am scared of what I may do to myself and I need a person now. I wrote this in the feedback form.",urgent_human_review,general,custom_seed_sample,True
+custom_academic_stress_140,"Honestly, I am afraid I will fail even though I study every day.",academic_stress,general,custom_seed_sample,True
+custom_academic_stress_004,I keep postponing tasks and then panic when the deadline is near.,academic_stress,general,custom_seed_sample,True
+custom_academic_stress_165,"Lately, My sleep is getting worse because Personally, I keep thinking about grades.!",academic_stress,financial_pressure,custom_seed_sample,True
+custom_emotional_distress_172,"During the semester, I do not enjoy activities that used to make me happy. I hope the university can support students.",emotional_distress,project_deadline,custom_seed_sample,True
+custom_academic_stress_019,I cannot stop worrying about the final project deadline. I wrote this in the feedback form.,academic_stress,advisor_feedback,custom_seed_sample,True
+custom_urgent_human_review_062,"This week, I might hurt myself if I stay alone and I need urgent support.",urgent_human_review,advisor_feedback,custom_seed_sample,True
+custom_academic_stress_067,"Lately, The workload is too much and I do not know where to start.",academic_stress,advisor_feedback,custom_seed_sample,True
+custom_emotional_distress_112,"Honestly, I am isolating myself and I do not want to talk to anyone.",emotional_distress,project_deadline,custom_seed_sample,True
+custom_emotional_distress_040,"Today, I feel empty and tired all the time even after resting. Thank you.",emotional_distress,exam_week,custom_seed_sample,True
+custom_urgent_human_review_058,"This week, Please contact me urgently because I feel extremely at risk and not safe. I wrote this in the feedback form.",urgent_human_review,financial_pressure,custom_seed_sample,True
+custom_urgent_human_review_130,"This is an emergency for me and Personally, I need human help immediately. I hope the university can support students.",urgent_human_review,group_work,custom_seed_sample,True
+custom_academic_stress_081,"Lately, As a student, I am afraid I will fail even though I study every day. This has affected my attendance. Thank you.",academic_stress,financial_pressure,custom_seed_sample,True
+custom_normal_100,"During the semester, The lab instructions were easy to follow and I finished on time. This has affected my attendance.",normal,exam_week,custom_seed_sample,True
+custom_academic_stress_093,"After class, I am exhausted from studying late every night for exams.",academic_stress,project_deadline,custom_seed_sample,True
+custom_academic_stress_096,"Today, I keep postponing tasks and then panic when the deadline is near.",academic_stress,sleep,custom_seed_sample,True
+custom_academic_stress_163,I have two exams and three assignments this week and I feel overwhelmed.,academic_stress,financial_pressure,custom_seed_sample,True
+custom_academic_stress_099,"Today, My sleep is getting worse because Personally, I keep thinking about grades. This has affected my attendance.",academic_stress,sleep,custom_seed_sample,True
+custom_urgent_human_review_127,"This week, I cannot promise I will be okay tonight without immediate help.",urgent_human_review,advisor_feedback,custom_seed_sample,True
+custom_urgent_human_review_085,"Today, I feel in danger from myself and need a counselor or trusted adult now. I hope the university can support students.",urgent_human_review,sleep,custom_seed_sample,True
+custom_emotional_distress_082,I feel empty and tired all the time even after resting. Can someone guide me?,emotional_distress,family_issue,custom_seed_sample,True
+custom_emotional_distress_002,"After class, Personally, I feel empty and tired all the time even after resting.",emotional_distress,financial_pressure,custom_seed_sample,True
+custom_urgent_human_review_112,I am not safe being alone and I need someone to reach out now.,urgent_human_review,financial_pressure,custom_seed_sample,True
+custom_urgent_human_review_004,"Today, I need emergency support because I am afraid I may harm myself. Please.",urgent_human_review,general,custom_seed_sample,True
+custom_normal_099,"Lately, My schedule feels balanced and I can manage my work.",normal,sleep,custom_seed_sample,True
+custom_normal_042,"After class, My schedule feels balanced and I can manage my work. Can someone guide me?",normal,general,custom_seed_sample,True
+custom_urgent_human_review_002,"After class, I need emergency support because I am afraid I may harm myself. I am sharing this anonymously.",urgent_human_review,advisor_feedback,custom_seed_sample,True
+custom_academic_stress_143,"Lately, I am exhausted from studying late every night for exams. Can someone guide me?",academic_stress,financial_pressure,custom_seed_sample,True
+custom_urgent_human_review_154,"This week, Please contact me urgently because I feel at risk and not safe. Can someone guide me?",urgent_human_review,general,custom_seed_sample,True
+custom_emotional_distress_031,"Honestly, I am isolating myself and I do not want to talk to anyone.",emotional_distress,sleep,custom_seed_sample,True
+custom_emotional_distress_099,"After class, I feel really empty and tired all the time even after resting....",emotional_distress,project_deadline,custom_seed_sample,True
+custom_academic_stress_115,"After class, I have two exams and three assignments this week and I feel very overwhelmed. This has affected my attendance.",academic_stress,financial_pressure,custom_seed_sample,True
+custom_normal_012,"During the semester, I feel motivated after the review session this week.",normal,advisor_feedback,custom_seed_sample,True
+custom_emotional_distress_085,"Lately, I do not enjoy activities that used to make me happy. Can someone guide me?",emotional_distress,financial_pressure,custom_seed_sample,True
+custom_urgent_human_review_003,"Today, I do not feel safe tonight and I need immediate help from someone.",urgent_human_review,family_issue,custom_seed_sample,True
+custom_normal_148,I enjoyed the practical task and learned a new skill. Please.,normal,general,custom_seed_sample,True
+custom_academic_stress_088,"Honestly, I keep postponing tasks and then panic when the deadline is near. I hope the university can support students.",academic_stress,general,custom_seed_sample,True
+custom_emotional_distress_125,I feel extremely like I am disappointing everyone and I cannot handle it. I wrote this in the feedback form.,emotional_distress,sleep,custom_seed_sample,True
+custom_emotional_distress_039,"Lately, Even simple tasks feel very heavy and I cannot focus in lectures. Please.",emotional_distress,financial_pressure,custom_seed_sample,True
+custom_urgent_human_review_159,"After class, I am scared of what I may do to myself and I need a person now. I hope the university can support students.",urgent_human_review,sleep,custom_seed_sample,True
+custom_emotional_distress_028,"This week, My mood has been low for weeks and my grades are dropping. This has affected my attendance. Thank you.",emotional_distress,exam_week,custom_seed_sample,True
+custom_academic_stress_059,"After class, Group work is stressful because I am carrying most of the tasks. This has affected my attendance.",academic_stress,group_work,custom_seed_sample,True
+custom_urgent_human_review_005,"After class, I feel in danger from myself and need a counselor or trusted adult now. I hope the university can support students.!",urgent_human_review,group_work,custom_seed_sample,True
+custom_urgent_human_review_171,"During the semester, I feel like I may lose control and I need urgent human review.",urgent_human_review,exam_week,custom_seed_sample,True
+custom_academic_stress_128,"During the semester, I cannot stop worrying about the final project deadline. Please.",academic_stress,family_issue,custom_seed_sample,True
+custom_emotional_distress_127,"Today, Even simple tasks feel heavy and I cannot focus in lectures.",emotional_distress,financial_pressure,custom_seed_sample,True
+custom_emotional_distress_048,"Today, I need someone to check on me because I feel very alone.",emotional_distress,advisor_feedback,custom_seed_sample,True
+custom_emotional_distress_115,"Lately, I need someone to check on me because I feel very alone.",emotional_distress,financial_pressure,custom_seed_sample,True
+custom_normal_171,"Honestly, The course materials are organized and helpful. Please.",normal,project_deadline,custom_seed_sample,True
+custom_normal_053,"Lately, The quiz feedback helped me know what to improve. Can someone guide me?",normal,financial_pressure,custom_seed_sample,True
+custom_normal_118,"After class, My schedule feels balanced and I can manage my work.",normal,family_issue,custom_seed_sample,True
+custom_academic_stress_090,"Lately, I keep postponing tasks and then panic when the deadline is near. This has affected my attendance.",academic_stress,group_work,custom_seed_sample,True
+custom_urgent_human_review_117,"During the semester, I am scared of what I may do to myself and I need a person now. I am sharing this anonymously.",urgent_human_review,advisor_feedback,custom_seed_sample,True
+custom_normal_055,"Today, The assignment deadline is reasonable and I understand the topic. Can someone guide me?",normal,advisor_feedback,custom_seed_sample,True

@@ -1,0 +1,4 @@
+split,rows,unique_labels
+train,12000,4
+validation,6000,4
+test,12000,4

@@ -1,0 +1,5 @@
+,normal,academic_stress,emotional_distress,urgent_human_review
+normal,2400,0,0,0
+academic_stress,0,1800,0,0
+emotional_distress,0,0,1200,0
+urgent_human_review,0,0,0,600
